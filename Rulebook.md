@@ -31,7 +31,7 @@ Let's now delve into some concrete rules that will help shape your adventures.
 
 ## <a name="SS-rolling"></a>Rolling the dice
 
-All rolls are made with a twelve faced dice.\
+All rolls are made with a twelve faced dice (**d12**).\
 Normally a character rolls a certain amount of dice (the dice pool) and looks for successes and matches.
 
 A **success** is a dice roll equal or greater than 9.
