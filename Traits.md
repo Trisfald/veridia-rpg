@@ -631,7 +631,7 @@ Six months | five days
 ### Mystic shot
 ##### *Requirements: grey magic 4*
 ##### Cost: 5 experience points
-Spend two or three points of mana and take an action.\ 
+Spend two or three points of mana and take an action.\
 Fire a bolt of energy at up to 45 meters of distance. Roll *intuition + marksmanship*. Deals armor piercing damage equal to two plus the number of successes. The three point version ignores one additional point of armor per match. Can be dodged or blocked.
 
 ### Meteor swarm
@@ -901,7 +901,7 @@ Lasts one hour or until the barrier is depleted.
 ##### *Requirements: silver magic 5*
 ##### Cost: 5 experience points
 Spend two points of mana.\
-Select a willing target and roll *intuition + arcana*. The incantation takes ten minutes. You give the target a number of points of a skill of your choice up to a maximum equal to the successes; the target's resulting skill score can't be higher than yours.\ 
+Select a willing target and roll *intuition + arcana*. The incantation takes ten minutes. You give the target a number of points of a skill of your choice up to a maximum equal to the successes; the target's resulting skill score can't be higher than yours.\
 Lasts one week.
 
 ## <a name="SS-natural"></a>Natural magic traits
