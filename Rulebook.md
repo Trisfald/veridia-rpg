@@ -43,6 +43,7 @@ Successes give a measure of the action's favorable outcome while matches indicat
 A roll without successes and with a match of 1's is a **critical failure**. A negative event could befall the player, at the discretion of the game master. Examples of critical failures effects are presented throughout these guidelines.
 
 For example, given a dice pool of size 5, some possible outcomes are:
+
 Dice rolled | Outcome
 ----------- | -------------
 7, 1, 4, 6, 11 | 1 success, no matches
