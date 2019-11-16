@@ -1,4 +1,4 @@
-﻿# <a name="main"></a>Traits
+# <a name="main"></a>Traits
 
 Traits are an important way to customize your character. Many traits have a list of requisites that must be fulfilled before acquiring it. In addition, there is a cost in experience points to purchase a trait.
 
@@ -621,6 +621,7 @@ You are able to infuse objects with the effect of lasting spells from the first 
 For the purpose of determining the spell's effect all rolls have one success and the caster's branch level is assumed to be one.\
 The days of work needed to perform the enchantment is: spell's cost in mana * 20\
 Instead, the days of work needed to reinforce the enchant are:
+
 Time since last reinforcement | Days of work
 ----------------------------- | ------------
 One month | half a day
@@ -972,6 +973,7 @@ Lasts one hour or until the barrier is depleted.
 ##### Cost: 6 experience points
 Spend two points of mana and take an action.\
 You can dominate the mind of a wild beast up to 15 meters of distance. Roll *intuition + arcana*. Subtract the target's willpower to the number of successes and refer to the following table:
+
 Successes | Effect
 :--------:| ----------
 1 | can give orders to the creature, as long as they won't put it in danger
@@ -986,7 +988,7 @@ Lasts two hours.
 ##### Cost: 3 experience points
 Spend one point of mana and take an action.\
 Select a target at a maximum distance of 12 meters and roll *intuition + arcana*. On success, deals one point of damage that goes through armor and barriers. You recover one point of health if any damage was dealt. Can be dodged or blocked.\
-Ignore magical healing's limitations.\
+Ignore magical healing's limitations.
 
 ### Curse
 ##### *Requirements: black magic 2*
@@ -1304,6 +1306,7 @@ Roll *way of the psychic + marksmanship*. You hit a target at a maximum distance
 ##### Cost: 3 experience points
 Spend one point of fervor and take an action.\
 You can move and/or levitate physical objects without touching them. Roll *way of the psychic + integrity* and refer to the following table to see how much weight you can move around.
+
 Successes | Weight (kg)
 :--------:|:---------:
 1 | 15
@@ -1404,7 +1407,7 @@ Rise of the phoenix activates on death as long as you have the necessary points 
 ##### *Requirements: way of the wilderness 1, revitalize*
 ##### Cost: 2 experience points
 You know how to create a shield from the wood of the ancient trees in Eventide. The process takes two days.\
-This shield is much lighter than a normal one./
+This shield is much lighter than a normal one.\
 Blessed wood rots in a couple of days if it's not in your possession.
 
 ### Inward contact
@@ -1598,6 +1601,7 @@ The venom's penalties stack and last for five turns.
 ##### *Requirements: myth path 3*
 ##### Cost: 4 experience points
 Spend two points of focus. You will meditate for an entire night, to ask the otherworldly entities for advice. The game master will roll your *myth path + occult* in secret and then give you an answer based on the following table:
+
 Successes | Answer
 :--------:| ----------
 0 | random information
