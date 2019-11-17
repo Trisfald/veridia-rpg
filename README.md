@@ -6,20 +6,35 @@ The next step saw a change in the medium, going from a videogame to a book. The 
 
 The Veridia Tabletop RPG is born to give people the possibility to leverage Veridia's lore in order to create and experience their own adventures. Reading the setting manual or having played the videogame is not strictly required to start an adventure, but it'll greatly enhance the campaign, so give it a try! 
 
-Characteristics:
-- detailed fantasy setting (late medieval, low to mid magic)
-- one roll per character's turn is enough
-- combat can be deadly
-- classless, leveless system
-- balanced focus on combat and social interactions
+## Characteristics:
+- ### Detailed fantasy setting (late medieval, low to mid magic)
+    Veridia is a world resembling our own during the Middle Ages.\
+    Magic is neither common nor too rare: it doesn't impact the ordinary life of common people, but it definitely influences the balance of power.\
+    Veridia is composed of many regions, each one having its own peculiarities. There are powerful city states, large kingdoms, unexplored lands and more.
+- ### One roll per character's turn is enough
+    A character never has to roll the dice more than once per turn. This speeds up play considerably. 
+- ### Combat can be deadly
+    Even if your character is an experienced figher any battle can be dangerous!\
+    By using a fixed amount of health points, there's always the risk to receive a long lasting injury from a small foe's lucky hit.
+- ### Classless, leveless system
+    Characters progress by freely acquiring traits and increasing their abilities and skills. They are not constrained to a certain class or archetype.
+- ### Balanced focus on combat and social interactions
+    There's an equal amount of attributes and skills for both combat situations and social interactions. Your character can progress either as a fighter or as a pacifist.
 
+## Project structure
 
 The project is divided in the following parts:
 
-* [Rulebook](Rulebook.md): contains the game main rules.
-* [Traits](Traits.md): compendium of characters' abilities and backgrounds.
-* [Prices and wages](Prices_and_wages.md): lists the prices of common items and jobs' remuneration.
-* [Creatures](Creatures.md): description of typical encounters.
+* [Rulebook](Rulebook): contains the game main rules.
+* [Traits](Traits): compendium of characters' abilities and backgrounds.
+* [Prices and wages](Prices_and_wages): lists the prices of common items and jobs' remuneration.
+* [Creatures](Creatures): description of typical encounters.
+
+A few additional resources:
+
+* [Lore book](Lore-book.pdf): the original lore book for [Veridia Tactics](https://trisfald.itch.io/veridia-tactics), the game thats inspired this tabletop RPG.
+* [Character sheet](Character_sheet_ascii.txt): a character sheet in ascii.
+
 
 ---
 
