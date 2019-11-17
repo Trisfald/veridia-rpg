@@ -21,6 +21,6 @@ The project is divided in the following parts:
 * [Prices and wages](Prices_and_wages.md): lists the prices of common items and jobs' remuneration.
 * [Creatures](Creatures.md): description of typical encounters.
 
---
+---
 
 Copying, use, modification, and creation of derivative works from this project is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) license. See the accompanying [LICENSE](LICENSE) file for details.
