@@ -1164,7 +1164,7 @@ The cloud does not move and lasts for five turns.
 ##### *Requisites: way of the mage 3*
 ##### Cost: 5 experience points
 Spend from one to four points of fervor and take an action.\
-Roll *way of the mage + melee*. You shot small projectiles made of ice to a number of opponents equal to the fervor spent. Each projectile deals damage equal to the successes. For each match you can convert up to two point of damage to elemental. Can be dodged or blocked.
+Roll *way of the mage + integrity*. You shot small projectiles made of ice to a number of opponents equal to the fervor spent. Each projectile deals damage equal to the successes. For each match you can convert up to two point of damage to elemental. Can be dodged or blocked.
 
 ### Flow boost
 ##### *Requisites: way of the mage 3*
@@ -1291,9 +1291,16 @@ Add your way of the psychic's level as an advantage to all your perception rolls
 ### Telepathy 
 ##### *Requisites: way of the psychic 1*
 ##### Cost: 2 experience points
-Spend one point of fervor.\
+Spend one point of fervor and take an action.\
 You can speak to the mind of another person. If you are familiar with the target the maximum distance is 10 kilometers, while if you don't know him visual contact is needed.\
 Lasts one minute.
+
+### Complete awareness
+##### *Requisites: way of the psychic 2*
+##### Cost: 3 experience points
+Spend one or two points of fervor and take an action.\
+You become aware of all objects and creatures of perceptible size around you in a radius of nine meters.\
+Spending the additional point of fervor doubles the range.
 
 ### Psychic blast
 ##### *Requisites: way of the psychic 2*
@@ -1315,9 +1322,22 @@ Successes | Weight (kg)
 4 | 120
 5+ | 240
 
+### Beyond the veil
+##### *Requisites: way of the psychic 3*
+##### Cost: 4 experience points
+Spend one point of fervor and take an action.\
+You are able to analyze the behavior of a creature. Roll *way of the psychic*. For each success pick one of the following pairs: you will know which of the two word is closer to the truth.\
+Lasts five minutes.
+
+* Honesty or deceitfulness.
+* Calmness or anxiety.
+* Happiness or despair.
+* Kindness or hostility.
+* Curiosity or indifference.
+
 ### Psy-field
 ##### *Requisites: way of the psychic 3*
-##### Cost: 6 experience points
+##### Cost: 5 experience points
 Spend two points of fervor and take a free action.\
 All attacks made against you suffer a disadvantage equal to half your way of the psychic's level (rounded up). You can parry or block any kind of attack.\
 Lasts one hour.
@@ -1332,7 +1352,7 @@ Roll *way of the psychic + integrity*. For each success you increase the difficu
 ##### *Requisites: way of the psychic 4*
 ##### Cost: 6 experience points
 Spend one point of fervor and take a free action.\
-You crush your target's vital points with an immaterial touch. Deals one point of damage that goes through armor and barriers. Can be dodged.
+You crush your target's vital points with an immaterial touch. Deals two points of damage that go through armor and barriers. The target must be in your field of vision. Can be dodged (roll against two successes).
 
 ### Levitation
 ##### *Requisites: way of the psychic 5*
