@@ -6,7 +6,7 @@ The next step saw a change in the medium, going from a videogame to a book. The 
 
 The Veridia Tabletop RPG is born to give people the possibility to leverage Veridia's lore in order to create and experience their own adventures. Reading the setting manual or having played the videogame is not strictly required to start an adventure, but it'll greatly enhance the campaign, so give it a try! 
 
-## Characteristics:
+## Characteristics
 - ### Detailed fantasy setting (late medieval, low to mid magic)
     Veridia is a world resembling our own during the Middle Ages.\
     Magic is neither common nor too rare: it doesn't impact the ordinary life of common people, but it definitely influences the balance of power.\
