@@ -31,16 +31,17 @@ Let's now delve into some concrete rules that will help shape your adventures.
 
 ## <a name="SS-rolling"></a>Rolling the dice
 
-All rolls are made with a twelve faced dice (**d12**).\
-Normally a character rolls a certain amount of dice (the dice pool) and looks for successes and matches.
+All rolls are made with multiple **d12**.\
+A character rolls a certain amount of dice (the dice pool) and looks for successes and matches.
 
 A **success** is a dice roll equal or greater than 9.
 
 A **match** consists of at least two successes having the same dice roll. Only one combination is considered, that is the one with more repetitions and then the one with the highest rolled number.
 
-Successes give a measure of the action's favorable outcome while matches indicate the presence of possible side effects.
+Successes give a measure of the action's favorable outcome while matches indicate the presence of possible side effects. Matches are used in many trait abilities.
 
-A roll without successes and with a match of 1's is a **critical failure**. A negative event could befall the player, at the discretion of the game master. Examples of critical failures effects are presented throughout these guidelines.
+A roll without successes and with a match of 1's is a **critical failure**. A negative event could befall the player, at the discretion of the game master. Examples of critical failures effects are presented throughout these guidelines.\
+In the case you only have one dice in the pool and get a 1, that's a critical failure as well!
 
 For example, given a dice pool of size 5, some possible outcomes are:
 
@@ -54,11 +55,14 @@ Dice rolled | Outcome
 
 ### Advantages and disadvantages
 
-Depending on the circumstances, a character can be granted additional dice or can have his dice pool reduced. If the pool's size reaches zero the roll is automatically failed.
+A character can be granted additional dice or can have his dice pool reduced. If the pool's size reaches zero the roll is automatically failed.
+
+A character has an advantage when favourable circumstances make him *better* at what he's doing.\
+On the contrary, he has a disadvantage when something or someone hinders him.
 
 ### Difficulty level
 
-Difficult actions may require more than one success to be carried out favorably. This is conceptually different from subtracting a dice from a dice pool. Demanding more successes reflects how hard the feat is objectively, reducing the pool instead simulates a disadvantage suffered by the character.
+Difficult actions may require more than one success to be carried out favorably. This is conceptually different from subtracting a dice from a dice pool. Demanding more or less successes reflects how hard the feat is objectively.
 
 An action with +1 difficulty *eats* the success with the lowest rolled number for the purpose of deciding matches and counting successes.
 
@@ -89,6 +93,15 @@ A character's turn begin when he performs his first action, which could be:
 * a free action
 * the first of multiple concurrent actions
 
+In each turn a character can perform a maximum of:
+
+* one free action
+* one among those:
+  * one additional free action
+  * one contested action
+  * one normal action
+  * two or more concurrent actions
+
 The turn ends with the character's last action.
 
 Durations are often expressed in character's turns. A duration of *n* turns expires at the beginning of the *n + 1* turn of the character.\
@@ -107,7 +120,7 @@ To first step is to determine which of their dice pools is the smallest, taking 
 
 ###### Example
     
-> Suppose a player wants to roll strength (4) + melee (3) and agility (3) + athletics (2).\
+> Suppose a player wants to attack with a sword (*strength (4) + melee (3)*) while running (*agility (3) + athletics (2)*).\
 > The dice pool would be the smallest of the two (5).\
 > Now subtract 1 because he's doing two things at the same time.\
 > He's left with a dice pool equal to 4, which he can split as he wants.
@@ -601,21 +614,20 @@ All equipment currently held or deposited somewhere. Also, all other possessions
 
 # <a name="S-character_creation"></a>Character creation
 
-Making a new character is demanding task, at times complicated, especially for people new to the game. However, it's also the first step into a campaign and it can be a very enjoyable process if done with the right mindset. 
-
-We advice to follow these guidelines:
-
-1) ##### Create a character concept
+1) #### Create a character concept
 
 Try to flesh out the character concept as well as possible. It doesn't have to be absolutely complete, but more you know about it the easier will be completing the creation process.
 
-2) ##### Fill out the racial minimum attributes
+The best resource to get yourself familiar with all kind of possible character concepts in Veridia is the [official setting book](https://books2read.com/b/mY1OaV?edit=maybe-later&store=null).\
+Alternatively, you can read the [lore book](Lore-book.pdf) for the videogame that inspired this tabletop RPG. 
 
-The vast majority of the characters will start with one in each attribute. Check your race bonuses and update the attributes accordingly.
+1) #### Fill out the racial minimum attributes
 
-3) ##### Spend experience to increase attributes, skills, specialties and to purchase traits
+The vast majority of the characters will start with one in each attribute. Check your [race bonuses](#S-racial_bonuses) and update the attributes accordingly.
 
-Use the free experience to define your character proficiencies and abilities. Try to assign points to shape your alter ego as closely as possible to the initial concept.
+3) #### Spend experience to increase attributes, skills and specialties
+
+Use the free experience points to define your character proficiencies and abilities.
 
 Indicative starting experience points for building a new character:
 
@@ -627,11 +639,17 @@ Veteran | 350
 
 See the [Experience expenditure table](#S-experience) to known how much does a new point cost.
 
-4) ##### Use the starting money to purchase equipment and assets
+1) #### Spend experience to acquire background and traits:
+
+If you desire so, add one [background](Traits.md#S-background) and one or more starting [traits](Traits.md) to your character.
+
+1) #### Use the starting money to purchase equipment:
 
 The amount of starting money is the sum of: 
 * your background's starting money
-* any additional starting money given by traits
+* any additional starting money given by traits (it can be also negative!)
+
+You can find the full list of purchasable items and their cost in [Prices and wages](Prices_and_wages.md).
 
 # <a name="S-combat"></a>Combat
 
