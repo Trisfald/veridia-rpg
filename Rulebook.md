@@ -754,11 +754,11 @@ Normally, a grapple doesn't end until the attacker let go or the defender breaks
 
 ## <a name="SS-range"></a>Fighting at range
 
-### Effective and maximum range
+### Optimal and maximum range
 
-As you can see in [Appendix D: Weapons table](#S-weapons), each missile weapon has an **effective range**, in other words the distance at which it can hit a human sized target with good precision.
+As you can see in [Appendix D: Weapons table](#S-weapons), each missile weapon has an **optimal range**, in other words the distance at which it can hit a human sized target with good precision.
 
-It's possible to try hitting a target farther away. For every five meters over the effective range the attacker has a disadvantage of one dice. The **maximum range** is thus the distance obtained by taking the disadvantage that would leave only one dice in the pool.
+It's possible to try hitting a target farther away. For every six meters over the optimal range the attacker has a disadvantage of one dice. The **maximum range** is thus the distance obtained by taking the disadvantage that would leave only one dice in the pool.
 
 ### Ammunition
 
@@ -985,17 +985,17 @@ Unharmed | 0 | barehanded
 
 Weapon | Optimal range (meters) | Damage | Quirks
 ------ |:----------------------:|:------:| -----
-Bow | 50 | 2 | drawn, two-handed
-Chain crossbow | 20 | 1 | loaded (3, 3), two-handed
-Crossbow | 40 | 2 | armor piercing, loaded (1, 2), two-handed
-Gun-sword (pistol) | 20 | 2 | dual mode, loaded (2, 1), magitech
-Hand crossbow | 20 | 1 | loaded (1, 2)
-Javelin | 15 | 2 | disposable
-Magi-pistol | 30 | 2 | loaded (2, 1), magitech
+Bow | 60 | 2 | drawn, two-handed
+Chain crossbow | 36 | 1 | loaded (3, 3), two-handed
+Crossbow | 54 | 2 | armor piercing, loaded (1, 2), two-handed
+Gun-sword (pistol) | 60 | 2 | dual mode, loaded (2, 1), magitech
+Hand crossbow | 36 | 1 | loaded (1, 2)
+Javelin | 21 | 2 | disposable, multipurpose
+Magi-pistol | 45 | 2 | loaded (2, 1), magitech
 Magi-rifle | 60 | 3 | loaded (3, 1), magitech, two-handed
-Sling | 40 | 0 | armor piercing, drawn, two-handed
-Throwing axe | 10 | 2 | disposable
-Throwing dagger | 10 | 0 | disposable
+Sling | 54 | 0 | armor piercing, drawn, two-handed
+Throwing axe | 12 | 2 | disposable, multipurpose
+Throwing dagger | 12 | 0 | disposable, multipurpose
 
 ### Quirks
 
@@ -1008,6 +1008,7 @@ Throwing dagger | 10 | 0 | disposable
 * **Dual mode**: can switch operating mode, requires one free action
 * **Loaded (*size*, *reload*)**: can attack *size* times, then needs *reload* turns of reloading (roll *agility + mechanics* if used as concurrent action)
 * **Magitech**: powered by crystals, a precious resource
+* **Multipurpose**: can be used as a melee weapon
 * **Nimble**: if the character's agility is higher than his strength, one bonus dice for all rolls involving this weapon
 * **Threatening**: all melee attackers suffer a disadvantage of two dice, doesn't apply if taken by surprise
 * **Two-handed**: requires both hands

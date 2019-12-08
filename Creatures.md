@@ -6,11 +6,293 @@ Here is the list of all creatures divided by archetype.
 
 #### Index:
 
+* [Animated objects](#S-aniobjects)
 * [Beasts](#S-beasts)
 * [Undeads](#S-undeads)
 
 
 * [Appendix A: Creature traits](#S-ctraits)
+
+# <a name="S-aniobjects"></a>Animated objects
+
+* [Animated sword](#SS-anisword)
+* [Bombard](#SS-bombard)
+* [Champion](#SS-champion)
+* [Hollow paladin](#SS-hollowpala)
+* [Maximizer](#SS-maximizer)
+* [Strongarm](#SS-strongarm)
+* [Walker](#SS-walker)
+
+## <a name="SS-anisword"></a>Animated sword
+
+A flying sword with a keen edge.\
+Length: 100 cm\
+Weight: 1.5 kg
+
+* **Summon archetype:** animated object 3
+
+#### Attributes
+
+* **Agility:** 1
+* **Constitution:** 1/4
+* **Reaction:** 1
+* **Strength:** 1
+* **Charisma:** 1/4
+* **Intuition:** 1/4
+* **Perception:** 1
+* **Persuasion:** 1/4
+
+#### Virtues
+
+* **Courage:** 5
+* **Integrity:** 7
+
+#### Skills
+
+* **Melee:** 3
+
+#### Defenses
+
+* **Armor (inner)**: 4
+* **Elemental resist (inner)**: 2
+
+#### Traits
+
+Flying
+
+#### Assets
+
+Sword
+
+## <a name="SS-bombard"></a>Bombard
+
+An armored vehicle mounting a crossbow.\
+Length: 120 cm\
+Weight: 100 kg
+
+* **Summon archetype:** animated object 5
+
+#### Attributes
+
+* **Agility:** 1
+* **Constitution:** 4
+* **Reaction:** 1
+* **Strength:** 2
+* **Charisma:** 1/4
+* **Intuition:** 1/4
+* **Perception:** 1
+* **Persuasion:** 1/4
+
+#### Virtues
+
+* **Courage:** 5
+* **Integrity:** 7
+
+#### Skills
+
+* **Alertness:** 1
+* **Marksmanship:** 5
+
+#### Defenses
+
+* **Armor (inner)**: 2
+* **Elemental resist (inner)**: 1
+
+#### Traits
+
+Automatic
+
+#### Assets
+
+Chain crossbow
+
+## <a name="SS-champion"></a>Champion
+
+A humanoid clay golem having excellent fighting skills.\
+Height: 240 cm\
+Weight: 175 kg
+
+* **Summon archetype:** animated object 7
+
+#### Attributes
+
+* **Agility:** 3
+* **Constitution:** 5
+* **Reaction:** 3
+* **Strength:** 5
+* **Charisma:** 1/4
+* **Intuition:** 1/4
+* **Perception:** 3
+* **Persuasion:** 1/4
+
+#### Virtues
+
+* **Courage:** 5
+* **Integrity:** 7
+
+#### Skills
+
+* **Alertness:** 2
+* **Athletics:** 4
+* **Brawl:** 4
+* **Melee:** 3
+* **Parry:** 3
+* **Throwing:** 4
+
+#### Defenses
+
+* **Armor (inner)**: 2
+* **Elemental resist (inner)**: 1
+
+#### Assets
+
+Javelin (3)
+
+## <a name="SS-hollowpala"></a>Hollow paladin
+
+An empty suit of armor with a will of its own.\
+Height: 180 cm\
+Weight: 25 kg
+
+* **Summon archetype:** animated object 8
+
+#### Attributes
+
+* **Agility:** 2
+* **Constitution:** 2
+* **Reaction:** 3
+* **Strength:** 3
+* **Charisma:** 1/4
+* **Intuition:** 1/4
+* **Perception:** 1
+* **Persuasion:** 1/4
+
+#### Virtues
+
+* **Courage:** 5
+* **Integrity:** 7
+
+#### Skills
+
+* **Alertness:** 1
+* **Brawl:** 2
+* **Melee:** 4
+* **Parry:** 3
+
+#### Defenses
+
+* **Armor (inner)**: 5
+* **Elemental resist (inner)**: 2
+
+#### Assets
+
+Longsword
+
+## <a name="SS-anisword"></a>Maximizer
+
+A prism able to increase the power of spells.\
+Height: 30 cm\
+Weight: 0.5 kg
+
+* **Summon archetype:** animated object 4
+
+#### Attributes
+
+* **Agility:** 2
+* **Constitution:** 1/4
+* **Reaction:** 2
+* **Strength:** 1/4
+* **Charisma:** 1/4
+* **Intuition:** 1/4
+* **Perception:** 2
+* **Persuasion:** 1/4
+
+#### Virtues
+
+* **Courage:** 5
+* **Integrity:** 7
+
+#### Defenses
+
+* **Armor (inner)**: 4
+* **Elemental resist (inner)**: 4
+
+#### Traits
+
+Dormant, flying, maximizing
+
+## <a name="SS-strongarm"></a>Strongarm
+
+A humanoid clay golem who makes physical strength his strong point.\
+Height: 250 cm\
+Weight: 200 kg
+
+* **Summon archetype:** animated object 6
+
+#### Attributes
+
+* **Agility:** 1
+* **Constitution:** 6
+* **Reaction:** 1
+* **Strength:** 5
+* **Charisma:** 1/4
+* **Intuition:** 1/4
+* **Perception:** 2
+* **Persuasion:** 1/4
+
+#### Virtues
+
+* **Courage:** 5
+* **Integrity:** 7
+
+#### Skills
+
+* **Alertness:** 1
+* **Brawl:** 2
+* **Melee:** 2
+* **Parry:** 1
+
+#### Defenses
+
+* **Armor (inner)**: 2
+* **Elemental resist (inner)**: 1
+
+#### Assets
+
+Polearm
+
+## <a name="SS-walker"></a>Walker
+
+A four legged box with a large compartment to carry objects (up to 200 kg).\
+Length: 80 cm\
+Weight: 60 kg
+
+* **Summon archetype:** animated object 2
+
+#### Attributes
+
+* **Agility:** 2
+* **Constitution:** 1/3
+* **Reaction:** 1
+* **Strength:** 4
+* **Charisma:** 1/4
+* **Intuition:** 1/4
+* **Perception:** 1
+* **Persuasion:** 1/4
+
+#### Virtues
+
+* **Courage:** 5
+* **Integrity:** 7
+
+#### Skills
+
+* **Athletics:** 2
+
+#### Defenses
+
+* **Armor (inner)**: 2
+* **Elemental resist (inner)**: 1
 
 # <a name="S-beasts"></a>Beasts
 
@@ -633,7 +915,7 @@ Weight: 500 kg
 * **Athletics:** 2
 * **Brawl:** 4
 
-#### Defense
+#### Defenses
 
 * **Armor (inner)**: 2
 
@@ -704,7 +986,7 @@ Weight: 60 g
 * **Athletics:** 2
 * **Brawl:** 3
 
-#### Defense
+#### Defenses
 
 * **Armor (inner)**: 2
 
@@ -745,7 +1027,7 @@ Weight: 30 kg
 
 * **Mana**: 5
 
-#### Defense
+#### Defenses
 
 * **Armor (inner)**: 2
 * **Elemental resist (inner)**: 2
@@ -787,7 +1069,7 @@ Weight: 15 kg
 * **Melee:** 3
 * **Parry:** 2
 
-#### Defense
+#### Defenses
 
 * **Armor (inner)**: 2
 
@@ -829,7 +1111,7 @@ Weight: 8 kg
 * **Athletics:** 3
 * **Brawl:** 4
 
-#### Defense
+#### Defenses
 
 * **Armor (inner)**: 2
 
@@ -842,8 +1124,18 @@ Natural weapon, undead
 ### Amphibious
 You take no penalties where performing an action underwater.
 
+### Automatic
+You can reload a ranged weapons as a free action.
+
+### Dormant
+This creature can't do any action.
+
 ### Flying
 You can fly. Take flight requires a free action.
+
+### Maximizing
+The creature's summoner can fire a spell at it. The spell will then bounce to the real target, but with enhanced strength. Roll the dice twice and take the best result between the two.\
+After this effect has been triggered the creature disappears.
 
 ### Natural weapon
 Your unharmed attacks deal one extra point of damage.
