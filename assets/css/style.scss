@@ -1,6 +1,8 @@
 ---
 ---
 
+@import "{{ site.theme }}";
+
 div.shell {
  display:block;
  width:700px;
@@ -15,5 +17,3 @@ span.banner-fix {
  width:700px;
  top:19px
 }
-
-@import "{{ site.theme }}";
