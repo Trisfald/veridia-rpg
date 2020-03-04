@@ -14,7 +14,7 @@ The Veridia Tabletop RPG is born to give people the possibility to leverage Veri
 - ### One roll per character's turn is enough
     A character never has to roll the dice more than once per turn. This speeds up play considerably. 
 - ### Combat can be deadly
-    Even if your character is an experienced figher any battle can be dangerous!\
+    Even if your character is an experienced fighter any battle can be dangerous!\
     By using a fixed amount of health points, there's always the risk to receive a long lasting injury from a small foe's lucky hit.
 - ### Classless, leveless system
     Characters progress by freely acquiring traits and increasing their abilities and skills. They are not constrained to a certain class or archetype.
