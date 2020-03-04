@@ -1658,9 +1658,9 @@ Armor bonus, elemental resist bonus, initiative bonus, barriers, advantages and 
 
 ###### Example
     
-    Agility (**2**) + reaction (**2**) + boots of celerity (1) + celerity (**4**) -> total initiative: 8
-    Mail (**3**) + sanguis (**2**) + magic armor (1) -> total armor: 5
-    Strength (**2**) + melee (**2**) + sword specialist (**1**) + sanguis (**2**) + combat reactions (1) + situational advantage (**1**) -> total attack dice pool: 8
+> Agility (**2**) + reaction (**2**) + boots of celerity (1) + celerity (**4**) -> total initiative: 8
+> Mail (**3**) + sanguis (**2**) + magic armor (1) -> total armor: 5
+> Strength (**2**) + melee (**2**) + sword specialist (**1**) + sanguis (**2**) + combat reactions (1) + situational advantage (**1**) -> total attack dice pool: 8
     
 # <a name="S-summons"></a>Appendix B: Summons
 
