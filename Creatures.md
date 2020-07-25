@@ -8,6 +8,7 @@ Here is the list of all creatures divided by archetype.
 
 * [Animated objects](#S-aniobjects)
 * [Beasts](#S-beasts)
+* [Creatures of the unknown](#S-creatures_unknown)
 * [Undeads](#S-undeads)
 
 
@@ -334,8 +335,8 @@ Weight: 200 kg
 
 #### Virtues
 
-* **Courage:** 2
-* **Integrity:** 3
+* **Courage:** 3
+* **Integrity:** 4
 
 #### Skills
 
@@ -370,8 +371,8 @@ Weight: 90 kg
 
 #### Virtues
 
-* **Courage:** 2
-* **Integrity:** 3
+* **Courage:** 3
+* **Integrity:** 4
 
 #### Skills
 
@@ -405,8 +406,8 @@ Weight: 400 kg
 
 #### Virtues
 
-* **Courage:** 2
-* **Integrity:** 3
+* **Courage:** 3
+* **Integrity:** 4
 
 #### Skills
 
@@ -441,8 +442,8 @@ Weight: 700 kg
 
 #### Virtues
 
-* **Courage:** 2
-* **Integrity:** 3
+* **Courage:** 3
+* **Integrity:** 4
 
 #### Skills
 
@@ -476,8 +477,8 @@ Weight: 400 kg
 
 #### Virtues
 
-* **Courage:** 2
-* **Integrity:** 3
+* **Courage:** 3
+* **Integrity:** 4
 
 #### Skills
 
@@ -512,8 +513,8 @@ Weight: 25 kg
 
 #### Virtues
 
-* **Courage:** 3
-* **Integrity:** 3
+* **Courage:** 4
+* **Integrity:** 4
 
 #### Skills
 
@@ -548,8 +549,8 @@ Weight: 170 kg
 
 #### Virtues
 
-* **Courage:** 2
-* **Integrity:** 3
+* **Courage:** 3
+* **Integrity:** 4
 
 #### Skills
 
@@ -580,7 +581,7 @@ Weight: 450 kg
 #### Virtues
 
 * **Courage:** 3
-* **Integrity:** 3
+* **Integrity:** 4
 
 #### Skills
 
@@ -610,8 +611,8 @@ Weight: 5 kg
 
 #### Virtues
 
-* **Courage:** 1
-* **Integrity:** 3
+* **Courage:** 2
+* **Integrity:** 4
 
 #### Skills
 
@@ -645,8 +646,8 @@ Weight: 160 kg
 
 #### Virtues
 
-* **Courage:** 3
-* **Integrity:** 3
+* **Courage:** 4
+* **Integrity:** 4
 
 #### Skills
 
@@ -681,8 +682,8 @@ Weight: 60 kg
 
 #### Virtues
 
-* **Courage:** 2
-* **Integrity:** 3
+* **Courage:** 3
+* **Integrity:** 4
 
 #### Skills
 
@@ -717,8 +718,8 @@ Weight: 6 kg
 
 #### Virtues
 
-* **Courage:** 2
-* **Integrity:** 3
+* **Courage:** 1
+* **Integrity:** 4
 
 #### Skills
 
@@ -753,8 +754,8 @@ Weight: 400 g
 
 #### Virtues
 
-* **Courage:** 1/2
-* **Integrity:** 3
+* **Courage:** 1
+* **Integrity:** 4
 
 #### Skills
 
@@ -790,7 +791,7 @@ Weight: 2000 kg
 #### Virtues
 
 * **Courage:** 3
-* **Integrity:** 3
+* **Integrity:** 4
 
 #### Skills
 
@@ -825,8 +826,8 @@ Weight: 5 kg
 
 #### Virtues
 
-* **Courage:** 1
-* **Integrity:** 3
+* **Courage:** 2
+* **Integrity:** 4
 
 #### Skills
 
@@ -861,8 +862,8 @@ Weight: 40 kg
 
 #### Virtues
 
-* **Courage:** 3
-* **Integrity:** 3
+* **Courage:** 4
+* **Integrity:** 4
 
 #### Skills
 
@@ -876,6 +877,50 @@ Weight: 40 kg
 
 Natural weapon
 
+# <a name="S-creatures_unknown"></a>Creatures of the unknown
+
+* [Giant spider](#SS-giant_spider)
+
+## <a name="SS-giant_spider"></a>Giant spider
+
+An overgrown spider with crystals on its back.\
+Length: 100 cm\
+Weight: 40 kg
+
+* **Summon archetype:** beast 5
+
+#### Attributes
+
+* **Agility:** 2
+* **Constitution:** 2
+* **Reaction:** 3
+* **Strength:** 3
+* **Charisma:** 1/4
+* **Intuition:** 1
+* **Perception:** 2
+* **Persuasion:** 1/4
+
+#### Virtues
+
+* **Courage:** 2
+* **Integrity:** 4
+
+#### Skills
+
+* **Alertness:** 4
+* **Athletics:** 2
+* **Brawl:** 3
+* **Stealth:** 2
+* **Survival:** 5
+
+#### Defenses
+
+* **Armor (inner)**: 1
+
+#### Traits
+
+Numbing poison
+
 # <a name="S-undeads"></a>Undeads
 
 * [Drake skeleton](#SS-drake_skeleton)
@@ -887,7 +932,7 @@ Natural weapon
 
 ## <a name="SS-drake_skeleton"></a>Drake skeleton
 
-A four legged beast, returned from the otherworld.
+A four legged beast, returned from the otherworld.\
 Length: 500 cm\
 Weight: 500 kg
 
@@ -907,7 +952,7 @@ Weight: 500 kg
 #### Virtues
 
 * **Courage:** 5
-* **Integrity:** 0
+* **Integrity:** 2
 
 #### Skills
 
@@ -925,7 +970,7 @@ Natural weapon, undead
 
 ## <a name="SS-ghoul"></a>Ghoul
 
-Once a human, now a rotting undead corpse.
+Once a human, now a rotting undead corpse.\
 Height: 175 cm\
 Weight: 60 kg
 
@@ -945,7 +990,7 @@ Weight: 60 kg
 #### Virtues
 
 * **Courage:** 5
-* **Integrity:** 0
+* **Integrity:** 2
 
 #### Skills
 
@@ -978,7 +1023,7 @@ Weight: 60 g
 #### Virtues
 
 * **Courage:** 5
-* **Integrity:** 0
+* **Integrity:** 2
 
 #### Skills
 
@@ -1016,7 +1061,7 @@ Weight: 30 kg
 #### Virtues
 
 * **Courage:** 5
-* **Integrity:** 0
+* **Integrity:** 4
 
 #### Skills
 
@@ -1058,7 +1103,7 @@ Weight: 15 kg
 #### Virtues
 
 * **Courage:** 5
-* **Integrity:** 0
+* **Integrity:** 4
 
 #### Skills
 
@@ -1103,7 +1148,7 @@ Weight: 8 kg
 #### Virtues
 
 * **Courage:** 5
-* **Integrity:** 0
+* **Integrity:** 4
 
 #### Skills
 
@@ -1142,7 +1187,11 @@ Your unharmed attacks deal one extra point of damage.
 
 ### Poisonous fangs
 Whenever you deal at least one point of damage, the victim is struck with deadly poison.\
-The poison causes one point of damage after three hours and another point after six hours.
+The poison causes one point of damage after three hours and another point after six hours. The poison does not stack.
 
 ### Undead
 You are immune to poisons and diseases. Sleeping, eating, and breathing are meaningless to you. On the flip side, you can't recover lost health points.
+
+### Numbing poison
+Whenever you deal at least one point of damage, the victim is struck with a numbing poison which gives a disadvantage of one dice to all physical rolls.\
+The poison does not stack and lasts for six hours.
