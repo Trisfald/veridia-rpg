@@ -297,6 +297,11 @@ This trait can be taken for different senses.
 ##### Cost: -15 experience points
 You have only one arm. Obviously this inconvenience gives you severe disadvantages and hinders your everyday life.
 
+### Tempered body
+##### *Requisites: constitution 5*
+##### Cost: 10 experience points
+Your body has reached its peak condition. Add an extra health point to your 'healthy' level.
+
 ### Weak sense
 ##### *Requisites: -*
 ##### Cost: -4 experience points
@@ -438,6 +443,11 @@ This trait can be taken multiple times.
 ##### *Requisites: melee 4*
 ##### Cost: 3 experience points
 Gain one bonus dice when parrying with two melee weapons.
+
+### Duelist
+##### *Requisites: melee 4, parry 4*
+##### Cost: 7 experience points
+Add one bonus dice to all attacks and maneuvers when engaging a single opponent in close quarters with a melee weapon.
 
 ### Melee weapon specialist
 ##### *Requisites: melee 5*
