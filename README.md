@@ -28,7 +28,8 @@ The project is divided in the following parts:
 * [Rulebook](Rulebook.md): contains the game main rules.
 * [Traits](Traits.md): compendium of characters' abilities and backgrounds.
 * [Prices and wages](Prices_and_wages.md): lists the prices of common items and jobs' remuneration.
-* [Creatures](Creatures.md): description of typical encounters.
+* [Travel](Travel.md): rules for long journeys.
+* [Creatures](Creatures.md): descriptions of typical encounters.
 
 A few additional resources:
 
