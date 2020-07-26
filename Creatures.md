@@ -336,7 +336,7 @@ Weight: 200 kg
 #### Virtues
 
 * **Courage:** 3
-* **Integrity:** 4
+* **Integrity:** 3
 
 #### Skills
 
@@ -372,7 +372,7 @@ Weight: 90 kg
 #### Virtues
 
 * **Courage:** 3
-* **Integrity:** 4
+* **Integrity:** 3
 
 #### Skills
 
@@ -407,7 +407,7 @@ Weight: 400 kg
 #### Virtues
 
 * **Courage:** 3
-* **Integrity:** 4
+* **Integrity:** 3
 
 #### Skills
 
@@ -443,7 +443,7 @@ Weight: 700 kg
 #### Virtues
 
 * **Courage:** 3
-* **Integrity:** 4
+* **Integrity:** 3
 
 #### Skills
 
@@ -478,7 +478,7 @@ Weight: 400 kg
 #### Virtues
 
 * **Courage:** 3
-* **Integrity:** 4
+* **Integrity:** 3
 
 #### Skills
 
@@ -513,8 +513,8 @@ Weight: 25 kg
 
 #### Virtues
 
-* **Courage:** 4
-* **Integrity:** 4
+* **Courage:** 3
+* **Integrity:** 3
 
 #### Skills
 
@@ -550,7 +550,7 @@ Weight: 170 kg
 #### Virtues
 
 * **Courage:** 3
-* **Integrity:** 4
+* **Integrity:** 3
 
 #### Skills
 
@@ -581,7 +581,7 @@ Weight: 450 kg
 #### Virtues
 
 * **Courage:** 3
-* **Integrity:** 4
+* **Integrity:** 3
 
 #### Skills
 
@@ -612,7 +612,7 @@ Weight: 5 kg
 #### Virtues
 
 * **Courage:** 2
-* **Integrity:** 4
+* **Integrity:** 3
 
 #### Skills
 
@@ -647,7 +647,7 @@ Weight: 160 kg
 #### Virtues
 
 * **Courage:** 4
-* **Integrity:** 4
+* **Integrity:** 3
 
 #### Skills
 
@@ -683,7 +683,7 @@ Weight: 60 kg
 #### Virtues
 
 * **Courage:** 3
-* **Integrity:** 4
+* **Integrity:** 3
 
 #### Skills
 
@@ -719,7 +719,7 @@ Weight: 6 kg
 #### Virtues
 
 * **Courage:** 1
-* **Integrity:** 4
+* **Integrity:** 3
 
 #### Skills
 
@@ -755,7 +755,7 @@ Weight: 400 g
 #### Virtues
 
 * **Courage:** 1
-* **Integrity:** 4
+* **Integrity:** 3
 
 #### Skills
 
@@ -791,7 +791,7 @@ Weight: 2000 kg
 #### Virtues
 
 * **Courage:** 3
-* **Integrity:** 4
+* **Integrity:** 3
 
 #### Skills
 
@@ -827,7 +827,7 @@ Weight: 5 kg
 #### Virtues
 
 * **Courage:** 2
-* **Integrity:** 4
+* **Integrity:** 3
 
 #### Skills
 
@@ -863,7 +863,7 @@ Weight: 40 kg
 #### Virtues
 
 * **Courage:** 4
-* **Integrity:** 4
+* **Integrity:** 3
 
 #### Skills
 
@@ -903,7 +903,7 @@ Weight: 40 kg
 #### Virtues
 
 * **Courage:** 2
-* **Integrity:** 4
+* **Integrity:** 3
 
 #### Skills
 
