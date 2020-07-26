@@ -25,10 +25,10 @@ The Veridia Tabletop RPG is born to give people the possibility to leverage Veri
 
 The project is divided in the following parts:
 
-* [Rulebook](Rulebook): contains the game main rules.
-* [Traits](Traits): compendium of characters' abilities and backgrounds.
-* [Prices and wages](Prices_and_wages): lists the prices of common items and jobs' remuneration.
-* [Creatures](Creatures): description of typical encounters.
+* [Rulebook](Rulebook.md): contains the game main rules.
+* [Traits](Traits.md): compendium of characters' abilities and backgrounds.
+* [Prices and wages](Prices_and_wages.md): lists the prices of common items and jobs' remuneration.
+* [Creatures](Creatures.md): description of typical encounters.
 
 A few additional resources:
 
