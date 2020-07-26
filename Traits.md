@@ -1309,8 +1309,8 @@ Lasts one minute.
 ##### *Requisites: way of the psychic 2*
 ##### Cost: 3 experience points
 Spend one or two points of fervor and take an action.\
-You become aware of all objects and creatures of perceptible size around you in a radius of nine meters.\
-Spending the additional point of fervor doubles the range.
+You become aware of all objects and creatures of perceptible size around you in a radius of fifteen meters.\
+Spending the additional point of fervor triples the range.
 
 ### Psychic blast
 ##### *Requisites: way of the psychic 2*

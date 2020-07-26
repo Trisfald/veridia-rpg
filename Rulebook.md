@@ -500,7 +500,8 @@ Like attributes, specialties can take a value from **1** to **5**.
 
 #### Resource pool
 
-Where indicated, learning a specialty gives access to a new expendable resource. After a nightly rest, your character recovers all the points spent.
+Where indicated, learning a specialty gives access to a new expendable resource. After a full rest, your character recovers up to half of the pool's total points (rounded up).\
+A disrupted respite halves the recovery.
 
 ### Magic branches
 
