@@ -236,7 +236,7 @@ Not resting properly halves the healing rate.
 
 When receiving medical treatment, the person giving treatment rolls *intuition + medicine* and all successes count as additional points of constitution.
 
-While often instantaneous, magical healing can usually cure onle the target's current health level damage: the first point of the following level must be healed naturally. A roll of *perception + medicine* can tell if a healing spell will have any beneficial effect at all.
+While often instantaneous, magical healing can usually cure only the target's current health level damage: the first point of the following level must be healed naturally. A roll of *perception + medicine* can tell if a healing spell will have any beneficial effect at all.
 
 ### Virtues and willpower
 
