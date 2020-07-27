@@ -1053,7 +1053,7 @@ Victims of this sorcery have your words in high regard; disobeying or simply goi
 Spend four points of mana and take an action.\
 Like summon undead, but multiply the number of successes by two.
 
-#### Devouring weapon
+### Devouring weapon
 ##### *Requirements: black magic 4, steal life*
 ##### Cost: 5 experience points
 Spend one or two points of mana and take an action.\
