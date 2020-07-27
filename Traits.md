@@ -664,13 +664,6 @@ Lasts one turn per mana spent.
 ##### Cost: 1 experience points
 You can set on fire a combustible material by touching it and concentrating for a few minutes.
 
-### Wet footing
-##### *Requirements: chromatic magic 1*
-##### Cost: 2 experience points
-Spend one point of mana and take an action.\
-Roll *intuition + arcana*. On success, you create a pool of water (radius 15 meters) that impedes movement. Every creature crossing it has half of his original movement rate.
-Lasts one hour.
-
 ### Elemental cape
 ##### *Requirements: chromatic magic 1*
 ##### Cost: 3 experience points
@@ -682,7 +675,21 @@ Lasts one hour.
 ##### *Requirements: chromatic magic 1*
 ##### Cost: 3 experience points
 You are able to read spells written in sigils.\
-Take an action then roll *intuition + arcana*. On success, the incantation is cast properly and the sigil is consumed.
+Take an action then roll *intuition + arcana*. On success, the incantation is cast and the sigil is consumed.
+
+### Turbulence
+##### *Requirements: chromatic magic 1*
+##### Cost: 3 experience points
+Spend one point of mana and take an action.\
+You conjure an area of turbulence around yourself. All ranged attacks made with projectiles suffer a disadvantage of one dice.\
+Lasts one hour.
+
+### Wet footing
+##### *Requirements: chromatic magic 1*
+##### Cost: 2 experience points
+Spend one point of mana and take an action.\
+Roll *intuition + arcana*. On success, you create a pool of water (radius 15 meters) that impedes movement. Every creature crossing it has half of his original movement rate.\
+Lasts one hour.
 
 ### Elemental weapon
 ##### *Requirements: chromatic magic 2*
@@ -702,6 +709,14 @@ Fire a flaming missile at up to 45 meters of distance. Roll *intuition + marksma
 ##### Cost: 3 experience points
 Spend two points of mana and take an action.\
 A powerful spark hit a target at a maximum distance of 15 meters. Roll *intuition + marksmanship*. The victim takes elemental damage equal to half of your chromatic magic's level (rounded down); in addition, for each match he suffers a disadvantage of one dice on his next action. Can be dodged or blocked.
+
+### Suffocating cloud
+##### *Requirements: chromatic magic 2*
+##### Cost: 3 experience points
+Spend one point of mana and take an action.\
+A cloud of acid vapours having a radius of six meters appears in a location inside your field of vision, no further away than 45 meters.\
+The vapours inflict a disadvantage of three dice on all physical and mental rolls to everyone standing inside the smoke.\
+Lasts a number of turns equal to twice the successes.
 
 ### Water bullet
 ##### *Requirements: chromatic magic 2*
