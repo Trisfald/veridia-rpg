@@ -704,6 +704,12 @@ Lasts one hour.
 Spend one point of mana and take an action.\
 Fire a flaming missile at up to 45 meters of distance. Roll *intuition + marksmanship*. On success, deal two points of elemental damage. Can be dodged or blocked.
 
+### Miraculous fountain
+##### *Requirements: chromatic magic 2*
+##### Cost: 2 experience points
+Spend any amount of points of mana and concentrate for several minutes.\
+You form one metric cube of water for each point spent.
+
 ### Spark 
 ##### *Requirements: chromatic magic 2*
 ##### Cost: 3 experience points
