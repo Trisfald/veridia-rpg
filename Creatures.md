@@ -887,7 +887,7 @@ An overgrown spider with crystals on its back.\
 Length: 100 cm\
 Weight: 40 kg
 
-* **Summon archetype:** beast 5
+* **Summon archetype:** *unknown* 5
 
 #### Attributes
 
