@@ -334,7 +334,7 @@ Your initiative score is considered two numbers higher.
 ### People's hero
 ##### *Requirements: integrity 4, way of the blood/way of the time/way of the phychic/way of the sun/way of the mage 1*
 ##### Cost: 10 experience points
-When following your ideals put you in a dire situation, once per day, you can recover a number of fervor points equal to your integrity.
+When following your ideals puts you in a dire situation, once per day, you can recover a number of fervor points equal to your integrity.
 
 ### Quick to draw
 ##### *Requirements: reaction 3*
