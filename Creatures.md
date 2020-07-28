@@ -30,12 +30,12 @@ A flying sword with a keen edge.\
 Length: 100 cm\
 Weight: 1.5 kg
 
-* **Summon archetype:** animated object 3
+* **Summon archetype:** animated object 4
 
 #### Attributes
 
 * **Agility:** 1
-* **Constitution:** 1/4
+* **Constitution:** 1/3
 * **Reaction:** 1
 * **Strength:** 1
 * **Charisma:** 1/4
@@ -55,7 +55,7 @@ Weight: 1.5 kg
 #### Defenses
 
 * **Armor (inner)**: 4
-* **Elemental resist (inner)**: 2
+* **Elemental resist (inner)**: 1
 
 #### Traits
 
@@ -142,7 +142,7 @@ Weight: 175 kg
 
 #### Defenses
 
-* **Armor (inner)**: 2
+* **Armor (inner)**: 1
 * **Elemental resist (inner)**: 1
 
 #### Assets
@@ -177,25 +177,25 @@ Weight: 25 kg
 
 * **Alertness:** 1
 * **Brawl:** 2
-* **Melee:** 4
+* **Melee:** 3
 * **Parry:** 3
 
 #### Defenses
 
 * **Armor (inner)**: 5
-* **Elemental resist (inner)**: 2
+* **Elemental resist (inner)**: 1
 
 #### Assets
 
 Longsword
 
-## <a name="SS-anisword"></a>Maximizer
+## <a name="SS-maximizer"></a>Maximizer
 
 A prism able to increase the power of spells.\
 Height: 30 cm\
 Weight: 0.5 kg
 
-* **Summon archetype:** animated object 4
+* **Summon archetype:** animated object 3
 
 #### Attributes
 
@@ -215,8 +215,8 @@ Weight: 0.5 kg
 
 #### Defenses
 
-* **Armor (inner)**: 4
-* **Elemental resist (inner)**: 4
+* **Armor (inner)**: 2
+* **Elemental resist (inner)**: 2
 
 #### Traits
 
@@ -255,7 +255,7 @@ Weight: 200 kg
 
 #### Defenses
 
-* **Armor (inner)**: 2
+* **Armor (inner)**: 1
 * **Elemental resist (inner)**: 1
 
 #### Assets
@@ -342,7 +342,7 @@ Weight: 200 kg
 
 * **Alertness:** 2
 * **Athletics:** 3
-* **Brawl:** 4
+* **Brawl:** 3
 * **Stealth:** 1
 * **Survival:** 5
 
@@ -413,7 +413,7 @@ Weight: 400 kg
 
 * **Alertness:** 2
 * **Athletics:** 2
-* **Brawl:** 4
+* **Brawl:** 3
 * **Stealth:** 1
 * **Survival:** 5
 
@@ -449,7 +449,7 @@ Weight: 700 kg
 
 * **Alertness:** 2
 * **Athletics:** 2
-* **Brawl:** 3
+* **Brawl:** 2
 * **Survival:** 5
 
 #### Traits
@@ -462,7 +462,7 @@ Crocodiles are large aquatic reptiles.\
 Length: 400 cm\
 Weight: 400 kg
 
-* **Summon archetype:** beast 5
+* **Summon archetype:** beast 6
 
 #### Attributes
 
@@ -653,7 +653,7 @@ Weight: 160 kg
 
 * **Alertness:** 3
 * **Athletics:** 4
-* **Brawl:** 5
+* **Brawl:** 4
 * **Stealth:** 4
 * **Survival:** 5
 
@@ -775,7 +775,7 @@ A herbivorous animal known for his massiveness and ill-temper.\
 Length: 400 cm\
 Weight: 2000 kg
 
-* **Summon archetype:** beast 8
+* **Summon archetype:** beast 9
 
 #### Attributes
 
@@ -797,9 +797,13 @@ Weight: 2000 kg
 
 * **Alertness:** 3
 * **Athletics:** 2
-* **Brawl:** 4
+* **Brawl:** 3
 * **Stealth:** 1
 * **Survival:** 5
+
+#### Defenses
+
+* **Armor**: 1
 
 #### Traits
 
@@ -915,7 +919,7 @@ Weight: 40 kg
 
 #### Defenses
 
-* **Armor (inner)**: 1
+* **Armor**: 1
 
 #### Traits
 
@@ -934,16 +938,16 @@ Numbing poison
 
 A four legged beast, returned from the otherworld.\
 Length: 500 cm\
-Weight: 500 kg
+Weight: 80 kg
 
-* **Summon archetype:** undead 10
+* **Summon archetype:** undead 9
 
 #### Attributes
 
 * **Agility:** 3
 * **Constitution:** 8
 * **Reaction:** 3
-* **Strength:** 8
+* **Strength:** 7
 * **Charisma:** 1/4
 * **Intuition:** 1/4
 * **Perception:** 1
@@ -958,11 +962,11 @@ Weight: 500 kg
 
 * **Alertness:** 2
 * **Athletics:** 2
-* **Brawl:** 4
+* **Brawl:** 3
 
 #### Defenses
 
-* **Armor (inner)**: 2
+* **Armor (inner)**: 1
 
 #### Traits
 
@@ -1007,14 +1011,14 @@ An undead rat of which only the bones remain. Magic is provinding its lifeforce.
 Length: 45 cm\
 Weight: 60 g
 
-* **Summon archetype:** undead 2
+* **Summon archetype:** undead 1
 
 #### Attributes
 
 * **Agility:** 3
 * **Constitution:** 1/2
 * **Reaction:** 2
-* **Strength:** 1/2
+* **Strength:** 1/3
 * **Charisma:** 1/4
 * **Intuition:** 1/4
 * **Perception:** 1
@@ -1029,11 +1033,11 @@ Weight: 60 g
 
 * **Alertness:** 1
 * **Athletics:** 2
-* **Brawl:** 3
+* **Brawl:** 2
 
 #### Defenses
 
-* **Armor (inner)**: 2
+* **Armor (inner)**: 1
 
 #### Traits
 
@@ -1087,14 +1091,14 @@ A human warrior, but undead.\
 Height: 180 cm\
 Weight: 15 kg
 
-* **Summon archetype:** undead 8
+* **Summon archetype:** undead 6
 
 #### Attributes
 
 * **Agility:** 2
-* **Constitution:** 3
+* **Constitution:** 4
 * **Reaction:** 2
-* **Strength:** 3
+* **Strength:** 2
 * **Charisma:** 1/4
 * **Intuition:** 1/4
 * **Perception:** 1
@@ -1103,20 +1107,20 @@ Weight: 15 kg
 #### Virtues
 
 * **Courage:** 5
-* **Integrity:** 4
+* **Integrity:** 2
 
 #### Skills
 
-* **Alertness:** 2
+* **Alertness:** 1
 * **Athletics:** 2
 * **Brawl:** 3
 * **Marksmanship:** 3
 * **Melee:** 3
-* **Parry:** 2
+* **Parry:** 3
 
 #### Defenses
 
-* **Armor (inner)**: 2
+* **Armor (inner)**: 1
 
 #### Traits
 
@@ -1132,14 +1136,14 @@ An undead wolf skeleton. Magic is provinding its lifeforce.\
 Length: 150 cm\
 Weight: 8 kg
 
-* **Summon archetype:** undead 6
+* **Summon archetype:** undead 5
 
 #### Attributes
 
 * **Agility:** 3
 * **Constitution:** 3
 * **Reaction:** 3
-* **Strength:** 3
+* **Strength:** 2
 * **Charisma:** 1/4
 * **Intuition:** 1/4
 * **Perception:** 1
@@ -1148,17 +1152,17 @@ Weight: 8 kg
 #### Virtues
 
 * **Courage:** 5
-* **Integrity:** 4
+* **Integrity:** 2
 
 #### Skills
 
 * **Alertness:** 2
 * **Athletics:** 3
-* **Brawl:** 4
+* **Brawl:** 3
 
 #### Defenses
 
-* **Armor (inner)**: 2
+* **Armor (inner)**: 1
 
 #### Traits
 
@@ -1176,7 +1180,7 @@ You can reload a ranged weapons as a free action.
 This creature can't do any action.
 
 ### Flying
-You can fly. Take flight requires a free action.
+You can fly. Getting off the ground requires a free action.
 
 ### Maximizing
 The creature's summoner can fire a spell at it. The spell will then bounce to the real target, but with enhanced strength. Roll the dice twice and take the best result between the two.\
@@ -1185,13 +1189,13 @@ After this effect has been triggered the creature disappears.
 ### Natural weapon
 Your unharmed attacks deal one extra point of damage.
 
+### Numbing poison
+Whenever you deal at least one point of damage, the victim is struck with a numbing poison which gives a disadvantage of one dice to all physical rolls.\
+The poison does not stack and lasts for six hours.
+
 ### Poisonous fangs
 Whenever you deal at least one point of damage, the victim is struck with deadly poison.\
 The poison causes one point of damage after three hours and another point after six hours. The poison does not stack.
 
 ### Undead
 You are immune to poisons and diseases. Sleeping, eating, and breathing are meaningless to you. On the flip side, you can't recover lost health points.
-
-### Numbing poison
-Whenever you deal at least one point of damage, the victim is struck with a numbing poison which gives a disadvantage of one dice to all physical rolls.\
-The poison does not stack and lasts for six hours.
