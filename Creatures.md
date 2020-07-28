@@ -884,6 +884,7 @@ Natural weapon
 # <a name="S-creatures_unknown"></a>Creatures of the unknown
 
 * [Giant spider](#SS-giant_spider)
+* [Wyvern](#SS-wyvern)
 
 ## <a name="SS-giant_spider"></a>Giant spider
 
@@ -924,6 +925,46 @@ Weight: 40 kg
 #### Traits
 
 Numbing poison
+
+## <a name="SS-wyvern"></a>Wyvern
+
+A flying bipedal dragon-like creature.\
+Length: 400 cm\
+Weight: 150 kg
+
+* **Summon archetype:** *unknown* 8
+
+#### Attributes
+
+* **Agility:** 3
+* **Constitution:** 5
+* **Reaction:** 3
+* **Strength:** 5
+* **Charisma:** 2
+* **Intuition:** 2
+* **Perception:** 3
+* **Persuasion:** 2
+
+#### Virtues
+
+* **Courage:** 4
+* **Integrity:** 3
+
+#### Skills
+
+* **Alertness:** 4
+* **Athletics:** 3
+* **Brawl:** 4
+* **Stealth:** 2
+* **Survival:** 5
+
+#### Defenses
+
+* **Armor**: 2
+
+#### Traits
+
+Flying, natural weapon, tail stab
 
 # <a name="S-undeads"></a>Undeads
 
@@ -1196,6 +1237,9 @@ The poison does not stack and lasts for six hours.
 ### Poisonous fangs
 Whenever you deal at least one point of damage, the victim is struck with deadly poison.\
 The poison causes one point of damage after three hours and another point after six hours. The poison does not stack.
+
+### Tail stab
+You perform a stabbing move with your tail, with a disadvantage of two dice. The attack has the armor piercing property.
 
 ### Undead
 You are immune to poisons and diseases. Sleeping, eating, and breathing are meaningless to you. On the flip side, you can't recover lost health points.
