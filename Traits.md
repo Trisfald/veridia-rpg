@@ -331,6 +331,11 @@ The cost to learn skills at levels 2, 3 and 4 is reduced by one, while the cost 
 ##### Cost: 8 experience points
 Your initiative score is considered two numbers higher.
 
+### Multitasking
+##### *Requirements: -*
+##### Cost: 4 experience points
+The penalties for concurrent actions are reduced by one.
+
 ### People's hero
 ##### *Requirements: integrity 4, way of the blood/way of the time/way of the phychic/way of the sun/way of the mage 1*
 ##### Cost: 10 experience points
