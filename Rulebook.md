@@ -971,6 +971,7 @@ Weapon | Damage | Quirks
 ------ |:------:| ------
 Axe | 2 | devastating
 Dagger | 1 | nimble
+Club | 1 |
 Great sword | 4 | two-handed
 Gun-sword (edge) | 1 | dual mode
 Longsword | 3 | balanced, versatile
