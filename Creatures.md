@@ -378,7 +378,7 @@ Weight: 90 kg
 
 * **Alertness:** 2
 * **Athletics:** 2
-* **Brawl:** 3
+* **Brawl:** 2
 * **Survival:** 5
 
 #### Traits
@@ -570,7 +570,7 @@ Weight: 450 kg
 #### Attributes
 
 * **Agility:** 3
-* **Constitution:** 5
+* **Constitution:** 4
 * **Reaction:** 3
 * **Strength:** 5
 * **Charisma:** 1
@@ -587,7 +587,7 @@ Weight: 450 kg
 
 * **Alertness:** 3
 * **Athletics:** 3
-* **Brawl:** 2
+* **Brawl:** 1
 * **Survival:** 5
 
 ## <a name="SS-large_bird"></a>Large bird
