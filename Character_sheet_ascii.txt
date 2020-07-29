@@ -13,8 +13,8 @@
 | Animal handling      0  | Investigation        0  | Ride                 0  |
 | Arcana               0  | Law                  0  | Savoir-faire         0  |
 | Art                  0  | Leadership           0  | Science              0  |
-| Athletics            0  | Machinery            0  | Stealth              0  |
-| Brawl                0  | Magitech             0  | Sleight of Hand      0  |
+| Athletics            0  | Machinery            0  | Sleight of Hand      0  |
+| Brawl                0  | Magitech             0  | Stealth              0  |
 | Craftsmanship        0  | Marksmanship         0  | Strategy             0  |
 | Deception            0  | Medicine             0  | Survival             0  |
 | Diplomacy            0  | Melee                0  | Theology             0  |
