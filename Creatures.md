@@ -884,6 +884,7 @@ Natural weapon
 # <a name="S-creatures_unknown"></a>Creatures of the unknown
 
 * [Giant spider](#SS-giant_spider)
+* [Kobold](#SS-kobold)
 * [Wyvern](#SS-wyvern)
 
 ## <a name="SS-giant_spider"></a>Giant spider
@@ -925,6 +926,48 @@ Weight: 40 kg
 #### Traits
 
 Numbing poison
+
+## <a name="SS-kobold"></a>Kobold
+
+Small reptilian humanoids with primitive intelligence and technology.\
+Height: 75 cm\
+Weight: 15 kg
+
+* **Summon archetype:** *unknown* 4
+
+#### Attributes
+
+* **Agility:** 3
+* **Constitution:** 1
+* **Reaction:** 2
+* **Strength:** 2
+* **Charisma:** 1
+* **Intuition:** 1
+* **Perception:** 2
+* **Persuasion:** 1
+
+#### Virtues
+
+* **Courage:** 2
+* **Integrity:** 3
+
+#### Skills
+
+* **Alertness:** 2
+* **Athletics:** 2
+* **Brawl:** 1
+* **Melee:** 2
+* **Stealth:** 2
+* **Survival:** 3
+* **Throwing:** 2
+
+#### Defenses
+
+* **Armor**: 1
+
+#### Assets
+
+Improvised armor, short spear (damage 1, versatile), small sling (damage 0, drawn, two-handed)
 
 ## <a name="SS-wyvern"></a>Wyvern
 
