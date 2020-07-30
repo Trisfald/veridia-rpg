@@ -16,6 +16,7 @@ Here is the list of all creatures divided by archetype.
 
 # <a name="S-aniobjects"></a>Animated objects
 
+* [Animated gloves](#SS-anigloves)
 * [Animated sword](#SS-anisword)
 * [Bombard](#SS-bombard)
 * [Champion](#SS-champion)
@@ -23,6 +24,38 @@ Here is the list of all creatures divided by archetype.
 * [Maximizer](#SS-maximizer)
 * [Strongarm](#SS-strongarm)
 * [Walker](#SS-walker)
+
+## <a name="SS-anigloves"></a>Animated gloves
+
+A flying pair of boxing gloves.\
+Length: 20 cm\
+Weight: 0.4 kg
+
+* **Summon archetype:** animated object 2
+
+#### Attributes
+
+* **Agility:** 1
+* **Constitution:** 1/3
+* **Reaction:** 1
+* **Strength:** 1
+* **Charisma:** 1/4
+* **Intuition:** 1/4
+* **Perception:** 1
+* **Persuasion:** 1/4
+
+#### Virtues
+
+* **Courage:** 5
+* **Integrity:** 7
+
+#### Skills
+
+* **Brawl:** 3
+
+#### Traits
+
+Flying
 
 ## <a name="SS-anisword"></a>Animated sword
 
@@ -885,6 +918,7 @@ Natural weapon
 
 * [Giant spider](#SS-giant_spider)
 * [Kobold](#SS-kobold)
+* [Troll](#SS-troll)
 * [Wyvern](#SS-wyvern)
 
 ## <a name="SS-giant_spider"></a>Giant spider
@@ -968,6 +1002,42 @@ Weight: 15 kg
 #### Assets
 
 Improvised armor, short spear (damage 1, versatile), small sling (damage 0, drawn, two-handed)
+
+## <a name="SS-troll"></a>Troll
+
+Trolls are humanoid carnivores with regenerative abilities.\
+Height: 160 cm\
+Weight: 80 kg
+
+* **Summon archetype:** *unknown* 6
+
+#### Attributes
+
+* **Agility:** 3
+* **Constitution:** 4
+* **Reaction:** 3
+* **Strength:** 4
+* **Charisma:** 1
+* **Intuition:** 2
+* **Perception:** 2
+* **Persuasion:** 1/2
+
+#### Virtues
+
+* **Courage:** 3
+* **Integrity:** 3
+
+#### Skills
+
+* **Alertness:** 2
+* **Athletics:** 2
+* **Brawl:** 3
+* **Stealth:** 1
+* **Survival:** 5
+
+#### Traits
+
+Regeneration
 
 ## <a name="SS-wyvern"></a>Wyvern
 
@@ -1062,14 +1132,14 @@ Once a human, now a rotting undead corpse.\
 Height: 175 cm\
 Weight: 60 kg
 
-* **Summon archetype:** undead 4
+* **Summon archetype:** undead 3
 
 #### Attributes
 
 * **Agility:** 2
 * **Constitution:** 4
 * **Reaction:** 2
-* **Strength:** 3
+* **Strength:** 2
 * **Charisma:** 1/4
 * **Intuition:** 1/4
 * **Perception:** 1
@@ -1083,7 +1153,7 @@ Weight: 60 kg
 #### Skills
 
 * **Athletics:** 1
-* **Brawl:** 3
+* **Brawl:** 2
 
 #### Traits
 
@@ -1280,6 +1350,9 @@ The poison does not stack and lasts for six hours.
 ### Poisonous fangs
 Whenever you deal at least one point of damage, the victim is struck with deadly poison.\
 The poison causes one point of damage after three hours and another point after six hours. The poison does not stack.
+
+### Regeneration
+Regenerate one point of your current health level per round.
 
 ### Tail stab
 You perform a stabbing move with your tail, with a disadvantage of two dice. The attack has the armor piercing property.
