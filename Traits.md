@@ -1101,8 +1101,8 @@ Every week you must spend one entire day to strengthen the magic that holds your
 ##### *Requisites: way of the blood 1*
 ##### Cost: 7 experience points
 Spend one or more points of fervor up to your way of the blood's level and take a free action.\
-Your physical and mental rolls have an advantage equal to the amount of points spent. You also gain inner armor and inner elemental resist equal to the points spent divided by two (rounded down). Overrides other active Sanguis traits.
-Each turn the bonuses decrease by one (one half for the defenses), until the effect fades off.
+Your physical and mental rolls have an advantage equal to the amount of points spent. You also gain inner armor and inner elemental resist equal to the points spent divided by two (rounded down). Overrides other active Sanguis traits.\
+Each turn the bonuses decrease by one (every two turns for the defenses), until the effect fades off.
 
 ### Immunitas
 ##### *Requisites: way of the blood 2*
@@ -1127,14 +1127,14 @@ You can also heal another person, but in such case the roll's difficulty is incr
 ##### *Requisites: way of the blood 3, Sanguis*
 ##### Cost: 4 experience points
 Spend one or more points of fervor up to your way of the blood's level and take an action.\
-Like Sanguis, but roll *way of the blood + integrity*. For each match recover one point of fervor up to the amount spent. Overrides other active Sanguis traits.\
-Each turn the bonuses decrease by one (one half for the defenses), until the effect fades off.
+Like Sanguis, but roll *way of the blood + integrity*. On success, plus for each match, recover one point of fervor up to the amount spent. Overrides other active Sanguis traits.\
+Each turn the bonuses decrease by one (every two turns for the defenses), until the effect fades off.
 
 ### Afflictio
 ##### *Requisites: way of the blood 4*
 ##### Cost: 5 experience points
-Spend two points of fervor and take an action.\
-You must successfully touch the target's skin. To do that roll *agility + brawl*; the game master should adjust the difficulty according to the target's clothes. On success, spend the fervor points to deal three points of damage ignoring armor.
+Spend one point of fervor and take an action.\
+You must successfully touch the target's skin. To do that roll *agility + brawl*; the game master should adjust the difficulty according to the target's clothes. On success, spend the fervor to deal three points of damage ignoring armor.
 
 ### Sanguis velox
 ##### *Requisites: way of the blood 4, Sanguis*
@@ -1179,8 +1179,8 @@ Lasts two hours.
 ### Ice shell
 ##### *Requisites: way of the mage 2*
 ##### Cost: 5 experience points
-Spend two points of fervor and take a free action.\
-Ice protects you from damage. You obtain a barrier equal to thrice your way of the mage's level.
+Spend one point of fervor and take a free action.\
+Ice protects you from damage. You obtain a barrier equal to twice your way of the mage's level.
 Lasts one hour or until the barrier is depleted.
 
 ### Spell emulation
@@ -1217,7 +1217,7 @@ A bolt of lightning strikes one target at a maximum distance of 30 meters. Roll 
 ### Power armor
 ##### *Requisites: way of the mage 3*
 ##### Cost: 5 experience points
-Spend two points of fervor and take a free action.\
+Spend one point of fervor and take a free action.\
 You gain one point of inner armor. Works only if you wear an armor made of metal.\
 Lasts one hour.
 
@@ -1309,13 +1309,13 @@ You gain an extra action and an extra dice pool, for the duration of this turn.
 ##### *Requisites: way of the time 4*
 ##### Cost: 5 experience points
 Spend two points of fervor and take an instant action.\
-You bend space-time nullifying one material attack aimed at you or at something in your proximity (six meters).
+You bend space-time nullifying one material attack aimed at you or at something in your proximity (six meters). The ability must be activated before the attack is performed.
 
 ### Ruling
 ##### *Requisites: way of the time 5*
 ##### Cost: 7 experience points
 Spend three points of fervor and take an instant action before you act in the current turn.\
-All other characters procede normally, as if you didn't activate this ability. You act last. You can't be damaged and you can't interact with anything until the start of your turn. Your turn count as a surprise turn: other characters are taken off guard.
+All other characters procede normally, as if you didn't activate this ability. You act last. You can't be damaged and you can't interact with anything until the start of your turn. The latter counts as a surprise turn: other characters are taken off guard.
 
 ## <a name="SS-psychic"></a>Way of the psychic traits
 
@@ -1403,7 +1403,7 @@ Lasts one minute.
 ##### *Requisites: way of the sun 1*
 ##### Cost: 4 experience points
 Spend one point of fervor and take a free action.\
-An explosion of light dazzles all those who have their eyes turned towards you. They suffer a disadvantage of three dice on every action which requires the use of sight.\
+An explosion of light dazzles all those who have their eyes turned towards you. They suffer a disadvantage of three dice on every action that requires the use of sight.\
 Each turn the disadvantage decreases by one, until the effect fades off.
 
 ### Sunlight beam
@@ -1430,8 +1430,7 @@ Lasts one hour.
 ##### *Requisites: way of the sun 3*
 ##### Cost: 5 experience points
 Spend two points of fervor and take a free action.\
-You become engulfed in flames. People touching you take one elemental damage per turn. Your physical rolls have an advantage of two dice and you regenerate one health point per turn.\
-Ignore magical healing's limitations.\
+You become engulfed in flames. People touching you take one elemental damage per turn. Your physical rolls have an advantage of two dice and you regenerate one health point per turn. Ignore magical healing's limitations.\
 Lasts three turns.
 
 ### Entrusted power
