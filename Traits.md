@@ -346,6 +346,12 @@ When following your ideals puts you in a dire situation, once per day, you can r
 ##### Cost: 3 experience points
 You will act first in the initial round of a battle, no matter your initiative.
 
+### Resourcefulness
+##### *Requirements: intuition 3*
+##### Cost: 5 experience points
+Choose a resource pool. Its maximum capacity is increased by one.\
+You can take this trait multiple times, always for a different pool.
+
 # <a name="S-social"></a>Social traits
 
 ### Ally (minor)
