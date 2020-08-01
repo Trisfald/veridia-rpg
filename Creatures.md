@@ -361,10 +361,10 @@ Weight: 200 kg
 * **Constitution:** 4
 * **Reaction:** 2
 * **Strength:** 5
-* **Charisma:** 1
-* **Intuition:** 2
+* **Charisma:** 1/3
+* **Intuition:** 1
 * **Perception:** 3
-* **Persuasion:** 1/2
+* **Persuasion:** 1/3
 
 #### Virtues
 
@@ -376,6 +376,7 @@ Weight: 200 kg
 * **Alertness:** 2
 * **Athletics:** 3
 * **Brawl:** 3
+* **Intimidation:** 2
 * **Stealth:** 1
 * **Survival:** 5
 
@@ -396,9 +397,9 @@ Weight: 90 kg
 * **Agility:** 2
 * **Constitution:** 2
 * **Reaction:** 2
-* **Strength:** 4
+* **Strength:** 3
 * **Charisma:** 1/3
-* **Intuition:** 2
+* **Intuition:** 1
 * **Perception:** 2
 * **Persuasion:** 1/3
 
@@ -412,6 +413,7 @@ Weight: 90 kg
 * **Alertness:** 2
 * **Athletics:** 2
 * **Brawl:** 2
+* **Intimidation:** 1
 * **Survival:** 5
 
 #### Traits
@@ -432,10 +434,10 @@ Weight: 400 kg
 * **Constitution:** 5
 * **Reaction:** 3
 * **Strength:** 6
-* **Charisma:** 1
-* **Intuition:** 2
+* **Charisma:** 1/3
+* **Intuition:** 1
 * **Perception:** 3
-* **Persuasion:** 1/2
+* **Persuasion:** 1/3
 
 #### Virtues
 
@@ -447,6 +449,7 @@ Weight: 400 kg
 * **Alertness:** 2
 * **Athletics:** 2
 * **Brawl:** 3
+* **Intimidation:** 3
 * **Stealth:** 1
 * **Survival:** 5
 
@@ -464,12 +467,12 @@ Weight: 700 kg
 
 #### Attributes
 
-* **Agility:** 3
-* **Constitution:** 5
+* **Agility:** 2
+* **Constitution:** 4
 * **Reaction:** 2
-* **Strength:** 5
-* **Charisma:** 1/2
-* **Intuition:** 2
+* **Strength:** 4
+* **Charisma:** 1/3
+* **Intuition:** 1
 * **Perception:** 3
 * **Persuasion:** 1/3
 
@@ -483,6 +486,7 @@ Weight: 700 kg
 * **Alertness:** 2
 * **Athletics:** 2
 * **Brawl:** 2
+* **Intimidation:** 1
 * **Survival:** 5
 
 #### Traits
@@ -500,13 +504,13 @@ Weight: 400 kg
 #### Attributes
 
 * **Agility:** 1
-* **Constitution:** 6
+* **Constitution:** 5
 * **Reaction:** 2
 * **Strength:** 4
 * **Charisma:** 1/3
 * **Intuition:** 1
 * **Perception:** 2
-* **Persuasion:** 1/4
+* **Persuasion:** 1/3
 
 #### Virtues
 
@@ -518,6 +522,7 @@ Weight: 400 kg
 * **Alertness:** 2
 * **Athletics:** 1
 * **Brawl:** 3
+* **Intimidation:** 2
 * **Stealth:** 1
 * **Survival:** 5
 
@@ -528,8 +533,8 @@ Amphibious, natural weapon
 ## <a name="SS-dog"></a>Dog
 
 A domesticated carnivorous mammal.\
-Length: 60 cm\
-Weight: 25 kg
+Length: 100 cm\
+Weight: 30 kg
 
 * **Summon archetype:** beast 3
 
@@ -538,9 +543,9 @@ Weight: 25 kg
 * **Agility:** 3
 * **Constitution:** 1
 * **Reaction:** 3
-* **Strength:** 3
-* **Charisma:** 2
-* **Intuition:** 2
+* **Strength:** 2
+* **Charisma:** 1
+* **Intuition:** 1
 * **Perception:** 4
 * **Persuasion:** 1
 
@@ -554,6 +559,7 @@ Weight: 25 kg
 * **Alertness:** 2
 * **Athletics:** 3
 * **Brawl:** 2
+* **Intimidation:** 1
 * **Stealth:** 2
 * **Survival:** 3
 
@@ -575,8 +581,8 @@ Weight: 170 kg
 * **Constitution:** 4
 * **Reaction:** 2
 * **Strength:** 5
-* **Charisma:** 2
-* **Intuition:** 2
+* **Charisma:** 1
+* **Intuition:** 1
 * **Perception:** 2
 * **Persuasion:** 1
 
@@ -590,6 +596,7 @@ Weight: 170 kg
 * **Alertness:** 3
 * **Athletics:** 4
 * **Brawl:** 4
+* **Intimidation:** 3
 * **Survival:** 5
 
 ## <a name="SS-horse"></a>Horse
@@ -598,7 +605,7 @@ A large domesticated mammal used for riding and to carry loads.\
 Height: 150 cm\
 Weight: 450 kg
 
-* **Summon archetype:** beast 4
+* **Summon archetype:** beast 5
 
 #### Attributes
 
@@ -606,8 +613,8 @@ Weight: 450 kg
 * **Constitution:** 4
 * **Reaction:** 3
 * **Strength:** 5
-* **Charisma:** 1
-* **Intuition:** 2
+* **Charisma:** 1/2
+* **Intuition:** 1
 * **Perception:** 3
 * **Persuasion:** 1/2
 
@@ -620,7 +627,8 @@ Weight: 450 kg
 
 * **Alertness:** 3
 * **Athletics:** 3
-* **Brawl:** 1
+* **Brawl:** 2
+* **Intimidation:** 1
 * **Survival:** 5
 
 ## <a name="SS-large_bird"></a>Large bird
@@ -633,14 +641,14 @@ Weight: 5 kg
 
 #### Attributes
 
-* **Agility:** 1
-* **Constitution:** 1
+* **Agility:** 3
+* **Constitution:** 1/2
 * **Reaction:** 4
 * **Strength:** 3
-* **Charisma:** 1
-* **Intuition:** 2
+* **Charisma:** 1/3
+* **Intuition:** 1/3
 * **Perception:** 4
-* **Persuasion:** 1/4
+* **Persuasion:** 1/3
 
 #### Virtues
 
@@ -672,8 +680,8 @@ Weight: 160 kg
 * **Constitution:** 4
 * **Reaction:** 5
 * **Strength:** 6
-* **Charisma:** 2
-* **Intuition:** 2
+* **Charisma:** 1/2
+* **Intuition:** 1
 * **Perception:** 3
 * **Persuasion:** 1/2
 
@@ -687,6 +695,7 @@ Weight: 160 kg
 * **Alertness:** 3
 * **Athletics:** 4
 * **Brawl:** 4
+* **Intimidation:** 3
 * **Stealth:** 4
 * **Survival:** 5
 
@@ -708,8 +717,8 @@ Weight: 60 kg
 * **Constitution:** 3
 * **Reaction:** 5
 * **Strength:** 4
-* **Charisma:** 1
-* **Intuition:** 2
+* **Charisma:** 1/2
+* **Intuition:** 1
 * **Perception:** 3
 * **Persuasion:** 1/2
 
@@ -723,6 +732,7 @@ Weight: 60 kg
 * **Alertness:** 3
 * **Athletics:** 5
 * **Brawl:** 4
+* **Intimidation:** 2
 * **Stealth:** 4
 * **Survival:** 5
 
@@ -734,20 +744,20 @@ Natural weapon
 
 An omnivorous mammal having a greyish-black fur.\
 Length: 55 cm\
-Weight: 6 kg
+Weight: 8 kg
 
 * **Summon archetype:** beast 2
 
 #### Attributes
 
 * **Agility:** 3
-* **Constitution:** 1
+* **Constitution:** 1/2
 * **Reaction:** 3
-* **Strength:** 2
-* **Charisma:** 1
-* **Intuition:** 2
+* **Strength:** 1
+* **Charisma:** 1/3
+* **Intuition:** 1
 * **Perception:** 3
-* **Persuasion:** 1
+* **Persuasion:** 1/3
 
 #### Virtues
 
@@ -794,7 +804,7 @@ Weight: 400 g
 
 * **Alertness:** 2
 * **Athletics:** 2
-* **Brawl:** 3
+* **Brawl:** 2
 * **Stealth:** 3
 * **Survival:** 5
 
@@ -816,8 +826,8 @@ Weight: 2000 kg
 * **Constitution:** 7
 * **Reaction:** 2
 * **Strength:** 7
-* **Charisma:** 1
-* **Intuition:** 2
+* **Charisma:** 1/2
+* **Intuition:** 1
 * **Perception:** 3
 * **Persuasion:** 1/2
 
@@ -831,6 +841,7 @@ Weight: 2000 kg
 * **Alertness:** 3
 * **Athletics:** 2
 * **Brawl:** 3
+* **Intimidation:** 2
 * **Stealth:** 1
 * **Survival:** 5
 
@@ -870,7 +881,8 @@ Weight: 5 kg
 
 * **Alertness:** 3
 * **Athletics:** 2
-* **Brawl:** 3
+* **Brawl:** 2
+* **Intimidation:** 2
 * **Stealth:** 3
 * **Survival:** 5
 
@@ -892,8 +904,8 @@ Weight: 40 kg
 * **Constitution:** 2
 * **Reaction:** 4
 * **Strength:** 3
-* **Charisma:** 2
-* **Intuition:** 2
+* **Charisma:** 1
+* **Intuition:** 1
 * **Perception:** 3
 * **Persuasion:** 1
 
@@ -907,6 +919,7 @@ Weight: 40 kg
 * **Alertness:** 4
 * **Athletics:** 4
 * **Brawl:** 4
+* **Intimidation:** 3
 * **Stealth:** 3
 * **Survival:** 5
 
@@ -916,10 +929,47 @@ Natural weapon
 
 # <a name="S-creatures_unknown"></a>Creatures of the unknown
 
+* [Imp](#SS-imp)
 * [Giant spider](#SS-giant_spider)
 * [Kobold](#SS-kobold)
 * [Troll](#SS-troll)
 * [Wyvern](#SS-wyvern)
+
+## <a name="SS-imp"></a>Imp
+
+A mischievous small creature with sharp claws.\
+Height: 50 cm\
+Weight: 8 kg
+
+* **Summon archetype:** *unknown* 2
+
+#### Attributes
+
+* **Agility:** 2
+* **Constitution:** 1/3
+* **Reaction:** 2
+* **Strength:** 1
+* **Charisma:** 1/3
+* **Intuition:** 1
+* **Perception:** 2
+* **Persuasion:** 1/3
+
+#### Virtues
+
+* **Courage:** 1
+* **Integrity:** 2
+
+#### Skills
+
+* **Alertness:** 2
+* **Athletics:** 2
+* **Brawl:** 2
+* **Stealth:** 2
+* **Survival:** 4
+
+#### Traits
+
+Natural weapon
 
 ## <a name="SS-giant_spider"></a>Giant spider
 
@@ -950,6 +1000,7 @@ Weight: 40 kg
 * **Alertness:** 4
 * **Athletics:** 2
 * **Brawl:** 3
+* **Intimidation:** 2
 * **Stealth:** 2
 * **Survival:** 5
 
@@ -967,16 +1018,16 @@ Small reptilian humanoids with primitive intelligence and technology.\
 Height: 75 cm\
 Weight: 15 kg
 
-* **Summon archetype:** *unknown* 4
+* **Summon archetype:** *unknown* 3
 
 #### Attributes
 
 * **Agility:** 3
-* **Constitution:** 1
+* **Constitution:** 1/2
 * **Reaction:** 2
 * **Strength:** 2
 * **Charisma:** 1
-* **Intuition:** 1
+* **Intuition:** 2
 * **Perception:** 2
 * **Persuasion:** 1
 
@@ -990,6 +1041,7 @@ Weight: 15 kg
 * **Alertness:** 2
 * **Athletics:** 2
 * **Brawl:** 1
+* **Intimidation:** 1
 * **Melee:** 2
 * **Stealth:** 2
 * **Survival:** 3
@@ -1017,8 +1069,8 @@ Weight: 80 kg
 * **Constitution:** 4
 * **Reaction:** 3
 * **Strength:** 4
-* **Charisma:** 1
-* **Intuition:** 2
+* **Charisma:** 1/2
+* **Intuition:** 1
 * **Perception:** 2
 * **Persuasion:** 1/2
 
@@ -1032,6 +1084,7 @@ Weight: 80 kg
 * **Alertness:** 2
 * **Athletics:** 2
 * **Brawl:** 3
+* **Intimidation:** 2
 * **Stealth:** 1
 * **Survival:** 5
 
@@ -1053,10 +1106,10 @@ Weight: 150 kg
 * **Constitution:** 5
 * **Reaction:** 3
 * **Strength:** 5
-* **Charisma:** 2
-* **Intuition:** 2
+* **Charisma:** 1
+* **Intuition:** 1
 * **Perception:** 3
-* **Persuasion:** 2
+* **Persuasion:** 1
 
 #### Virtues
 
@@ -1068,6 +1121,7 @@ Weight: 150 kg
 * **Alertness:** 4
 * **Athletics:** 3
 * **Brawl:** 4
+* **Intimidation:** 3
 * **Stealth:** 2
 * **Survival:** 5
 
@@ -1117,6 +1171,7 @@ Weight: 80 kg
 * **Alertness:** 2
 * **Athletics:** 2
 * **Brawl:** 3
+* **Intimidation:** 2
 
 #### Defenses
 
@@ -1224,6 +1279,7 @@ Weight: 30 kg
 #### Skills
 
 * **Brawl:** 1
+* **Intimidation:** 1
 * **Marksmanship:** 3
 
 #### Pools
@@ -1268,6 +1324,7 @@ Weight: 15 kg
 * **Alertness:** 1
 * **Athletics:** 2
 * **Brawl:** 3
+* **Intimidation:** 2
 * **Marksmanship:** 3
 * **Melee:** 3
 * **Parry:** 3
@@ -1313,6 +1370,7 @@ Weight: 8 kg
 * **Alertness:** 2
 * **Athletics:** 3
 * **Brawl:** 3
+* **Intimidation:** 2
 
 #### Defenses
 
