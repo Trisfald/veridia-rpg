@@ -595,7 +595,7 @@ Can't be higher than: *perception + 1*
 Traits are the finest way to add flavor to your character. There are more than one hundred in the ruleset and each of them adds something special, in a positive or negative manner.\
 Even more so than for skills, don't hesitate to create new traits to better define a character.
 
-See [Traits](Traits) for the list of all traits.
+See [Traits](Traits.md) for the list of all traits.
 
 ## <a name="SS-assets"></a>Assets
 
@@ -744,6 +744,16 @@ The character must be able to momentarily free one hand. Of course, holding any 
 
 The number of successes can be spent to perform a follow-up action, a *lock* or both; matches indicates how strong is the grapple. A target willing to liberate himself must roll *strength + brawl* with difficulty increased by the number of matches (+1 for a double match, +2 for a triple match, etc.).\
 Normally, a grapple doesn't end until the attacker let go or the defender breaks free; if grapple holds, on his next turn the attacker can roll again *strength + brawl* to do more follow-ups without incurring the risk of entering an exchange.
+
+### Aimed strike
+
+A character can attack a specific body part of a target. Doing so increases the roll's difficulty, as following:
+
+Body part's size | Difficulty to hit
+---------------- |:----------------:
+Large (torso, arm, leg) | +1
+Medium (head, hand, feet) | +2
+Small (eye, ear) | +3
 
 #### Follow-ups
 
