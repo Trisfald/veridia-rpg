@@ -352,6 +352,12 @@ You will act first in the initial round of a battle, no matter your initiative.
 Choose a resource pool. Its maximum capacity is increased by one.\
 You can take this trait multiple times, always for a different pool.
 
+### Shortcut to power
+##### *Requirements: arcana 3, any magic branch 1*
+##### Cost: 3 experience points
+When casting a spell, consider your score of arcana to be one point higher.\
+This trait doesn't provide any benefit once your arcana is greater or equal than six.
+
 # <a name="S-social"></a>Social traits
 
 ### Ally (minor)
@@ -465,6 +471,17 @@ Add one bonus dice to all attacks and maneuvers when engaging a single opponent 
 ##### Cost: 5 experience points
 Choose a melee weapon. You gain one dice in all rolls involving such weapon.\
 You can take this trait multiple times for different weapons.
+
+### Reckless assault
+##### *Requisites: brawl 3/melee 3*
+##### Cost: 4 experience points
+You know how to make an all-out attack (advantage of two dice) with a melee weapon or your fists.\
+The feat leaves you vulnerable; during your next turn you incur a disadvantage of three dice to any action.
+
+### Sharpshooter
+##### *Requisites: marksmanship 3/throwing 3*
+##### Cost: 4 experience points
+Declare a target and take aim as a normal action. Until your following turn's end, the first ranged attack on the aforementioned target has an advantage of two dice.
 
 ### Shield specialist
 ##### *Requisites: melee 4*
@@ -1164,7 +1181,7 @@ All Sanguis traits need one less point of fervor.
 
 ### Air shot
 ##### *Requisites: way of the mage 1*
-##### Cost: 2 experience points
+##### Cost: 3 experience points
 Take a free action.\
 You shoot a bullet of air up to 30 meters of distance, dealing one point of damage and giving the target a disadvantage of one dice during his next turn. Can be dodged or blocked (with one success). 
 
@@ -1177,7 +1194,7 @@ Lasts one hour.
 
 ### Wind walking
 ##### *Requisites: way of the mage 1*
-##### Cost: 3 experience points
+##### Cost: 2 experience points
 Spend one point of fervor and take a free action.\
 A dust of wind helps your steps. Your movement speed is doubled as well as your jumping distance. Taking one single big jump (up to 45 meters) ends the effect.\
 Lasts two hours.
