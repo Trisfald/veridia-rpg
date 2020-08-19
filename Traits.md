@@ -466,6 +466,11 @@ Gain one bonus dice when parrying with two melee weapons.
 ##### Cost: 7 experience points
 Add one bonus dice to all attacks and maneuvers when engaging a single opponent in close quarters with a melee weapon.
 
+### Incapacitator
+##### *Requisites: brawl 3*
+##### Cost: 4 experience points
+Add one success to any check done to knock out an opponent.
+
 ### Melee weapon specialist
 ##### *Requisites: melee 5*
 ##### Cost: 5 experience points
