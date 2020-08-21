@@ -33,7 +33,7 @@ The project is divided in the following parts:
 
 A few additional resources:
 
-* [Lore book](Lore-book.pdf): the original lore book for [Veridia Tactics](https://trisfald.itch.io/veridia-tactics), the game thats inspired this tabletop RPG.
+* [Lore book](Lore-book.pdf): the original lore book for [Veridia Tactics](https://trisfald.itch.io/veridia-tactics), the game that inspired this tabletop RPG.
 * [Character sheet](Character_sheet_ascii.txt): a character sheet in ascii.
 
 
