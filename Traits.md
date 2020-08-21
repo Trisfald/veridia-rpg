@@ -1386,6 +1386,13 @@ Successes | Weight (kg)
 4 | 120
 5+ | 240
 
+### Attuned defense
+##### *Requisites: way of the psychic 3, telekinesis*
+##### Cost: 4 experience points
+You are no longer impaired by an attuned suite of armor. Ignore any malus to agility.\
+In addition, you can wear such armor by taking an action.\
+You must use a given armor for a full week in order to gain the effects of this trait.
+
 ### Beyond the veil
 ##### *Requisites: way of the psychic 3*
 ##### Cost: 4 experience points
@@ -1417,6 +1424,13 @@ Roll *way of the psychic + integrity*. For each success you increase the difficu
 ##### Cost: 6 experience points
 Spend one point of fervor and take a free action.\
 You crush your target's vital points with an immaterial touch. Deals two points of damage that go through armor and barriers. The target must be in your field of vision. Can be dodged (roll against two successes).
+
+### True sight
+##### *Requisites: way of the psychic 4*
+##### Cost: 5 experience points
+Spend one point of fervor and take a free action.\
+All your actions have their difficulty decreased by two.\
+Lasts one turn.
 
 ### Levitation
 ##### *Requisites: way of the psychic 5*
