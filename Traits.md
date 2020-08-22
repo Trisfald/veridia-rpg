@@ -1164,18 +1164,18 @@ Each turn the bonuses decrease by one (every two turns for the defenses), until 
 Spend one point of fervor and take an action.\
 You must successfully touch the target's skin. To do that roll *agility + brawl*; the game master should adjust the difficulty according to the target's clothes. On success, spend the fervor to deal three points of damage ignoring armor.
 
+### Excedunt limites
+##### *Requisites: way of the blood 4*
+##### Cost: 3 experience points
+You can increase an attribute of your choice one point above your racial limit. The point's cost is not included.\
+This trait can be taken multiple times, always for a different attribute.
+
 ### Sanguis velox
 ##### *Requisites: way of the blood 4, Sanguis*
 ##### Cost: 4 experience points
 Spend two or three points of fervor and take a free action.\
 Like Sanguis, with the difference that the bonuses are equal to your way of the blood's level. Spending two points grant the bonus to the attributes rolls or to the defenses, spending three points grant both. Overrides other active Sanguis traits.\
 Lasts one turn.
-
-### Excedunt limites
-##### *Requisites: way of the blood 5*
-##### Cost: 3 experience points
-You can increase an attribute of your choice one point above your racial limit. The point's cost is not included.\
-This trait can be taken multiple times, always for a different attribute.
 
 ### Sanguis perpetuo
 ##### *Requisites: way of the blood 5, Sanguis*
@@ -1388,7 +1388,7 @@ Successes | Weight (kg)
 
 ### Attuned defense
 ##### *Requisites: way of the psychic 3, telekinesis*
-##### Cost: 4 experience points
+##### Cost: 3 experience points
 You are no longer impaired by an attuned suite of armor. Ignore any malus to agility.\
 In addition, you can wear such armor by taking an action.\
 You must use a given armor for a full week in order to gain the effects of this trait.
@@ -1421,7 +1421,7 @@ Roll *way of the psychic + integrity*. For each success you increase the difficu
 
 ### Phantom grasp
 ##### *Requisites: way of the psychic 4*
-##### Cost: 6 experience points
+##### Cost: 5 experience points
 Spend one point of fervor and take a free action.\
 You crush your target's vital points with an immaterial touch. Deals two points of damage that go through armor and barriers. The target must be in your field of vision. Can be dodged (roll against two successes).
 
@@ -1434,7 +1434,7 @@ Lasts one turn.
 
 ### Levitation
 ##### *Requisites: way of the psychic 5*
-##### Cost: 5 experience points
+##### Cost: 6 experience points
 Spend two points of fervor and take an action.\
 Roll *way of the psychic + integrity*. You can levitate and move freely while airborne. Your flying speed is equal to your movement speed times the number of successes.\
 Lasts one minute.
@@ -1453,6 +1453,11 @@ Each turn the disadvantage decreases by one, until the effect fades off.
 ##### Cost: 3 experience points
 Spend one points of fervor and take a free action or an action.\
 You hit a target at a maximum distance of 60 meters with a beam of light. As a free action, deals two armor piercing damage. As an action, roll *way of the sun + marksmanship* and deal the number of successes plus one armor piercing damage. Can be dodged or blocked.
+
+### Empyreal bond
+##### *Requisites: way of the sun 2*
+##### Cost: 2 experience points
+You are aware of the position and orbit of the Sun. Thus, you can easily tell the time of the day and the four cardinal directions.
 
 ### False sun
 ##### *Requisites: way of the sun 2*
@@ -1478,7 +1483,7 @@ Lasts three turns.
 ### Entrusted power
 ##### *Requisites: way of the sun 3*
 ##### Cost: 3 experience points
-By spending four hours in daylight you recover a point of fervor.
+By spending four hours in full daylight you recover a point of fervor.
 
 ### Solar wind
 ##### *Requisites: way of the sun 4*
