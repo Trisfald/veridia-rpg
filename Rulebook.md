@@ -507,7 +507,7 @@ A disrupted respite halves the recovery.
 
 Any branch can't have a value higher than: *arcana - 1*.
 
-Having at least one point in any branch enables a shared resource pool: **Mana** (equal to *highest branch level + arcana*)
+Having at least one point in any branch enables a shared resource pool: **Mana** (equal to *twice the highest branch level + arcana*)
 
 ##### Grey magic
 
@@ -542,7 +542,7 @@ All forbidden or extremely wicked spells fall inside this category.
 The sum of all ways values can't be higher than: *integrity - 1*.\
 If the character's integrity decreases and becomes less than how much would be required for a certain way level, that level and all related traits are unavailable until the lost virtue is regained.
 
-Having at least one point in any way enables a shared resource pool: **Fervor** (equal to *highest way level + integrity*)
+Having at least one point in any way enables a shared resource pool: **Fervor** (equal to *twice the highest way level + integrity*)
 
 ##### Way of the blood
 
@@ -570,7 +570,7 @@ Having at least one point in any way enables a shared resource pool: **Fervor** 
 
 ### Martial arts paths
 
-Having at least one point in any path enables a shared resource pool: **Focus** (equal to *highest path level + intuition*)
+Having at least one point in any path enables a shared resource pool: **Focus** (equal to *twice the highest path level + intuition*)
 
 ##### Feral path
 
