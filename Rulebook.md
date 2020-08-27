@@ -734,7 +734,7 @@ Exchanges are not triggered automatically: at least one of the players involved 
 
 ### Knock out
 
-Perform an attack like you would normally do. Instead of dealing damage check if the injury inflicted would have made the target reach the health level *incapacitated* or worse; if so, the opponent is knocked out. Be careful: matches inflict real damage (ignore quirks depending on matches) and can even kill the other person.
+Perform an attack like you would normally do. Instead of dealing damage check if the injury inflicted would have made the target reach the health level *incapacitated* or worse; if so, the opponent is knocked out. Be careful: matches inflict real damage and can even kill the other person.
 
 ### Grapple
 

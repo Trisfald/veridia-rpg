@@ -648,7 +648,7 @@ Like summon animated object, but multiply the number of successes by two.
 Spend two points of mana and take an action.\
 You dispel magic effects active on an object or a creature. Roll *intuition + arcana*.\
 The number of successes determines the maximum spell branch's level you are able to break.\
-The amount of matches determines how many spells you can remove.
+The amount of spells removed is equal to one plus the number of matches.
 
 ### Layered barrier
 ##### *Requirements: grey magic 4, barrier*
@@ -1208,8 +1208,14 @@ Lasts two hours.
 ##### *Requisites: way of the mage 2*
 ##### Cost: 5 experience points
 Spend one point of fervor and take a free action.\
-Ice protects you from damage. You obtain a barrier equal to twice your way of the mage's level.
+Ice protects you from damage. You obtain a barrier equal to twice your way of the mage's level.\
 Lasts one hour or until the barrier is depleted.
+
+### Paralysing current
+##### *Requisites: way of the mage 2*
+##### Cost: 4 experience points
+When applying lightning damage, instead of reducing the target's health you can choose to knock it out.\
+Follow the standard rules for knock out. Consider the inflicted damage as doubled.
 
 ### Spell emulation
 ##### *Requirements: way of the mage 2*
@@ -1247,6 +1253,14 @@ A bolt of lightning strikes one target at a maximum distance of 30 meters. Roll 
 ##### Cost: 5 experience points
 Spend one point of fervor and take a free action.\
 You gain one point of inner armor. Works only if you wear an armor made of metal.\
+Lasts one hour.
+
+### Shatter dream
+##### *Requisites: way of the mage 3*
+##### Cost: 4 experience points
+Spend one point of fervor and take a free action.\
+Your weapon is enchanted with a power capable of interrupting magic.\
+The first attack that hits a target can dispel the effect of a spell of your choice. The spell can't be of a level higher than your way of the mage's.\
 Lasts one hour.
 
 ### Advanced spell emulation
