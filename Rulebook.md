@@ -80,7 +80,7 @@ With the game master's approval, in non-heated situations a roll can be avoided;
 
 ### Order of initiative
 
-Normally characters can carry out their deeds without a specific ordering, just following common sense and relying on the game master's arbitrage.
+Normally, characters can carry out their deeds without a specific ordering, just following common sense and relying on the game master's arbitrage.
 
 However, if the situation requires fine grained control of the characters' actions (for example in combat), each participant will take his turn starting from the one with the highest roll of *agility + reaction*; resolve ties with matches and, if not yet enough, with a simple dice roll.
 
@@ -106,6 +106,10 @@ The turn ends with the character's last action.
 
 Durations are often expressed in character's turns. A duration of *n* turns expires at the beginning of the *n + 1* turn of the character.\
 For instance, a one turn effect affecting a character lasts from the moment it was activated, plus the character's turn, up to the start of the character's following turn.
+
+### Rounds
+
+A round terminates once all characters taking part in the battle finish their turn. The length of one round is (indicatively) six seconds.
 
 ### Contested actions
 
