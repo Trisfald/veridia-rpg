@@ -987,7 +987,7 @@ Lasts one week or until the message is delivered.
 ##### *Requirements: natural magic 2*
 ##### Cost: 4 experience points
 Spend one point of mana and take an action.\
-Thorny branches sprout from the ground to grab your enemies in an area of radius six meters, up to 30 meters of distance. Roll *intuition + arcana*; for each success, a creature is grabbed. Can be dodged.\
+Thorny branches sprout from the ground to grab your enemies in an area of radius of six meters, up to 30 meters of distance. Roll *intuition + arcana*; for each success, a creature is grabbed. Can be dodged.\
 The branches deal one damage per turn and have two health points.\
 Lasts four turns.
 
@@ -1213,7 +1213,7 @@ Lasts one hour or until the barrier is depleted.
 
 ### Paralysing current
 ##### *Requisites: way of the mage 2*
-##### Cost: 4 experience points
+##### Cost: 3 experience points
 When applying lightning damage, instead of reducing the target's health you can choose to knock it out.\
 Follow the standard rules for knock out. Consider the inflicted damage as doubled.
 
@@ -1234,7 +1234,7 @@ The cloud does not move and lasts for five turns.
 ##### *Requisites: way of the mage 3*
 ##### Cost: 5 experience points
 Spend from one to four points of fervor and take an action.\
-Roll *way of the mage + integrity*. You shot small projectiles made of ice to a number of opponents equal to the fervor spent. Each projectile deals damage equal to the successes. For each match you can convert up to two point of damage to elemental. Can be dodged or blocked.
+Roll *way of the mage + arcana*. You shot small projectiles made of ice to a number of opponents equal to the fervor spent. Each projectile deals damage equal to the successes. For each match you can convert up to two point of damage to elemental. Can be dodged or blocked.
 
 ### Flow boost
 ##### *Requisites: way of the mage 3*
@@ -1269,26 +1269,37 @@ Lasts one hour.
 Your affinity to magic let you learn any trait from the second level of the following magic branches: grey, chromatic and white.\
 Replace all mana expenditures with fervor.
 
+### Fighting of the elements
+##### *Requisites: way of the mage 4*
+##### Cost: 4 experience points
+Spend one, two or three points of fervor and take a free action.\
+You learn how to masterfully enhance your weapon with elemental energy. You can cancel the effects of this trait with an instant action.\
+Lasts one hour or until all charges are spent.
+
 ### Fire comet
 ##### *Requisites: way of the mage 4*
 ##### Cost: 5 experience points
 Spend two points of fervor and take an action.\
-Roll *way of the mage + melee*. On success you throw a flaming comet at a maximum distance of 45 meters. It deals elemental damage equal to the number of successes in a radius of three meters. Can be dodged.
+Roll *way of the mage + melee*. On success you throw a flaming comet at a maximum distance of 45 meters. It deals elemental damage equal to the number of successes plus the number of matches in a radius of three meters. Can be dodged.
 
-### Overcharge
-##### *Requisites: way of the mage 4, lightning bolt*
-##### Cost: 4 experience points
-Spend one, two or three points of fervor and take a free action.\
-Your melee weapon gets charged with lightning energy. Convert all damage inflicted by it to elemental.\
-At any time you can use part of the remaining energy to cast lightning bolt.\
-Lasts one hour or until all charges are spent.
-
-### Frost 
-##### *Requisites: way of the mage 5*
-##### Cost: 6 experience points
-Spend two points of fervor and take a free action.\
-Instead of dealing damage, your next melee attack in the current turn freezes your opponent. One or two successes will freeze a small area (a hand or a joint), three to four successes a medium area (one limb or two), five successes or more the entire body.
+### Freezing graze
+##### *Requisites: way of the mage 4, fighting of the elements*
+##### Cost: 3 experience points
+Instead of dealing damage, your melee attacks freeze your opponent. One or two successes will freeze a small area (a hand or a joint), three to four successes a medium area (one limb or two), five successes or more the entire body.\
 Frozen body parts take half a day to heal.
+
+### Plasma cutter
+##### *Requisites: way of the mage 4, fighting of the elements*
+##### Cost: 3 experience points
+Lightning empowers your weapon. It deals two additional points of elemental damage.\
+At any time you can use part of the remaining energy to cast lightning bolt.\
+Each attack that manages to inflict damage consumes one charge.
+
+### Solid-state eraser 
+##### *Requisites: way of the mage 4, fighting of the elements*
+##### Cost: 3 experience points
+Your weapon corrodes anything, dealing elemental damage equal to the number of successes.\
+Each attack that manages to inflict damage consumes one charge.
 
 ### Turbofire
 ##### *Requisites: way of the mage 5*
@@ -1370,7 +1381,7 @@ Add your way of the psychic's level as an advantage to all your perception rolls
 ##### *Requisites: way of the psychic 1*
 ##### Cost: 2 experience points
 Spend one point of fervor and take an action.\
-You can speak to the mind of another person. If you are familiar with the target the maximum distance is 10 kilometers, while if you don't know him visual contact is needed.\
+You can speak to the mind of another person. If you are familiar with the target the maximum distance is 50 kilometers, while if you don't know him visual contact is needed.\
 Lasts one minute.
 
 ### Complete awareness
@@ -1431,7 +1442,7 @@ Lasts one hour.
 ##### *Requisites: way of the psychic 3*
 ##### Cost: 4 experience points
 Spend one point of fervor and take a free action.\
-All your actions have their difficulty decreased by one.\
+You can see weaknesses and solutions that a normal mind is not able to notice. All your actions have their difficulty decreased by one.\
 Lasts one turn.
 
 ### Interdiction
@@ -1449,9 +1460,9 @@ You crush your target's vital points with an immaterial touch. Deals two points 
 ### Levitation
 ##### *Requisites: way of the psychic 5*
 ##### Cost: 6 experience points
-Spend two points of fervor and take an action.\
-Roll *way of the psychic + integrity*. You can levitate and move freely while airborne. Your flying speed is equal to your movement speed times the number of successes.\
-Lasts one minute.
+Spend one point of fervor and take a free action.\
+You can levitate and move freely while airborne. Your flying speed is equal to five times your movement speed.\
+Lasts three turns.
 
 ## <a name="SS-sun"></a>Way of the sun traits
 
@@ -1477,7 +1488,7 @@ You are aware of the position and orbit of the Sun. Thus, you can easily tell th
 ##### *Requisites: way of the sun 2*
 ##### Cost: 2 experience points
 Spend one point of fervor and take a free action.\
-Create a fake sun that illuminates an area of ​​one kilometer as if it were in daylight.\
+Create a fake sun that illuminates an area of ​​one square kilometer as if it were in daylight.\
 Lasts 2 hours.
 
 ### Searing light
