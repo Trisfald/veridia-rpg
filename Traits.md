@@ -556,6 +556,12 @@ Lasts one day.
 Spend one point of mana and take an action.\
 Roll *intuition + arcana*. On success, you convey one signal at unlimited distance. The receiver object might display some light, sound or make a small movement.
 
+### Astral inventory
+##### *Requirements: grey magic 2*
+##### Cost: 3 experience points
+There's a magical space, of the size of a wardrobe, in which you can stash items.\
+Spend one point of mana and take an action. Roll *intuition + arcana*; you can evoke one item per success from your inventory.
+
 ### Detect magic
 ##### *Requirements: grey magic 2*
 ##### Cost: 3 experience points
