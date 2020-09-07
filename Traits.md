@@ -1307,9 +1307,16 @@ Each attack that manages to inflict damage consumes one charge.
 Your weapon corrodes anything, dealing elemental damage equal to the number of successes.\
 Each attack that manages to inflict damage consumes one charge.
 
-### Turbofire
+### Acid rain
 ##### *Requisites: way of the mage 5*
 ##### Cost: 6 experience points
+Spend two points of fervor and take an action.\
+Roll *way of the mage + arcana*. A deadly cloud appears above an area with radius of fifteen meters in your field of vision. The rain inflicts two points of elemental damage per turn, that can be blocked.\
+Lasts one turn per success.
+
+### Turbofire
+##### *Requisites: way of the mage 5*
+##### Cost: 5 experience points
 Spend two points of fervor and take an action.\
 A vortex of fire engulfes one target at a maximum distance of six meters. Roll *way of the mage + melee*. You inflict elemental damage equal to the number of successes for one turn plus the number of matches.\
 Damage is not applied immediately, but instead during the target's turn. Each damage application can be dodged or blocked.
