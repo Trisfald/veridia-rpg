@@ -1082,8 +1082,8 @@ Lasts one hour.
 ### Catalyst in the flesh
 ##### *Requirements: black magic 3*
 ##### Cost: 5 experience points
-You can extract mana from human beings. Each two points of damage inflicted let you recover one point of mana.\
-The ritual takes ten minutes.
+Perform a one hour long ritual.\
+You can extract mana from human beings. The target suffers one point of damage and you recover one point of mana.\
 
 ### Foul pact
 ##### *Requirements: black magic 3*
@@ -1118,7 +1118,7 @@ Small plants die instantly. For the purpose of this spell, trees have from zero 
 ##### Cost: 10 experience points
 You undertake a massive ritual, lasting approximately a full week. In the end, you will be reborn, your mind still intact but your body anew.\
 As a half-undead, your daily needs of food and sleep are halved, as well as diseases' effects on your health; on the other hand, your skin becomes pale and magical healing restores half the points it should. You gain one point of inner armor.\
-Every week you must spend one entire day to strengthen the magic that holds your body together. Failure to do so causes the loss of a health level, which can be recovered only by performing the aforementioned ritual.
+Every week you must spend one entire day to strengthen the magic that holds your body together. Failure to do so causes the loss of a health level, which can be recovered only by performing again the ritual.
 
 # <a name="S-ways"></a>Knightly ways traits
 
