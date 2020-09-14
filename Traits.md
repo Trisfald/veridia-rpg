@@ -575,6 +575,13 @@ Spend one point of mana and take an action.\
 Roll *intuition + arcana*. You or another target within 30 meters gain an advantage of two dice on all rolls of a physical or mental attribute of your choice.\
 Lasts one hour.
 
+### Fantastic lift
+##### *Requirements: grey magic 3*
+##### Cost: 4 experience points
+Spend ten points of mana and perform a four hours long ritual. Divide mana and time by the number of participants.\
+A plaform is enchanted and becomes a magical elevator. It can carry ten people. Choose how the mechanism should be activated.\
+The enchantment lasts one month.
+
 ### Illusion
 ##### *Requirements: grey magic 2*
 ##### Cost: 4 experience points
