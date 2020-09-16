@@ -575,10 +575,17 @@ Spend one point of mana and take an action.\
 Roll *intuition + arcana*. You or another target within 30 meters gain an advantage of two dice on all rolls of a physical or mental attribute of your choice.\
 Lasts one hour.
 
+### Stronghold's doorway
+##### *Requirements: grey magic 2*
+##### Cost: 4 experience points
+Spend ten points of mana and perform a four hours long ritual. Divide mana and time by the number of participants.\
+You conjure a magical gate, as resistant as iron, no wider than six meters. Choose how the mechanism should be activated.\
+The enchantment lasts one month.
+
 ### Fantastic lift
 ##### *Requirements: grey magic 3*
 ##### Cost: 4 experience points
-Spend ten points of mana and perform a four hours long ritual. Divide mana and time by the number of participants.\
+Spend eight points of mana and perform a six hours long ritual. Divide mana and time by the number of participants.\
 A plaform is enchanted and becomes a magical elevator. It can carry ten people. Choose how the mechanism should be activated.\
 The enchantment lasts one month.
 
