@@ -783,6 +783,13 @@ Lasts a number of turns equal to twice the successes.
 Spend one point of mana and take an action.\
 You fire a high speed bullet of water. Roll *intuition + marksmanship*. Deals armor piercing damage equal to one plus the number of successes. Can be dodged or blocked.
 
+### Water of life
+##### *Requirements: chromatic magic 2*
+##### Cost: 5 experience points
+Spend twelve points of mana and perform a six hours long ritual. Divide mana and time by the number of participants.\
+A miraculous spring of water appears in your vicinity, producing up to ten litres per minute.\
+The enchantment lasts one month.
+
 ### Elemental aegis
 ##### *Requirements: chromatic magic 3*
 ##### Cost: 4 experience points
