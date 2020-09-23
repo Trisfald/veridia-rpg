@@ -90,7 +90,7 @@ Starting equipment: clothes, equipment for a value up to 1500 deli
 ### Labourer
 ##### *Requisites: strength 3*
 ##### Cost: 3 experience points
-Manual labour has provided you with food and a place to stay. People recognize you as a good worker.  
+Manual labour has provided you with food and a place to stay. People recognize you as a good worker.
 Starting money: 250 deli\
 Starting equipment: clothes
 
@@ -763,7 +763,7 @@ Fire a flaming missile at up to 45 meters of distance. Roll *intuition + marksma
 Spend any amount of points of mana and concentrate for several minutes.\
 You form one metric cube of water for each point spent.
 
-### Spark 
+### Spark
 ##### *Requirements: chromatic magic 2*
 ##### Cost: 3 experience points
 Spend two points of mana and take an action.\
@@ -802,6 +802,13 @@ Lasts one hour.
 ##### Cost: 5 experience points
 Spend two points of mana and take an action.\
 Roll *intuition + arcana*. You launch an exploding ball of flames up to 45 meters of distance. Deals three points of elemental damage in a radius of three meters. Can be dodged.
+
+### Flame-imbued chamber
+##### *Requirements: chromatic magic 3*
+##### Cost: 5 experience points
+Spend twelve points of mana and perform an eight hours long ritual. Divide mana and time by the number of participants.\
+You summon a great fire in the center of a room. The flames' temperature is high enough to melt metals.\
+The enchantment lasts one month.
 
 ### Ice shard
 ##### *Requirements: chromatic magic 3*
@@ -884,7 +891,7 @@ Lasts one week or until broken.
 ##### Cost: 5 experience points
 Spend one point of mana and take one action per three consecutive turns.\
 Roll *intuition + arcana* and select a target at a maximum distance of 30 meters. The first hit inflicts one point of elemental damage, the second two points and the third three points. Hits can be dodged or blocked.\
-Failing the roll interrupts the spell. 
+Failing the roll interrupts the spell.
 
 ## <a name="SS-white"></a>White magic traits
 
@@ -986,7 +993,7 @@ Lasts one hour.
 ##### Cost: 5 experience points
 Spend two points of mana and take an action.\
 A magical mantle protects you from dangerous spells. Roll *intuition + arcana*. You gain a barrier equal to twice the number of successes. In addition, you are immune to spells' side effects.\
-Lasts one hour or until the barrier is depleted.   
+Lasts one hour or until the barrier is depleted.
 
 ### Oath of allegiance
 ##### *Requirements: silver magic 5*
@@ -1215,7 +1222,7 @@ All Sanguis traits need one less point of fervor.
 ##### *Requisites: way of the mage 1*
 ##### Cost: 3 experience points
 Take a free action.\
-You shoot a bullet of air up to 30 meters of distance, dealing one point of damage and giving the target a disadvantage of one dice during his next turn. Can be dodged or blocked (with one success). 
+You shoot a bullet of air up to 30 meters of distance, dealing one point of damage and giving the target a disadvantage of one dice during his next turn. Can be dodged or blocked (with one success).
 
 ### Flame edge
 ##### *Requisites: way of the mage 1*
@@ -1273,7 +1280,7 @@ Strong wind aids your actions. You have an advantage of three dice on all physic
 ##### *Requisites: way of the mage 3*
 ##### Cost: 4 experience points
 Spend one, two or three points of fervor and take an action.\
-A bolt of lightning strikes one target at a maximum distance of 30 meters. Roll *way of the mage + melee*, one success is needed to hit. Deals elemental damage equal to one plus the fervor spent and the number of matches. Can be dodged or blocked. 
+A bolt of lightning strikes one target at a maximum distance of 30 meters. Roll *way of the mage + melee*, one success is needed to hit. Deals elemental damage equal to one plus the fervor spent and the number of matches. Can be dodged or blocked.
 
 ### Power armor
 ##### *Requisites: way of the mage 3*
@@ -1322,7 +1329,7 @@ Lightning empowers your weapon. It deals two additional points of elemental dama
 At any time you can use part of the remaining energy to cast lightning bolt.\
 Each attack that manages to inflict damage consumes one charge.
 
-### Solid-state eraser 
+### Solid-state eraser
 ##### *Requisites: way of the mage 4, fighting of the elements*
 ##### Cost: 3 experience points
 Your weapon corrodes anything, dealing elemental damage equal to the number of successes.\
@@ -1411,7 +1418,7 @@ All other characters procede normally, as if you didn't activate this ability. Y
 ##### Cost: 4 experience points
 Add your way of the psychic's level as an advantage to all your perception rolls. In addition, you can't be taken by surprise and you are inherently aware of any danger, even while asleep.
 
-### Telepathy 
+### Telepathy
 ##### *Requisites: way of the psychic 1*
 ##### Cost: 2 experience points
 Spend one point of fervor and take an action.\
@@ -1431,7 +1438,7 @@ Spending the additional point of fervor triples the range.
 Spend one point of fervor and take an action.\
 Roll *way of the psychic + marksmanship*. You hit a target at a maximum distance of 30 meters, dealing damage equal to three plus the number of successes. Can be dodged or blocked.
 
-### Telekinesis 
+### Telekinesis
 ##### *Requisites: way of the psychic 2*
 ##### Cost: 3 experience points
 Spend one point of fervor and take an action.\
@@ -1728,7 +1735,7 @@ You breath fire at the enemy in front of you. Roll *devil path + athletics*. On 
 ##### Cost: 5 experience points
 Spend two points of focus.\
 You create illusions in your target's mind. Roll your current attack as usual but don't deal damage. Then, for every success his difficulty when attacking you is increased by one.\
-The illusion lasts until the victim successfully hits you. The target can also spend an action and roll *willpower* to decrease the difficulty. 
+The illusion lasts until the victim successfully hits you. The target can also spend an action and roll *willpower* to decrease the difficulty.
 
 ### Demonic lethal venom
 ##### *Requirements: devil path 4*
@@ -1798,13 +1805,13 @@ Unless explicitly stated a trait doesn't stack with itself; a second activation 
 Armor bonus, elemental resist bonus, initiative bonus, barriers, advantages and disadvantages from different specialties never stack: take into account only the highest one.
 
 ###### Examples
-    
+
 > Agility (**2**) + reaction (**2**) + boots of celerity (1) + celerity (**4**) -> total initiative: 8
 
 > Mail (**3**) + sanguis (**2**) + magic armor (1) -> total armor: 5
 
 > Strength (**2**) + melee (**2**) + sword specialist (**1**) + sanguis (**2**) + combat reactions (1) + situational advantage (**1**) -> total attack dice pool: 8
-    
+
 # <a name="S-summons"></a>Appendix B: Summons
 
 Summoned creatures or objects are faithful replicas of their original pieces. They, however, lack any will of their own, following blindly master's orders to the best of their ability.
