@@ -4,7 +4,7 @@ Veridia is the name of an imaginary world. All began in the mid 2010s when a lit
 
 The next step saw a change in the medium, going from a videogame to a book. The opera, titled *Veridia*, is a setting manual describing a much more refined world. It could very well be considered as the full expression of the ideas previously pioneered by Veridia Tactics. A free copy is available [here](https://github.com/Trisfald/veridia-book) or as a [free epub](https://books2read.com/b/mY1OaV?edit=maybe-later&store=null). However, it's by no means the finishing line: countless details and stories awaits to be created.
 
-The Veridia Tabletop RPG is born to give people the possibility to leverage Veridia's lore in order to create and experience their own adventures. Reading the setting manual or having played the videogame is not strictly required to start an adventure, but it'll greatly enhance the campaign, so give it a try! 
+The Veridia Tabletop RPG is born to give people the possibility to leverage Veridia's lore in order to create and experience their own adventures. Reading the setting manual or having played the videogame is not strictly required to start an adventure, but it'll greatly enhance the campaign, so give it a try!
 
 ## Characteristics
 - ### Detailed fantasy setting (late medieval, low to mid magic)
@@ -12,7 +12,7 @@ The Veridia Tabletop RPG is born to give people the possibility to leverage Veri
     Magic is neither common nor too rare: it doesn't impact the ordinary life of common people, but it definitely influences the balance of power.\
     Veridia is composed of many regions, each one having its own peculiarities. There are powerful city states, large kingdoms, unexplored lands and more.
 - ### One roll per character's turn is enough
-    A character never has to roll the dice more than once per turn. This speeds up play considerably. 
+    A character never has to roll the dice more than once per turn. This speeds up play considerably.
 - ### Combat can be deadly
     Even if your character is an experienced fighter any battle can be dangerous!\
     By using a fixed amount of health points, there's always the risk to receive a long lasting injury from a small foe's lucky hit.

@@ -50,7 +50,7 @@ Dice rolled | Outcome
 7, 1, 4, 6, 11 | 1 success, no matches
 1, 4, 2, 1, 9 | 1 success, no matches
 1, 9, 9, 9, 12 | 4 successes, a triple match of 9's
-5, 5, 1, 2, 3 | no successes, no matches 
+5, 5, 1, 2, 3 | no successes, no matches
 1, 2, 1, 4, 1 | no successes, a triple match of 1's, critical failure
 
 ### Advantages and disadvantages
@@ -67,7 +67,7 @@ Difficult actions may require more than one success to be carried out favorably.
 An action with +1 difficulty *eats* the success with the lowest rolled number for the purpose of deciding matches and counting successes.
 
 ###### Example
-    
+
 > A roll is made with a dice pool of 5 and +2 difficulty.\
 > The results are: 4, 11, 11, 11, 12.\
 > Since the difficulty is +2 the lowest two successes are voided and the effective results are: 4, 11, 12 (one success and no matches).
@@ -75,7 +75,7 @@ An action with +1 difficulty *eats* the success with the lowest rolled number fo
 ### Automatic successes
 
 With the game master's approval, in non-heated situations a roll can be avoided; in such cases the number of successes is equal to one fourth of the dice pool (rounded down), but no matches are obtained.
-    
+
 ## <a name="SS-actions_turns"></a>Actions and turns
 
 ### Order of initiative
@@ -123,7 +123,7 @@ Concurrent actions in the same turn are allowed as long as it makes sense for th
 To first step is to determine which of their dice pools is the smallest, taking into account advantages and disadvantages. Then, subtract one dice for every action taken after the first. Finally, allocate that amount of dice among all the actions.
 
 ###### Example
-    
+
 > Suppose a player wants to attack with a sword (*strength (4) + melee (3)*) while running (*agility (3) + athletics (2)*).\
 > The dice pool would be the smallest of the two (5).\
 > Now subtract 1 because he's doing two things at the same time.\
@@ -137,7 +137,7 @@ Free actions don't require a dice roll.
 ### Instant actions
 
 Instant actions can be executed at any point in time, even in during another character's turn. There's no limit to the number of instant actions per turn.
-    
+
 # <a name="S-characters"></a>Characters
 
 This section explains how both the playable and nonplayable characters are represented within the game.
@@ -163,7 +163,7 @@ For humans, attributes follow a scale going from a minimum of **1** to a maximum
 *    3: good
 *    4: great
 *    5: superb
-    
+
 Other races can have different minimum or maximum for certain attributes. See [Racial bonuses](#S-racial_bonuses).
 
 #### Fraction attributes
@@ -171,7 +171,7 @@ Other races can have different minimum or maximum for certain attributes. See [R
 Attributes are the only numerical factor that can be a fraction. When used in conjuction with a skill to determine a dice pool's size, multiply the skill's value by the fraction (rounded down).
 
 ###### Example
-   
+
 > A creature rolls strength (1/3) + brawl (6). The final dice pool is: 2.\
 > Another creature rolls strength (1/2) + brawl (3). The final dice pool is: 1.
 
@@ -215,14 +215,14 @@ Incapacitated | no action is possible
 Health levels are set by assigning one health point to each of them, starting from *healthy* and ending with *incapacitated*; repeat until no health points are left.
 
 ###### Example
-    
+
 > Health levels distribution for a character having nine health points:
 > <pre>
 > Healthy         xxx
 > Hurt            xx
 > Impaired        xx
 > Incapacitated   xx</pre>
-            
+
 Any additional damage taken after reaching zero health points will cause the character's **death**.
 
 #### Recovering health
@@ -244,7 +244,7 @@ While often instantaneous, magical healing can usually cure only the target's cu
 
 ### Virtues and willpower
 
-Willpower is the sum of two special attributes, called **virtues**: 
+Willpower is the sum of two special attributes, called **virtues**:
 
 #### Courage
 
@@ -254,7 +254,7 @@ Goes from **1** to **5** and can be increased with experience like attributes.
 
 Goes from **0** to **7**. Increases and decreases are consequences of the story. A character can actively try to increase integrity, but it requires time (not experience!) and the intent must be backed up by his actions. The game master must decrease a character's integrity score if the latter's behavior demands it; the player should be warned when his course of action will cause an integrity loss.
 
-In summary, willpower can take a value as low as **1** and as high as **12**.   
+In summary, willpower can take a value as low as **1** and as high as **12**.
 
 ### Defenses
 
@@ -291,7 +291,7 @@ A Skill value goes from a minimum of **0** to a maximum of **7**:
 *    4: proficient
 *    5: expert
 *    6: master
-*    7: genius   
+*    7: genius
 
 ### Basic skills
 
@@ -304,7 +304,7 @@ If a specific capability of your character can't be expressed by any entry in th
 	* Create explosives: *intuition + alchemy*
 	* Concoct potions: *intuition + alchemy*
 	* Create poisons: *intuition + alchemy*
-    
+
 * ##### Alertness
 
     * Spot a sudden danger: *reaction + alertness*
@@ -535,7 +535,7 @@ A magic branch that tries to harmonize itself with nature.
 
 ##### Crude magic
 
-Raw form of spellcrafting, primitive yet effective. 
+Raw form of spellcrafting, primitive yet effective.
 
 ##### Black magic
 
@@ -624,7 +624,7 @@ All equipment currently held or deposited somewhere. Also, all other possessions
 Try to flesh out the character concept as well as possible. It doesn't have to be absolutely complete, but more you know about it the easier will be completing the creation process.
 
 The best resource to get yourself familiar with all kind of possible character concepts in Veridia is the [official setting book](https://books2read.com/b/mY1OaV?edit=maybe-later&store=null).\
-Alternatively, you can read the [lore book](Lore-book.pdf) for the videogame that inspired this tabletop RPG. 
+Alternatively, you can read the [lore book](Lore-book.pdf) for the videogame that inspired this tabletop RPG.
 
 1) #### Fill out the racial minimum attributes
 
@@ -650,7 +650,7 @@ If you desire so, add one [background](Traits.md#S-background) and one or more s
 
 1) #### Use the starting money to purchase equipment:
 
-The amount of starting money is the sum of: 
+The amount of starting money is the sum of:
 * your background's starting money
 * any additional starting money given by traits (it can be also negative!)
 
@@ -675,7 +675,7 @@ Before continuing make sure to have read the [Rules overview](#S-rules_overview)
 
 ### Wait
 
-Delays the character's turn, by as many position as he desires. A character can't delay his action against a character with higher initiative who decided to act after him. 
+Delays the character's turn, by as many position as he desires. A character can't delay his action against a character with higher initiative who decided to act after him.
 
 ### Movement
 
@@ -702,7 +702,7 @@ A basic attack takes one turn and is made by rolling the appropriate *attribute 
 When attacked in melee by someone with higher initiative, a player must say if he will in turn try an offensive melee action against his aggressor. This's needed for resolving **exchanges**.
 
 ###### Example
-    
+
 > A character attacks with a sword, rolling strength (4) + melee (2).\
 > He obtains the following result: 5, 11, 1, 3, 10. In summary, two successes.\
 > The target is wearing mail armor, thus the damage inflicted is: weapon base (2) + successes (2) - armor (3) = 1.
@@ -728,7 +728,7 @@ The two combatants perform their rolls with an additional penalty of one dice (o
 Exchanges are not triggered automatically: at least one of the players involved must state the intention to transform his offensive action into an exchange. Once one side has declared the exchange the other side can't back off anymore and action resolution happens immediately (only for the exchange itself, other concurrent actions will be resolved following the normal order of turns).
 
 ###### Example
-    
+
 > Eric attacks Mark with a sword. Mark has three options: he can try to avoid taking damge (via dodge, block or parry), he can attack Eric in close quarters or he can perform another type of action.\
 > Either one of the first two moves must be declared before Eric resolves his offensive action.\
 > Let's say Mark decides to attack Eric with his dagger; at this point, anyone of the two can trigger an exchange.\
@@ -762,7 +762,7 @@ Small (eye, ear) | +3
 #### Follow-ups
 
 * **Lock**: hinder your opponent, adding 1 difficulty per success to all his rolls (except for breaking free from the grapple).
-* **Disarm**: spend more successes than the target's melee skill to disarm him. 
+* **Disarm**: spend more successes than the target's melee skill to disarm him.
 * **Knock down**: spend more successes than the opponent's strength to knock him prone, ending the grapple.
 * **Breach armor**: each success spent decreases the target's armor against *bash* by one point until the grapple is broken.
 * **Bash**: hit the target's vitals with your weapon, dealing damage equal to *weapon damage + successes / 2 (rounded down)*.
@@ -777,7 +777,7 @@ It's possible to try hitting a target farther away. For every six meters over th
 
 ### Ammunition
 
-Arrows, bolts and other kind of projectiles are needed by missile weapons. Keeping track of how many of them are at a character's disposal is optional, simply do what suits better your group playstyle. 
+Arrows, bolts and other kind of projectiles are needed by missile weapons. Keeping track of how many of them are at a character's disposal is optional, simply do what suits better your group playstyle.
 
 Regarding magitech weapons, however, it's recommended to accurately manage the amount of crystals used. The reason is that crystals are a resource both expensive and hard to acquire.
 
@@ -789,9 +789,9 @@ Actions performed on horseback follow the usual rules with few caveats. For inst
 
 ## <a name="SS-dual"></a>Dual wielding
 
-Dual wielding is the practice of fighting with one melee weapon in each arm. Usually, the off-hand holds a dagger or a very small sword. 
+Dual wielding is the practice of fighting with one melee weapon in each arm. Usually, the off-hand holds a dagger or a very small sword.
 
-Parries and exchanges have an advantage of two dice and one dice respectively. Also, on every attack, the character can choose with which weapon he wants to strike. 
+Parries and exchanges have an advantage of two dice and one dice respectively. Also, on every attack, the character can choose with which weapon he wants to strike.
 
 ## <a name="SS-cover"></a>Cover
 
@@ -815,7 +815,7 @@ When a character is caught by surprise he can't take contested actions nor trigg
 
 # <a name="S-equipment"></a>Equipment
 
-See [Appendix D: Weapons table](#S-weapons) and [Appendix E: Defenses table](#S-defenses) to known which kind of equipment is available. 
+See [Appendix D: Weapons table](#S-weapons) and [Appendix E: Defenses table](#S-defenses) to known which kind of equipment is available.
 
 Equipment beyond weapons and armors, together with a list of purchase prices can be found in [Prices and wages](Prices_and_wages).
 
@@ -933,7 +933,7 @@ The main way to do so is giving experience point that they can use to improve th
 
 Monetary rewards are another important aspect. While obtaining them depends heavily on the players' seeking opportunities, it could be useful to have a plan regarding the party's finances; an unexpected treasure, the scarcity of funds or a property in need of care can spice up a campaign.
 
-Last but not least, keep in mind that some traits can be given as reward as well. 
+Last but not least, keep in mind that some traits can be given as reward as well.
 
 # <a name="S-version"></a>Appendix A: Version numbers
 
@@ -1016,7 +1016,7 @@ Throwing dagger | 12 | 0 | disposable, multipurpose
 ### Quirks
 
 * **Armor piercing**: ignore half of the target's armor damage reduction (rounded down)
-* **Balanced**: advantage of one dice during exchanges and parries 
+* **Balanced**: advantage of one dice during exchanges and parries
 * **Barehanded**: can't parry or exchange blows against a weapon
 * **Devastating**: matches add extra damage (a match +1, a triple match +2, ...)
 * **Disposable**: the weapon is gone after attacking, but might be retrieved on the battlefield
@@ -1040,7 +1040,7 @@ Robes | 0 | 0
 Light armor (leather, gambeson) | 2 | 1
 Medium armor (mail) | 3 | 2
 Heavy armor (brigandine, coat of plates) | 4 | 3
-Plate armor | 5 | 3 
+Plate armor | 5 | 3
 
 ### Other defenses
 

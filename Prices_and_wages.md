@@ -8,14 +8,14 @@
 
 # <a name="S-items"></a>Prices of items
 
-Item | Price (deli) | Rarity 
+Item | Price (deli) | Rarity
 ---- |:------------:|:-----:
 Ale, cheap | 0.1/l | common
 Ale, good | 0.2/l | common
 Meal, lord | 4 | uncommon
 Meal, peasant | 1.5 | common
 Meal, servant | 0.5 | common
-Spices | 5-50/kg | variable  
+Spices | 5-50/kg | variable
 Wine, cheap | 1/l | common
 Wine, good | 3/l | uncommon
 -------------------------------------- | ----------------- | ---------------
@@ -31,10 +31,10 @@ Armorer's station | 2500 | uncommon
 Axe or similar tool | 5 | common
 Book | 70 | uncommon
 Boots of celerity | 1500 | rare
-Craftsman's tools | 10 | common  
+Craftsman's tools | 10 | common
 Magical lamp | 1500 | rare
 Magical lock | 1500 | rare
-Magical telegraph | 20000 | rare 
+Magical telegraph | 20000 | rare
 Mechanic's tools | 300 | uncommon
 Sigil of elemental cape | 100 | rare
 Sigil of elemental weapon | 100 | rare
@@ -91,7 +91,7 @@ Riding horse | 500 | uncommon
 -------------------------------------- | ----------------- | ---------------
 Caravel | 25000 | rare
 Carrack | 120000 | rare
-Chariot | 2000 | uncommon     
+Chariot | 2000 | uncommon
 Fishing ship | 2500 | common
 Iron-bound cart | 50 | common
 Merchant ship | 15000 | uncommon
@@ -129,7 +129,7 @@ Enchant reinforcement (after six months)| item value/4
 Fee for patching armor | item value/10
 Fencing lessons | 30/week
 Healing spell | 50
-Magic school | 0-1000/year 
+Magic school | 0-1000/year
 Medical treatment | 7/day
 Night at an inn | 1-2
 Rent a building for a year | building value/10
