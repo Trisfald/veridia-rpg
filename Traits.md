@@ -578,14 +578,14 @@ Lasts one hour.
 ### Stronghold's doorway
 ##### *Requirements: grey magic 2*
 ##### Cost: 4 experience points
-Spend ten points of mana and perform a four hours long ritual. Divide mana and time by the number of participants.\
+Spend ten points of mana and perform a four hours long ritual. Divide the mana and time spent between the participants.\
 You conjure a magical gate, as resistant as iron, no wider than six meters. Choose how the mechanism should be activated.\
 The enchantment lasts one month.
 
 ### Fantastic lift
 ##### *Requirements: grey magic 3*
 ##### Cost: 4 experience points
-Spend eight points of mana and perform a six hours long ritual. Divide mana and time by the number of participants.\
+Spend eight points of mana and perform a six hours long ritual. Divide the mana and time spent between the participants.\
 A plaform is enchanted and becomes a magical elevator. It can carry ten people. Choose how the mechanism should be activated.\
 The enchantment lasts one month.
 
@@ -786,7 +786,7 @@ You fire a high speed bullet of water. Roll *intuition + marksmanship*. Deals ar
 ### Water of life
 ##### *Requirements: chromatic magic 2*
 ##### Cost: 5 experience points
-Spend twelve points of mana and perform a six hours long ritual. Divide mana and time by the number of participants.\
+Spend twelve points of mana and perform a six hours long ritual. Divide the mana and time spent between the participants.\
 A miraculous spring of water appears in your vicinity, producing up to ten litres per minute.\
 The enchantment lasts one month.
 
@@ -806,7 +806,7 @@ Roll *intuition + arcana*. You launch an exploding ball of flames up to 45 meter
 ### Flame-imbued chamber
 ##### *Requirements: chromatic magic 3*
 ##### Cost: 5 experience points
-Spend twelve points of mana and perform an eight hours long ritual. Divide mana and time by the number of participants.\
+Spend twelve points of mana and perform an eight hours long ritual. Divide the mana and time spent between the participants.\
 You summon a great fire in the center of a room. The flames' temperature is high enough to melt metals.\
 The enchantment lasts one month.
 
