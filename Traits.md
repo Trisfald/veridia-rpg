@@ -901,6 +901,13 @@ Failing the roll interrupts the spell.
 Spend one point of mana and take an action.\
 Roll *intuition + arcana*. Remove one poisonous effect for each success from you or a target at a maximum distance of 15 meters.
 
+### First aid camp
+##### *Requirements: white magic 1*
+##### Cost: 3 experience points
+Spend six points of mana and perform a six hours long ritual. Divide the mana and time spent between the participants.\
+Choose a room. For creatures staying there the time needed to recover from injuries is halved.\
+The enchantment lasts one month.
+
 ### Bless
 ##### *Requirements: white magic 2*
 ##### Cost: 4 experience points
@@ -970,7 +977,7 @@ Add one point of damage if the target is within nine meters from you or two poin
 ### Condemnation
 ##### *Requirements: silver magic 3*
 ##### Cost: 5 experience points
-Spend one point of mana.\
+Spend one point of mana and take an action.\
 When you hit someone with an attack, you can decide to activate this spell on him. The next two times the victim is hit, sum one point to the damage received.\
 Lasts one hour.
 
@@ -981,7 +988,7 @@ Spend one point of mana and take an action.\
 Touch a target and roll *intuition + arcana*. For the duration of the spell, you will know the victim's exact whereabouts.\
 Lasts one day per success.
 
-### Army of righteousness
+### Divine protection
 ##### *Requirements: silver magic 4*
 ##### Cost: 4 experience points
 Spend two points of mana and take an action.\
