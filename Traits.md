@@ -1120,6 +1120,13 @@ Lasts one hour.
 Perform a one hour long ritual.\
 You can extract mana from human beings. The target suffers one point of damage and you recover one point of mana.\
 
+### Fiendish servant
+##### *Requirements black magic 3*
+##### Cost: 5 experience points
+Spend twelve points of mana and perform a ten hours long ritual. Divide the mana and time spent between the participants.\
+You can summon a ghoul under your service. It doesn't require any rest nor nourishment.\
+The servant returns to ashes after one week.
+
 ### Foul pact
 ##### *Requirements: black magic 3*
 ##### Cost: 5 experience points
