@@ -974,6 +974,13 @@ Spend one point of mana and take an action.\
 You strike a target at a distance not greater than 12 meters. Roll *intuition + melee*. The damage dealt is equal to the number of successes, plus the number of matches. Can be dodged or blocked.\
 Add one point of damage if the target is within nine meters from you or two points of damage if the target is within six meters from you.
 
+### Army of righteousness
+##### *Requirements: silver magic 3*
+##### Cost: 4 experience points
+Spend five points of mana and perform a two hours long ritual. Divide the mana and time spent between the participants.\
+You give a magical barrier that can withstand two points of damage to one hundred creatures in your proximity.\
+The enchantment lasts one day.
+
 ### Condemnation
 ##### *Requirements: silver magic 3*
 ##### Cost: 5 experience points
@@ -1001,6 +1008,13 @@ Lasts one hour.
 Spend two points of mana and take an action.\
 A magical mantle protects you from dangerous spells. Roll *intuition + arcana*. You gain a barrier equal to twice the number of successes. In addition, you are immune to spells' side effects.\
 Lasts one hour or until the barrier is depleted.
+
+### Battle chanting
+##### *Requirements: silver magic 5*
+##### Cost: 6 experience points
+Spend five points of mana and perform a two hours long ritual. Divide the mana and time spent between the participants.\
+You give one dice of advantage to all combat rolls to one hundred creatures in your proximity.\
+The enchantment lasts one day.
 
 ### Oath of allegiance
 ##### *Requirements: silver magic 5*
