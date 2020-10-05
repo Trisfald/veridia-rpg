@@ -921,6 +921,13 @@ Lasts one hour.
 Spend one point of mana and take an action.\
 Choose a target at a maximum distance of 15 meters and roll *intuition + arcana*. To succeed you must obtain a number of successes equal or greater than the target's willpower. After three rounds, if nothing interacts with the victim, he falls into a deep sleep.
 
+### Sweet rations
+##### *Requirements: white magic 2*
+##### Cost: 3 experience points
+Spend seven points of mana and perform a two hours long ritual. Divide the mana and time spent between the participants.\
+Convert up to ten meals (both food and drinks) into small cookies.\
+The supplies are edible for one month.
+
 ### Cleanse
 ##### *Requirements: white magic 3, cure affliction*
 ##### Cost: 4 experience points
