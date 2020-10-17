@@ -1067,6 +1067,12 @@ Spend two points of mana and take an action.\
 Roll *intuition + arcana*. You call forth a creature of your choice of the summon archetype beast, with a maximum level equal to the successes.\
 Lasts one hour.
 
+### Accelerated growth
+##### *Requirements natural magic 3*
+##### Cost: 4 experience points
+Spend eight points of mana and perform a five hours long ritual. Divide the mana and time spent between the participants.\
+Grab a handful of seeds and plant them into the ground. These will grow a thousand times faster than normal.
+
 ### Regenerate
 ##### *Requirements: natural magic 3*
 ##### Cost: 5 experience points
