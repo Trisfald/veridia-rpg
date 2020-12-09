@@ -697,6 +697,13 @@ Six months | five days
 Spend two or three points of mana and take an action.\
 Fire a bolt of energy at up to 45 meters of distance. Roll *intuition + marksmanship*. Deals armor piercing damage equal to two plus the number of successes. The three point version ignores one additional point of armor per match. Can be dodged or blocked.
 
+### Observant eyes
+##### *Requirements: grey magic 4*
+##### Cost: 5 experience points
+Spend six points of mana and perform a nine hours long ritual. Divide the mana and time spent between the participants.\
+You can bestow the sense of vision to a small object. The latter relays the images it is seeing to a crystal sphere located elsewhere, but not farther than ten kilometers.\
+The enchantment lasts one month.
+
 ### Meteor swarm
 ##### *Requirements: grey magic 5*
 ##### Cost: 5 experience points
