@@ -1060,6 +1060,13 @@ Thorny branches sprout from the ground to grab your enemies in an area of radius
 The branches deal one damage per turn and have two health points.\
 Lasts four turns.
 
+### Call of the rain sprites
+##### *Requirements natural magic 2*
+##### Cost: 3 experience points
+Spend six points of mana and perform a six hours long ritual. Divide the mana and time spent between the participants.\
+It starts raining in an area of a few kilometers radius around you. This ritual can't be performed in the same region more than two times in a month.\
+The precipitation lasts three days.
+
 ### Connect vision
 ##### *Requirements: natural magic 2*
 ##### Cost: 3 experience points
