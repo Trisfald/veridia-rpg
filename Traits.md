@@ -562,6 +562,13 @@ Roll *intuition + arcana*. On success, you convey one signal at unlimited distan
 There's a magical space, of the size of a wardrobe, in which you can stash items.\
 Spend one point of mana and take an action. Roll *intuition + arcana*; you can evoke one item per success from your inventory.
 
+### Clay laborer
+##### *Requirements: gray magic 2*
+##### Cost: 4 experience points
+Spend seven points of mana and perform a six hours long ritual. Divide the mana and time spent between the participants.\
+A restless humanoid golem takes shape and will follow your orders. It can't fight, but he can do simple manual work with the strength of three men.\
+The laborer returns to ashes after one week.
+
 ### Detect magic
 ##### *Requirements: grey magic 2*
 ##### Cost: 3 experience points
