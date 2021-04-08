@@ -1409,7 +1409,7 @@ Frozen body parts take half a day to heal.
 ##### *Requisites: way of the mage 4, fighting of the elements*
 ##### Cost: 3 experience points
 Lightning empowers your weapon. It deals two additional points of elemental damage.\
-At any time you can use part of the remaining energy to cast lightning bolt.\
+At any time you can use part of the remaining energy to cast lightning bolt (only if you have such trait).\
 Each attack that manages to inflict damage consumes one charge.
 
 ### Solid-state eraser

@@ -713,11 +713,11 @@ When attacked in melee by someone with higher initiative, a player must say if h
 
 Parry, block and dodge are contested actions used in response to various types of attack.
 
-A character can parry melee strikes if his weapon allows it. Roll *reaction + melee* to detract successes from an attacker.
+A character can parry melee strikes if his weapon allows it. Roll *reaction + parry* to detract successes from an attacker.
 
 Blocking works in the same manner as parrying with the only difference being the use of a shield. It's possible to block missile attacks.
 
-It's also possible to dodge incoming missiles and close combat blows. The roll is *reaction + agility*.
+It's also possible to dodge incoming missiles and close combat blows. The roll is *reaction + athletics*.
 
 ### Exchange
 
@@ -1034,8 +1034,8 @@ Throwing dagger | 12 | 0 | disposable, multipurpose
 
 ### Armors
 
-Armor | Physical reduction | Agility rolls disadvantage
------ |:------------------:|:-------------------------:
+Armor | Physical reduction | Athletics rolls disadvantage
+----- |:------------------:|:---------------------------:
 Robes | 0 | 0
 Light armor (leather, gambeson) | 2 | 1
 Medium armor (mail) | 3 | 2
