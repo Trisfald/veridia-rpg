@@ -589,6 +589,13 @@ Spend ten points of mana and perform a four hours long ritual. Divide the mana a
 You conjure a magical gate, as resistant as iron, no wider than six meters. Choose how the mechanism should be activated.\
 The enchantment lasts one month.
 
+### Deep sea laborer
+##### *Requirements: gray magic 3, clay laborer*
+##### Cost: 3 experience points
+Spend six points of mana and perform a seven hours long ritual. Divide the mana and time spent between the participants.\
+Similar to clay laborer. The worker is weaker, but it can go underwater.\
+The laborer returns to ashes after one week.
+
 ### Fantastic lift
 ##### *Requirements: grey magic 3*
 ##### Cost: 4 experience points
@@ -710,6 +717,20 @@ Fire a bolt of energy at up to 45 meters of distance. Roll *intuition + marksman
 Spend six points of mana and perform a nine hours long ritual. Divide the mana and time spent between the participants.\
 You can bestow the sense of vision to a small object. The latter relays the images it is seeing to a crystal sphere located elsewhere, but not farther than ten kilometers.\
 The enchantment lasts one month.
+
+### Winged laborer
+##### *Requirements: gray magic 4, clay laborer*
+##### Cost: 3 experience points
+Spend five points of mana and perform a eight hours long ritual. Divide the mana and time spent between the participants.\
+Similar to clay laborer. The worker is weaker, but it can fly.\
+The laborer returns to ashes after one week.
+
+### Colossal laborer
+##### *Requirements: gray magic 5, clay laborer*
+##### Cost: 3 experience points
+Spend fifteen points of mana and perform a ten hours long ritual. Divide the mana and time spent between the participants.\
+Similar to clay laborer. The worker is ten meters tall and has the strength of twenty humans.\
+The laborer returns to ashes after one week.
 
 ### Meteor swarm
 ##### *Requirements: grey magic 5*
