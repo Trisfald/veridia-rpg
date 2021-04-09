@@ -82,7 +82,7 @@ With the game master's approval, in non-heated situations a roll can be avoided;
 
 Normally, characters can carry out their deeds without a specific ordering, just following common sense and relying on the game master's arbitrage.
 
-However, if the situation requires fine grained control of the characters' actions (for example in combat), each participant will take his turn starting from the one with the highest roll of *agility + reaction*; resolve ties with matches and, if not yet enough, with a simple dice roll.
+However, if the situation requires fine grained control of the characters' actions (for example in combat), each participant will roll a single d12 and then add his *agility* and *reaction* scores. Characters with higher results act first; resolve ties by prioritizing higher attribute scores and, if not yet enough, with another dice roll.
 
 ### Turns
 
