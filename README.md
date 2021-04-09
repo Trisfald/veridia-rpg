@@ -35,6 +35,7 @@ A few additional resources:
 
 * [Lore book](Lore-book.pdf): the original lore book for [Veridia Tactics](https://trisfald.itch.io/veridia-tactics), the game that inspired this tabletop RPG.
 * [Character sheet](Character_sheet_ascii.txt): a character sheet in ascii.
+* [Quick NPC sheet](Quick_sheet.md): a fast to use character sheet for NPC appearing in combat only.
 
 
 ---
