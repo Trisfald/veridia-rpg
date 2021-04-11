@@ -770,7 +770,7 @@ Small (eye, ear) | +3
 ### Chase and attack
 
 This manouver is applicable against a target who spent his turn trying to run away from a fight (he has to roll *agility + athletics* and score at least one success).\
-A character can attempt a chase, by rolling the smaller dice pool among *agility + athletics* and the dice pool used to attack, with a disadvantage of one die. Upon scoring at least one more success than the fugitive, the character inflicts damage equal to *weapon damage + successes*.\
+A character can attempt a chase, by rolling the smaller dice pool among *agility + athletics* and the dice pool used to attack, with a disadvantage of one die (concurrent action). Upon scoring at least one more success than the fugitive, the character inflicts damage equal to *weapon damage + successes*.\
 Take note that this's a contested action and it might take more than one turn. Also, the runner might win the contested roll and upon accumulating three to five successes (it's easier to lose someone in a crowded alleyway), he finally escapes.
 
 ## <a name="SS-range"></a>Fighting at range

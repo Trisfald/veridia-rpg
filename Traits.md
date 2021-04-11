@@ -302,6 +302,11 @@ You have only one arm. Obviously this inconvenience gives you severe disadvantag
 ##### Cost: 10 experience points
 Your body has reached its peak condition. Add an extra health point to your 'healthy' level.
 
+### Toughness 
+##### *Requirements: constitution 4*
+##### Cost: 6 experience points
+All penalties caused by injures are reduced by one.
+
 ### Weak sense
 ##### *Requisites: -*
 ##### Cost: -4 experience points
@@ -328,12 +333,12 @@ The cost to learn skills at levels 2, 3 and 4 is reduced by one, while the cost 
 
 ### Lightning reflexes
 ##### *Requirements: reaction 3*
-##### Cost: 8 experience points
+##### Cost: 5 experience points
 Your initiative score is considered two numbers higher.
 
 ### Multitasking
 ##### *Requirements: -*
-##### Cost: 4 experience points
+##### Cost: 5 experience points
 The penalties for concurrent actions are reduced by one.
 
 ### People's hero
@@ -466,6 +471,12 @@ Gain one bonus dice when parrying with two melee weapons.
 ##### Cost: 7 experience points
 Add one bonus dice to all attacks and maneuvers when engaging a single opponent in close quarters with a melee weapon.
 
+### Half-swording 
+##### *Requirements: melee 4*
+##### Cost: 4 experience points
+While using a sword, side-sword, longsword or greatsword you can move one or both hands to the blade.\
+Doing so gives you a disadvantage of three dice on the attack roll, but makes your weapon armor piercing.
+
 ### Incapacitator
 ##### *Requisites: brawl 3*
 ##### Cost: 4 experience points
@@ -486,7 +497,7 @@ The feat leaves you vulnerable; during your next turn you incur a disadvantage o
 ### Sharpshooter
 ##### *Requisites: marksmanship 3/throwing 3*
 ##### Cost: 4 experience points
-Declare a target and take aim as a normal action. Until your following turn's end, the first ranged attack on the aforementioned target has an advantage of two dice.
+Declare a target and take aim as a normal action (roll *perception + marksmanship/throwing* if done as concurrent action). Until your following turn's end, the first ranged attack on the aforementioned target has an advantage of two dice.
 
 ### Shield specialist
 ##### *Requisites: melee 4*
