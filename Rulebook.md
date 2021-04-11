@@ -749,6 +749,14 @@ The character must be able to momentarily free one hand. Of course, holding any 
 The number of successes can be spent to perform a follow-up action, a *lock* or both; matches indicates how strong is the grapple. A target willing to liberate himself must roll *strength + brawl* with difficulty increased by the number of matches (+1 for a double match, +2 for a triple match, etc.).\
 Normally, a grapple doesn't end until the attacker let go or the defender breaks free; if grapple holds, on his next turn the attacker can roll again *strength + brawl* to do more follow-ups without incurring the risk of entering an exchange.
 
+#### Follow-ups
+
+* **Lock**: hinder your opponent, adding 1 difficulty per success to all his rolls (except for breaking free from the grapple).
+* **Disarm**: spend more successes than the target's melee skill to disarm him.
+* **Knock down**: spend more successes than the opponent's strength to knock him prone, ending the grapple.
+* **Breach armor**: each success spent decreases the target's armor against *bash* by one point until the grapple is broken.
+* **Bash**: hit the target's vitals with your weapon, dealing damage equal to *weapon damage + successes / 2 (rounded down)*.
+
 ### Aimed strike
 
 A character can attack a specific body part of a target. Doing so increases the roll's difficulty, as following:
@@ -759,13 +767,11 @@ Large (torso, arm, leg) | +1
 Medium (head, hand, feet) | +2
 Small (eye, ear) | +3
 
-#### Follow-ups
+### Chase and attack
 
-* **Lock**: hinder your opponent, adding 1 difficulty per success to all his rolls (except for breaking free from the grapple).
-* **Disarm**: spend more successes than the target's melee skill to disarm him.
-* **Knock down**: spend more successes than the opponent's strength to knock him prone, ending the grapple.
-* **Breach armor**: each success spent decreases the target's armor against *bash* by one point until the grapple is broken.
-* **Bash**: hit the target's vitals with your weapon, dealing damage equal to *weapon damage + successes / 2 (rounded down)*.
+This manouver is applicable against a target who spent his turn trying to run away from a fight (he has to roll *agility + athletics* and score at least one success).\
+A character can attempt a chase, by rolling the smaller dice pool among *agility + athletics* and the dice pool used to attack, with a disadvantage of one die. Upon scoring at least one more success than the fugitive, the character inflicts damage equal to *weapon damage + successes*.\
+Take note that this's a contested action and it might take more than one turn. Also, the runner might win the contested roll and upon accumulating three to five successes (it's easier to lose someone in a crowded alleyway), he finally escapes.
 
 ## <a name="SS-range"></a>Fighting at range
 
@@ -811,7 +817,8 @@ When a character is caught by surprise he can't take contested actions nor trigg
 ## <a name="SS-tips"></a>Tips
 
 * If your target is engaged in close combat with another creature, hitting him with a ranged attack is difficult; consider the target as if he were taking cover.
-* Multiple combatants fighting against one enemy in close quarters might interfere with each other; you can give a disadvantage of one dice per each fighter after the first one.
+* Multiple combatants fighting against one enemy in close quarters might interfere with each other. If the lone fighter is on a bridge or a narrow corridor you might consider giving a disadvantage of one dice per each fighter after the first one.
+* Large weapons need space in order to be used effectively; consider giving a disadvantage when fighting in small or crowded areas.
 
 # <a name="S-equipment"></a>Equipment
 
@@ -839,7 +846,10 @@ Their worth is not easily evaluated. Prices can range from hundreds of times the
 
 Objects infused with magical properties are very rare and expensive. Even more costly is the maintenance needed to keep their enchant working, the more often, the better; the limit is six months, after which the enchant can't be reinforced anymore.
 
-### Equipment damage
+### [Optional rule] Equipment damage
+
+The following rules add a layer of complexity to equipment management: the characters will need to pay extra attention to keep their items in good shape.\
+If you prefer a simpler approach, skip this section. 
 
 #### Armor
 
