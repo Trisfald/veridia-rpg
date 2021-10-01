@@ -13,8 +13,9 @@ Item | Price (deli) | Rarity
 Ale, cheap | 0.1/l | common
 Ale, good | 0.2/l | common
 Meal, lord | 4 | uncommon
-Meal, peasant | 1.5 | common
+Meal, peasant | 1 | common
 Meal, servant | 0.5 | common
+Oil | 1/l | common
 Spices | 5-50/kg | variable
 Wine, cheap | 1/l | common
 Wine, good | 3/l | uncommon
@@ -118,6 +119,8 @@ Gold ring with diamond | 1800 | rare
 Gold ring with ruby | 320 | rare
 Strings of pearls | 250 | uncommon
 Table | 5 | common
+Silver | 0.5/g | common
+Gold | 10/g | uncommon
 
 # <a name="S-services"></a>Prices of services
 
