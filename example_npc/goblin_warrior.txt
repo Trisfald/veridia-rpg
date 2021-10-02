@@ -1,0 +1,6 @@
+(3+3) - Goblin warrior [3/2/2/2]
+---
+Attack: 3+3 +2dmg,devastating
+Dodge: 3+4-1
+Block: 3+1
+Armor: [0]+2 / [0]+0

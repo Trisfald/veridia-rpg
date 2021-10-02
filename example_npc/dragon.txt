@@ -1,0 +1,8 @@
+(5+4) - Dragon [6/5/5/5]
+---
+Attack: 8+4 +2dmg,unharmed
+Attack: 5+2 +0dmg,elemental,aoe,once
+Dodge: 4+4
+Block: 4+0
+Armor: [3]+0 / [0]+0
+Loot: 1d4 * 200
