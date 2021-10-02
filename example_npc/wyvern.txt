@@ -1,0 +1,7 @@
+(3+3) - Wyvern [5/5/5/4]
+---
+Attack: 7+3 +1dmg,unharmed
+Dodge: 3+4
+Block: 3+0
+Armor: [2]+0 / [0]+0
+Loot: 2d4 * 30

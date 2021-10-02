@@ -1,0 +1,8 @@
+(6+5) - Adult dragon [6/6/6/5]
+---
+Attack: 9+5 +2dmg,unharmed
+Attack: 6+3 +0dmg,elemental,aoe,once
+Dodge: 5+5
+Block: 4+0
+Armor: [4]+0 / [0]+0
+Loot: 2d4 * 100

@@ -1,0 +1,6 @@
+(3+2) - Goblin [2/2/2/1]
+---
+Attack: 2+2 +1dmg,balanced
+Dodge: 3+3-1
+Block: 2+1
+Armor: [0]+1 / [0]+0

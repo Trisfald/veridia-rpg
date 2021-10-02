@@ -1,0 +1,7 @@
+(4+3) - Goblin chief [3/2/2/2]
+---
+Attack: 3+3 +2dmg,threatening,versatile
+Attack: 3+3 +0dmg,armor piercing,drawn,two-handed
+Dodge: 3+4-1
+Block: 3+1
+Armor: [0]+3 / [0]+0
