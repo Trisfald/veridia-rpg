@@ -1,0 +1,6 @@
+(3+3) - Sellsword [3/3/3/2]
+---
+Attack: 3+4 +3dmg,balanced
+Dodge: 3+3-2
+Parry: 3+3
+Armor: [0]+3 / [0]+0

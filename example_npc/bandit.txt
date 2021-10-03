@@ -1,0 +1,6 @@
+(3+2) - Bandit [3/2/2/2]
+---
+Attack: 3+2 +2dmg,balanced
+Dodge: 2+3-1
+Parry: 2+1
+Armor: [0]+2 / [0]+0

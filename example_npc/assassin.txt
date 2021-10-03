@@ -1,0 +1,7 @@
+(4+3) - Assassin [3/2/2/2]
+---
+Attack: 3+3+1 x2,+1dmg
+Attack: 4+3 disposable(3),multipurpose
+Dodge: 4+3
+Parry: 3+2 
+Armor: [0]+0 / [0]+0

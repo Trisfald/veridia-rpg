@@ -1,0 +1,6 @@
+(3+2) - Guard [3/3/3/2]
+---
+Attack: 3+2 +2dmg,threatening,versatile
+Dodge: 2+3-1
+Block: 2+2
+Armor: [0]+2 / [0]+0

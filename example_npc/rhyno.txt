@@ -1,0 +1,7 @@
+(2+2) - Rhyno [5/5/5/4]
+---
+Attack: 7+3 +1dmg,unharmed
+Dodge: 2+2
+Block: 2+0
+Armor: [1]+0 / [0]+0
+Loot: 1d4 * 50
