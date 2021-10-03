@@ -1,0 +1,7 @@
+(3+3) - Hunter [3/2/2/2]
+---
+Attack: 3+4 +2dmg,drawn
+Attack: 3+2 +1dmg,nimble
+Dodge: 3+2-1
+Block: 3+2
+Armor: [0]+2 / [0]+0
