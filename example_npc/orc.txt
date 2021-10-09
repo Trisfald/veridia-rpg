@@ -1,0 +1,6 @@
+(2+2) - Orc [4/3/3/3]
+---
+Attack: 4+3 +2dmg,devastating
+Dodge: 2+2-1
+Block: 2+2
+Armor: [0]+2 / [0]+0
