@@ -1,0 +1,6 @@
+(2+3) - Orc berserker [4/4/4/3]
+---
+Attack: 5+4 +4dmg
+Dodge: 3+2-2
+Block: 3+3
+Armor: [0]+3 / [0]+0
