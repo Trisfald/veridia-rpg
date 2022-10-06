@@ -30,6 +30,7 @@ The project is divided in the following parts:
 * [Prices and wages](Prices_and_wages.md): lists the prices of common items and jobs' remuneration.
 * [Travel](Travel.md): rules for long journeys.
 * [Creatures](Creatures.md): descriptions of typical encounters.
+* [Siege](Siege.md): rules about siege warfare.
 
 A few additional resources:
 

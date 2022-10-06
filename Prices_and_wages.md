@@ -108,6 +108,11 @@ Stone gatehouse | 7500 |
 Tower | 70000 |
 Wooden gatehouse | 4000 |
 -------------------------------------- | ----------------- | ---------------
+Ballista | 400 | uncommon
+Battering ram | 150 | common
+Catapult | 500 | uncommon
+Trebuchet | 1000 | rare
+-------------------------------------- | ----------------- | ---------------
 Barrel | 2 | common
 Bed | 8 | common
 Bottle | 3 | common
