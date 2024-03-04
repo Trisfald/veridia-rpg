@@ -1,4 +1,4 @@
-# <a name="main"></a>Creatures
+# Creatures
 
 The world of Veridia is filled with many beings. Whether as allies or adversaries, they will be an integral part of your adventures.
 
@@ -6,17 +6,17 @@ Here is the list of all creatures divided by archetype.
 
 #### Index:
 
-* [Animated objects](#S-aniobjects)
-* [Beasts](#S-beasts)
-* [Creatures of the unknown](#S-creatures_unknown)
-* [Undeads](#S-undeads)
+* [Animated objects](#animated-objects)
+* [Beasts](#beasts)
+* [Creatures of the unknown](#creatures-of-the-unknown)
+* [Undeads](#undeads)
 
 
-* [Appendix A: Creature traits](#S-ctraits)
+* [Appendix A: Creature traits](#appendix-A:-Creature-traits)
 
-# <a name="S-aniobjects"></a>Animated objects
+# Animated objects
 
-* [Animated gloves](#SS-anigloves)
+* [Animated gloves](#animated-gloves)
 * [Animated sword](#SS-anisword)
 * [Bombard](#SS-bombard)
 * [Champion](#SS-champion)
@@ -25,7 +25,7 @@ Here is the list of all creatures divided by archetype.
 * [Strongarm](#SS-strongarm)
 * [Walker](#SS-walker)
 
-## <a name="SS-anigloves"></a>Animated gloves
+## Animated gloves
 
 A flying pair of boxing gloves.\
 Length: 20 cm\
@@ -328,7 +328,7 @@ Weight: 60 kg
 * **Armor (inner)**: 2
 * **Elemental resist (inner)**: 1
 
-# <a name="S-beasts"></a>Beasts
+# Beasts
 
 * [Bear](#SS-bear)
 * [Boar](#SS-boar)
@@ -927,7 +927,7 @@ Weight: 40 kg
 
 Natural weapon
 
-# <a name="S-creatures_unknown"></a>Creatures of the unknown
+# Creatures of the unknown
 
 * [Imp](#SS-imp)
 * [Giant spider](#SS-giant_spider)
@@ -1133,7 +1133,7 @@ Weight: 150 kg
 
 Flying, natural weapon, tail stab
 
-# <a name="S-undeads"></a>Undeads
+# Undeads
 
 * [Drake skeleton](#SS-drake_skeleton)
 * [Ghoul](#SS-ghoul)
@@ -1380,7 +1380,7 @@ Weight: 8 kg
 
 Natural weapon, undead
 
-# <a name="S-ctraits"></a>Appendix A: Creature traits
+# Appendix A: Creature traits
 
 ### Amphibious
 You take no penalties where performing an action underwater.
