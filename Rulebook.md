@@ -825,7 +825,7 @@ When a character is caught by surprise he can't take contested actions nor trigg
 
 See [Appendix D: Weapons table](#appendix-d-weapons-table) and [Appendix E: Defenses table](#appendix-e-defenses-table) to known which kind of equipment is available.
 
-Equipment beyond weapons and armors, together with a list of purchase prices can be found in [Prices and wages](Prices_and_wages).
+Equipment beyond weapons and armors, together with a list of purchase prices can be found in [Prices and wages](Prices_and_wages.md).
 
 ### Objects of inferior quality
 
