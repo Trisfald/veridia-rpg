@@ -20,8 +20,8 @@ Here is the list of all traits divided by categories.
 
 <br/>
 
-* [Appendix A: Traits stacking](#appendix-a:-traits-stacking)
-* [Appendix B: Summons](#appendix-b:-summons)
+* [Appendix A: Traits stacking](#appendix-a-traits-stacking)
+* [Appendix B: Summons](#appendix-b-summons)
 
 # Background traits
 

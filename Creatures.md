@@ -13,7 +13,7 @@ Here is the list of all creatures divided by archetype.
 
 <br/>
 
-* [Appendix A: Creature traits](#appendix-a:-creature-traits)
+* [Appendix A: Creature traits](#appendix-a-creature-traits)
 
 # Animated objects
 
