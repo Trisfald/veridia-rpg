@@ -1,6 +1,6 @@
 # Travel in Veridia
 
-# Distance traveled
+## Distance traveled
 
 Transport | Average daily distance
 --------- |:---------------------:
