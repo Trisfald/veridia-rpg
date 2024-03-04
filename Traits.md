@@ -1,4 +1,4 @@
-# <a name="main"></a>Traits
+# Traits
 
 Traits are an important way to customize your character. Many traits have a list of requisites that must be fulfilled before acquiring it. In addition, there is a cost in experience points to purchase a trait.
 
@@ -8,21 +8,22 @@ Here is the list of all traits divided by categories.
 
 #### Index:
 
-* [Background traits](#S-background)
-* [Assets traits](#S-assets)
-* [Physical traits](#S-physical)
-* [Mental traits](#S-mental)
-* [Social traits](#S-social)
-* [Martial traits](#S-martial)
-* [Magic branches traits](#S-branches)
-* [Knightly ways traits](#S-ways)
-* [Martial arts paths traits](#S-paths)
+* [Background traits](#background-traits)
+* [Assets traits](#assets-traits)
+* [Physical traits](#physical-traits)
+* [Mental traits](#mental-traits)
+* [Social traits](#social-traits)
+* [Martial traits](#martial-traits)
+* [Magic branches traits](#magic-branches-traits)
+* [Knightly ways traits](#knightly-ways-traits)
+* [Martial arts paths traits](#martial-arts-paths-traits)
 
+<br/>
 
-* [Appendix A: Traits stacking](#S-stacking)
-* [Appendix B: Summons](#S-summons)
+* [Appendix A: Traits stacking](#appendix-a:-traits-stacking)
+* [Appendix B: Summons](#appendix-b:-summons)
 
-# <a name="S-background"></a>Background traits
+# Background traits
 
 ### Adventurer
 ##### *Requisites: survival 1*
@@ -220,7 +221,7 @@ As a master of magic you have an official license from the Council to perform yo
 Starting money: 300 deli\
 Starting equipment: clothes, enchanted tunic
 
-# <a name="S-assets"></a>Assets traits
+# Assets traits
 
 ### Lucky find
 ##### *Requisites: -*
@@ -252,7 +253,7 @@ You start with 500 deli less.
 ##### Cost: -15 experience points
 You start with 1000 deli less.
 
-# <a name="S-physical"></a>Physical traits
+# Physical traits
 
 ### Blind
 ##### *Requirements: -*
@@ -313,7 +314,7 @@ All penalties caused by injures are reduced by one.
 One of your sense is badly developed. All rolls in which it's involved have a disadvantage of two dice.\
 This trait can be taken for different senses.
 
-# <a name="S-mental"></a>Mental traits
+# Mental traits
 
 ### Additional language
 ##### *Requirements: intuition 2*
@@ -368,7 +369,7 @@ You can take this trait multiple times, always for a different pool.
 When casting a spell, consider your score of arcana to be one point higher.\
 This trait doesn't provide any benefit once your arcana is greater or equal than six.
 
-# <a name="S-social"></a>Social traits
+# Social traits
 
 ### Ally (minor)
 ##### *Requisites: -*
@@ -464,7 +465,7 @@ This trait can be taken multiple times.
 You have a powerful henchman or a large retinue at your command, in exchange for money or any other benefit.\
 This trait can be taken multiple times.
 
-# <a name="S-martial"></a>Martial traits
+# Martial traits
 
 ### Dual wielding specialist
 ##### *Requisites: melee 4*
@@ -526,16 +527,16 @@ Gain one bonus dice in all attacks and maneuvers done barehanded and in all grap
 Choose a throwing weapon. You gain one dice in all rolls involving such weapon.\
 You can take this trait multiple times for different weapons.
 
-# <a name="S-branches"></a>Magic branches traits
+# Magic branches traits
 
-* [Grey magic traits](#SS-grey)
-* [Chromatic magic traits](#SS-chromatic)
-* [White magic traits](#SS-white)
-* [Silver magic traits](#SS-silver)
-* [Natural magic traits](#SS-natural)
-* [Black magic traits](#SS-black)
+* [Grey magic traits](#grey-magic-traits)
+* [Chromatic magic traits](#chromatic-magic-traits)
+* [White magic traits](#white-magic-traits)
+* [Silver magic traits](#silver-magic-traits)
+* [Natural magic traits](#natural-magic-traits)
+* [Black magic traits](#black-magic-traits)
 
-## <a name="SS-grey"></a>Grey magic traits
+## Grey magic traits
 
 ### Alarm
 ##### *Requirements: grey magic 1*
@@ -761,7 +762,7 @@ Spend one, two or three points of mana and take an action.\
 Roll *intuition + arcana*. You disrupt the magical abilities of a target at a maximum distance of 30 meters. The victim has all his casting rolls at a difficulty equal to your successes.\
 Lasts one turn per mana spent.
 
-## <a name="SS-chromatic"></a>Chromatic magic traits
+## Chromatic magic traits
 
 ### Combustion
 ##### *Requirements: chromatic magic 1*
@@ -944,7 +945,7 @@ Spend one point of mana and take one action per three consecutive turns.\
 Roll *intuition + arcana* and select a target at a maximum distance of 30 meters. The first hit inflicts one point of elemental damage, the second two points and the third three points. Hits can be dodged or blocked.\
 Failing the roll interrupts the spell.
 
-## <a name="SS-white"></a>White magic traits
+## White magic traits
 
 ### Cure affliction
 ##### *Requirements: white magic 1*
@@ -1010,7 +1011,7 @@ Lasts one hour. Taking damage breaks the effect.
 Spend two points of mana and take an action.\
 The spell is similar to heal. In addition, you are able to restore a full health level, once a day per target.
 
-## <a name="SS-silver"></a>Silver magic traits
+## Silver magic traits
 
 ### Holy blaze
 ##### *Requirements: silver magic 1*
@@ -1081,7 +1082,7 @@ Spend two points of mana.\
 Select a willing target and roll *intuition + arcana*. The incantation takes ten minutes. You give the target a number of points of a skill of your choice up to a maximum equal to the successes; the target's resulting skill score can't be higher than yours.\
 Lasts one week.
 
-## <a name="SS-natural"></a>Natural magic traits
+## Natural magic traits
 
 ### Leaves barrage
 ##### *Requirements: natural magic 1*
@@ -1171,7 +1172,7 @@ Successes | Effect
 3+ | can tell the creature to fight in the face of overwhelming odds
 Lasts two hours.
 
-## <a name="SS-black"></a>Black magic traits
+## Black magic traits
 
 ### Steal life
 ##### *Requirements: black magic 1*
@@ -1247,16 +1248,16 @@ You undertake a massive ritual, lasting approximately a full week. In the end, y
 As a half-undead, your daily needs of food and sleep are halved, as well as diseases' effects on your health; on the other hand, your skin becomes pale and magical healing restores half the points it should. You gain one point of inner armor.\
 Every week you must spend one entire day to strengthen the magic that holds your body together. Failure to do so causes the loss of a health level, which can be recovered only by performing again the ritual.
 
-# <a name="S-ways"></a>Knightly ways traits
+# Knightly ways traits
 
-* [Way of the blood traits](#SS-blood)
-* [Way of the mage traits](#SS-mage)
-* [Way of the time traits](#SS-time)
-* [Way of the psychic traits](#SS-psychic)
-* [Way of the sun traits](#SS-sun)
-* [Way of the wilderness traits](#SS-wilderness)
+* [Way of the blood traits](#way-of-the-blood-traits)
+* [Way of the mage traits](#way-of-the-mage-traits)
+* [Way of the time traits](#way-of-the-time-traits)
+* [Way of the psychic traits](#way-of-the-psychic-traits)
+* [Way of the sun traits](#way-of-the-sun-traits)
+* [Way of the wilderness traits](#way-of-the-wilderness-traits)
 
-## <a name="SS-blood"></a>Way of the blood traits
+## Way of the blood traits
 
 ### Sanguis
 ##### *Requisites: way of the blood 1*
@@ -1315,7 +1316,7 @@ Lasts one turn.
 ##### Cost: 5 experience points
 All Sanguis traits need one less point of fervor.
 
-## <a name="SS-mage"></a>Way of the mage traits
+## Way of the mage traits
 
 ### Air shot
 ##### *Requisites: way of the mage 1*
@@ -1449,7 +1450,7 @@ Spend two points of fervor and take an action.\
 A vortex of fire engulfes one target at a maximum distance of six meters. Roll *way of the mage + melee*. You inflict elemental damage equal to the number of successes for one turn plus the number of matches.\
 Damage is not applied immediately, but instead during the target's turn. Each damage application can be dodged or blocked.
 
-## <a name="SS-time"></a>Way of the time traits
+## Way of the time traits
 
 ### Enduring
 ##### *Requisites: way of the time 1*
@@ -1511,7 +1512,7 @@ You bend space-time nullifying one material attack aimed at you or at something 
 Spend three points of fervor and take an instant action before you act in the current turn.\
 All other characters procede normally, as if you didn't activate this ability. You act last. You can't be damaged and you can't interact with anything until the start of your turn. The latter counts as a surprise turn: other characters are taken off guard.
 
-## <a name="SS-psychic"></a>Way of the psychic traits
+## Way of the psychic traits
 
 ### Precognition
 ##### *Requisites: way of the psychic 1*
@@ -1605,7 +1606,7 @@ Spend one point of fervor and take a free action.\
 You can levitate and move freely while airborne. Your flying speed is equal to five times your movement speed.\
 Lasts three turns.
 
-## <a name="SS-sun"></a>Way of the sun traits
+## Way of the sun traits
 
 ### Blinding dawn
 ##### *Requisites: way of the sun 1*
@@ -1669,7 +1670,7 @@ Instantly recover all your lost health points and cancel any harmful effect. The
 ##### Cost: 3 experience points
 Rise of the phoenix activates on death as long as you have the necessary points of fervor.
 
-## <a name="SS-wilderness"></a>Way of the wilderness traits
+## Way of the wilderness traits
 
 ### Carve shield
 ##### *Requirements: way of the wilderness 1, revitalize*
@@ -1738,14 +1739,14 @@ Spend one point of focus and take a free action.\
 You or a target you just touched regenerate one health point per turn.\
 Lasts two turns.
 
-# <a name="S-paths"></a>Martial arts paths traits
+# Martial arts paths traits
 
-* [Common traits](#SS-common)
-* [Feral path traits](#SS-feral)
-* [Devil path traits](#SS-devil)
-* [Myth path traits](#SS-myth)
+* [Common traits](#common-traits)
+* [Feral path traits](#feral-path-traits)
+* [Devil path traits](#devil-path-traits)
+* [Myth path traits](#myth-path-traits)
 
-## <a name="SS-common"></a>Common traits
+## Common traits
 
 ### Flashstep
 ##### *Requirements: any martial arts path 1*
@@ -1771,7 +1772,7 @@ Spend one point of focus and take a free action.\
 All your rolls have an advantage of two dice.\
 Lasts until your current turn ends.
 
-## <a name="SS-feral"></a>Feral path traits
+## Feral path traits
 
 ### King's roar
 ##### *Requirements: feral path 1*
@@ -1810,7 +1811,7 @@ When rolling survival you can use your feral path's level in place of the corres
 Spend one point of focus and take a free action.\
 You overwhelming courage doesn't stop even at death's door. During this turn, ignore the penalties caused by injures.
 
-## <a name="SS-devil"></a>Devil path traits
+## Devil path traits
 
 ### Devil's luck
 ##### *Requirements: devil path 1*
@@ -1849,7 +1850,7 @@ You spit poison up to three meters. Roll *devil path + athletics*. Your target t
 Spending time with someone, you can influence the latter. You can twist his judgment about events and other people, without going too far against the nature of the subject.\
 To be successful, your devil path's level must be equal or greater than the target's integrity; furthermore, you need to spend a significant amount of time with him. The effect lasts until you keep contact with the victim.
 
-## <a name="SS-myth"></a>Myth path traits
+## Myth path traits
 
 ### Fairy spirit
 ##### *Requirements: myth path 1*
@@ -1898,7 +1899,7 @@ Lasts one hour.
 Spend two points of focus.\
 Touch the target for a few minutes. Poisonings and minor illnesses will disappear and his current health level will be healed. Mortal diseases may be cured as well, at the game master's discretion.
 
-# <a name="S-stacking"></a>Appendix A: Traits stacking
+# Appendix A: Traits stacking
 
 Unless explicitly stated a trait doesn't stack with itself; a second activation will replace the current one.
 
@@ -1912,7 +1913,7 @@ Armor bonus, elemental resist bonus, initiative bonus, barriers, advantages and 
 
 > Strength (**2**) + melee (**2**) + sword specialist (**1**) + sanguis (**2**) + combat reactions (1) + situational advantage (**1**) -> total attack dice pool: 8
 
-# <a name="S-summons"></a>Appendix B: Summons
+# Appendix B: Summons
 
 Summoned creatures or objects are faithful replicas of their original pieces. They, however, lack any will of their own, following blindly master's orders to the best of their ability.
 
