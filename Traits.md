@@ -320,6 +320,11 @@ This trait can be taken for different senses.
 ##### Cost: 4 experience points
 You know another language in addition to your native one.
 
+### Expert artillerist
+##### *Requirements: machinery 3*
+##### Cost: 4 experience points
+When operating a siege engine you count as two people in the computation of the crew size.
+
 ### Illiterate
 ##### *Requirements: -*
 ##### Cost: -3 experience points
@@ -1414,7 +1419,8 @@ Roll *way of the mage + melee*. On success you throw a flaming comet at a maximu
 ##### *Requisites: way of the mage 4, fighting of the elements*
 ##### Cost: 3 experience points
 Instead of dealing damage, your melee attacks freeze your opponent. One or two successes will freeze a small area (a hand or a joint), three to four successes a medium area (one limb or two), five successes or more the entire body.\
-Frozen body parts take half a day to heal.
+Frozen body parts take half a day to heal.\
+Each attack that applies a freezing effect consumes one charge.
 
 ### Plasma cutter
 ##### *Requisites: way of the mage 4, fighting of the elements*

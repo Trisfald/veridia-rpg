@@ -39,6 +39,19 @@ At least one crew member must have a sufficient level of *machinery* skill in or
     * Attack crowds: *agility + machinery* casualties, difficulty 10
 
 
+* ## Magi-cannon
+
+  * **Crew size**: 2-4
+  * **Minimum *machinery* to operate**: 3
+  * **Minimum *magitek* to operate**: 4
+  * **Rate of fire**: 10 shots / hour
+  * **Ammo**: equivalent of 50 magi-weapon shots in crystals
+  * **Range**: 400 meters
+  * **Capabilities**:
+    * Breach weak fortification: 5 - *crew size* days
+    * Breach strong fortification: 5 - *crew size* weeks
+
+
 * ## Trebuchet
 
   * **Crew size**: 4-8

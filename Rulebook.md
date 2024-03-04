@@ -1044,19 +1044,28 @@ Throwing dagger | 12 | 0 | disposable, multipurpose
 
 ### Armors
 
-Armor | Physical reduction | Athletics rolls disadvantage
------ |:------------------:|:---------------------------:
-Robes | 0 | 0
-Light armor (leather, gambeson) | 2 | 1
-Medium armor (mail) | 3 | 2
-Heavy armor (brigandine, coat of plates) | 4 | 3
-Plate armor | 5 | 3
+Armor | Physical reduction | Athletics rolls disadvantage | Quirks
+----- |:------------------:|:----------------------------:| -----
+Robes | 0 | 0 |
+Light armor (leather, gambeson) | 2 | 1 |
+Medium armor (mail) | 3 | 2 |
+Heavy armor (brigandine, coat of plates) | 4 | 3 |
+Plate armor | 5 | 3 |
+Magi-suit | 5 | 4 | empowered
 
 ### Other defenses
 
-Object | Elemental reduction | Notes
+Object | Elemental reduction | Quirks
 ------ |:-------------------:| -----
-Boots of celerity | 0 | Grants +1 initiative, needs periodic reinforcement
-Elemental resistant tunic | 1 | Needs periodic reinforcement
-Elemental resistant cloak | 1 | Needs periodic reinforcement
-Shield | - |  Allow blocking of missile attacks, attackers suffer +1 difficulty
+Boots of celerity | 0 | dashing, enhanced
+Elemental resistant cloak | 1 | enhanced
+Elemental resistant tunic | 1 | enhanced
+Shield | - | cover, hindering
+
+### Quirks
+
+* **Cover**: allows blocking of missile attacks
+* **Dashing**: grants +1 to initiative
+* **Empowered**: consume one crystal to gain +1 physical and elemental damage reduction for one round, as a free action
+* **Enhanced**: needs periodic reinforcement to avoid losing all magical properties
+* **Hindering**: attackers suffer +1 difficulty

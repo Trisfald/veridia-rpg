@@ -83,6 +83,7 @@ Wool | 50/yard | common
 Gambeson | 30 | common
 Heavy armor | 1300 | common
 Leather armor | 40 | common
+Magi-suit | 7500 | rare
 Mail | 1000 | common
 Plate armor | 2000 | uncommon
 Shield | 16 | common
@@ -111,6 +112,7 @@ Wooden gatehouse | 4000 |
 Ballista | 400 | uncommon
 Battering ram | 150 | common
 Catapult | 500 | uncommon
+Magi-cannon | 10000 | rare
 Trebuchet | 1000 | rare
 -------------------------------------- | ----------------- | ---------------
 Barrel | 2 | common
