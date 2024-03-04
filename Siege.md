@@ -1,6 +1,6 @@
-# <a name="main"></a>Siege
+# Siege
 
-# <a name="S-engines"></a>Siege engines
+# Siege engines
 
 All siege engines need to be manned by a minimum number of people. Putting a larger crew to work can speed up the rate of fire or lessen the time needed to breach a fortification.
 

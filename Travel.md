@@ -1,6 +1,6 @@
-# <a name="main"></a>Travel in Veridia
+# Travel in Veridia
 
-# <a name="S-items"></a>Distance traveled
+# Distance traveled
 
 Transport | Average daily distance
 --------- |:---------------------:

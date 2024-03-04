@@ -1,12 +1,12 @@
-# <a name="main"></a>Prices and wages in Veridia
+# Prices and wages in Veridia
 
 #### Index:
 
-* [Prices of items](#S-items)
-* [Prices of services](#S-services)
-* [Wages](#S-wages)
+* [Prices of items](#prices-of-items)
+* [Prices of services](#prices-of-services)
+* [Wages](#wages)
 
-# <a name="S-items"></a>Prices of items
+# Prices of items
 
 Item | Price (deli) | Rarity
 ---- |:------------:|:-----:
@@ -129,7 +129,7 @@ Table | 5 | common
 Silver | 0.5/g | common
 Gold | 10/g | uncommon
 
-# <a name="S-services"></a>Prices of services
+# Prices of services
 
 Service | Price (deli)
 ------- |:-----------:
@@ -146,7 +146,7 @@ Rent a building for a year | building value/10
 Ticket to cross the inner sea | 50
 University | 700/year
 
-# <a name="S-wages"></a>Wages
+# Wages
 
 Profession | Wage (deli) | Benefits
 ---------- |:-----------:| --------
