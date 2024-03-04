@@ -1,22 +1,23 @@
-# <a name="main"></a>Veridia Tabletop RPG Rulebook
+# Veridia Tabletop RPG Rulebook
 
 #### Index:
 
-* [Rules overview](#S-rules_overview)
-* [Characters](#S-characters)
-* [Character creation](#S-character_creation)
-* [Combat](#S-combat)
-* [Equipment](#S-equipment)
-* [Managing a campaign](#S-campaign)
+* [Rules overview](#rules-overview)
+* [Characters](#characters)
+* [Character creation](#character-creation)
+* [Combat](#combat)
+* [Equipment](#equipment)
+* [Managing a campaign](#managing-a-campaign)
 
+<br/>
 
-* [Appendix A: Version numbers](#S-version)
-* [Appendix B: Racial bonuses](#S-racial_bonuses)
-* [Appendix C: Experience expenditure table](#S-experience)
-* [Appendix D: Weapons table](#S-weapons)
-* [Appendix E: Defenses table](#S-defenses)
+* [Appendix A: Version numbers](#appendix-a-version-numbers)
+* [Appendix B: Racial bonuses](#appendix-b-racial-bonuses)
+* [Appendix C: Experience expenditure table](#appendix-c-experience-expenditure-table)
+* [Appendix D: Weapons table](#appendix-d-weapons-table)
+* [Appendix E: Defenses table](#appendix-e-defenses-table)
 
-# <a name="S-rules_overview"></a>Rules overview
+# Rules overview
 
 The number one rule is to have fun. There's no single best way to play the game. A combat intense dungeon crawl, player versus player action, a subtle political struggle, everything is possible as long as your group agrees on the campaign's style.
 
@@ -26,10 +27,10 @@ Should a controversial event happen during a session, we strongly advice to try 
 
 Let's now delve into some concrete rules that will help shape your adventures.
 
-* [Rolling the dice](#SS-rolling)
-* [Actions and turns](#SS-actions_turns)
+* [Rolling the dice](#rolling-the-dice)
+* [Actions and turns](#actions-and-turns)
 
-## <a name="SS-rolling"></a>Rolling the dice
+## Rolling the dice
 
 All rolls are made with multiple **d12**.\
 A character rolls a certain amount of dice (the dice pool) and looks for successes and matches.
@@ -76,7 +77,7 @@ An action with +1 difficulty *eats* the success with the lowest rolled number fo
 
 With the game master's approval, in non-heated situations a roll can be avoided; in such cases the number of successes is equal to one fourth of the dice pool (rounded down), but no matches are obtained.
 
-## <a name="SS-actions_turns"></a>Actions and turns
+## Actions and turns
 
 ### Order of initiative
 
@@ -138,19 +139,19 @@ Free actions don't require a dice roll.
 
 Instant actions can be executed at any point in time, even in during another character's turn. There's no limit to the number of instant actions per turn.
 
-# <a name="S-characters"></a>Characters
+# Characters
 
 This section explains how both the playable and nonplayable characters are represented within the game.
 
 Each of the following topics describes a different aspect of the characters.
 
-* [Attributes](#SS-attributes)
-* [Skills](#SS-skills)
-* [Specialties](#SS-specialties)
-* [Traits](#SS-traits)
-* [Assets](#SS-assets)
+* [Attributes](#attributes)
+* [Skills](#skills)
+* [Specialties](#specialties)
+* [Traits](#traits)
+* [Assets](#assets)
 
-## <a name="SS-attributes"></a>Attributes
+## Attributes
 
 Attributes define the physical and mental capabilities of an individual.
 
@@ -164,7 +165,7 @@ For humans, attributes follow a scale going from a minimum of **1** to a maximum
 *    4: great
 *    5: superb
 
-Other races can have different minimum or maximum for certain attributes. See [Racial bonuses](#S-racial_bonuses).
+Other races can have different minimum or maximum for certain attributes. See [Racial bonuses](#appendix-b-racial-bonuses).
 
 #### Fraction attributes
 
@@ -274,7 +275,7 @@ Elemental resist reduces the elemental damage taken by a character.
 
 A barrier acts as bonus health points. When active, each point of damage is inflicted to the barrier, but it's not reduced by neither armor nor elemental resist; if the protection is not sufficient to absorb all damage, the difference will be treated as normal damage.
 
-## <a name="SS-skills"></a>Skills
+## Skills
 
 Skills define the various proficiencies of a character.
 
@@ -497,7 +498,7 @@ If a specific capability of your character can't be expressed by any entry in th
 	* Bargain with someone: *persuasion + trade*
 	* Plan a business: *intuition + trade*
 
-## <a name="SS-specialties"></a>Specialties
+## Specialties
 
 Specialties are advanced disciplines that require specific training.
 Like attributes, specialties can take a value from **1** to **5**.
@@ -594,14 +595,14 @@ Can't be higher than: *perception + 1*
 
 *Deepen the consciousness to revive hopes long lost.*
 
-## <a name="SS-traits"></a>Traits
+## Traits
 
 Traits are the finest way to add flavor to your character. There are more than one hundred in the ruleset and each of them adds something special, in a positive or negative manner.\
 Even more so than for skills, don't hesitate to create new traits to better define a character.
 
 See [Traits](Traits.md) for the list of all traits.
 
-## <a name="SS-assets"></a>Assets
+## Assets
 
 Assets are fundamental to found adventures, journeys or just the normal living expenses. They are composed of three parts: liquidity, income, properties.
 
@@ -617,7 +618,7 @@ The (usually monthly) sum of money produced by the character's revenues.
 
 All equipment currently held or deposited somewhere. Also, all other possessions like houses, companies, animals, etc.
 
-# <a name="S-character_creation"></a>Character creation
+# Character creation
 
 1) #### Create a character concept
 
@@ -628,7 +629,7 @@ Alternatively, you can read the [lore book](Lore-book.pdf) for the videogame tha
 
 1) #### Fill out the racial minimum attributes
 
-The vast majority of the characters will start with one in each attribute. Check your [race bonuses](#S-racial_bonuses) and update the attributes accordingly.
+The vast majority of the characters will start with one in each attribute. Check your [race bonuses](#appendix-b-racial-bonuses) and update the attributes accordingly.
 
 3) #### Spend experience to increase attributes, skills and specialties
 
@@ -642,11 +643,11 @@ Novice | 150
 Journeyman | 250
 Veteran | 350
 
-See the [Experience expenditure table](#S-experience) to known how much does a new point cost.
+See the [Experience expenditure table](#appendix-c-experience-expenditure-table) to known how much does a new point cost.
 
 1) #### Spend experience to acquire background and traits:
 
-If you desire so, add one [background](Traits.md#S-background) and one or more starting [traits](Traits.md) to your character.
+If you desire so, add one [background](Traits.md#background-traits) and one or more starting [traits](Traits.md) to your character.
 
 1) #### Use the starting money to purchase equipment:
 
@@ -656,22 +657,22 @@ The amount of starting money is the sum of:
 
 You can find the full list of purchasable items and their cost in [Prices and wages](Prices_and_wages.md).
 
-# <a name="S-combat"></a>Combat
+# Combat
 
 This section goes in depth about the combat mechanics in Veridia Tabletop RPG.
 
-Before continuing make sure to have read the [Rules overview](#S-rules_overview).
+Before continuing make sure to have read the [Rules overview](#rules-overview).
 
-* [Common actions](#SS-common)
-* [Maneuvers](#SS-maneuvers)
-* [Fighting at range](#SS-range)
-* [Mounted combat](#SS-mounted)
-* [Dual wielding](#SS-dual)
-* [Cover](#SS-cover)
-* [Surprise attacks](#SS-surprise)
-* [Tips](#SS-tips)
+* [Common actions](#common-actions)
+* [Maneuvers](#maneuvers)
+* [Fighting at range](#fighting-at-range)
+* [Mounted combat](#mounted-combat)
+* [Dual wielding](#dual-wielding)
+* [Cover](#cover)
+* [Surprise attacks](#surprise-attacks)
+* [Tips](#tips)
 
-## <a name="SS-common"></a>Common actions
+## Common actions
 
 ### Wait
 
@@ -707,7 +708,7 @@ When attacked in melee by someone with higher initiative, a player must say if h
 > He obtains the following result: 5, 11, 1, 3, 10. In summary, two successes.\
 > The target is wearing mail armor, thus the damage inflicted is: weapon base (2) + successes (2) - armor (3) = 1.
 
-## <a name="SS-maneuvers"></a>Maneuvers
+## Maneuvers
 
 ### Parry, block and dodge
 
@@ -773,11 +774,11 @@ This manouver is applicable against a target who spent his turn trying to run aw
 A character can attempt a chase, by rolling the smaller dice pool among *agility + athletics* and the dice pool used to attack, with a disadvantage of one die (concurrent action). Upon scoring at least one more success than the fugitive, the character inflicts damage equal to *weapon damage + successes*.\
 Take note that this's a contested action and it might take more than one turn. Also, the runner might win the contested roll and upon accumulating three to five successes (it's easier to lose someone in a crowded alleyway), he finally escapes.
 
-## <a name="SS-range"></a>Fighting at range
+## Fighting at range
 
 ### Optimal and maximum range
 
-As you can see in [Appendix D: Weapons table](#S-weapons), each missile weapon has an **optimal range**, in other words the distance at which it can hit a human sized target with good precision.
+As you can see in [Appendix D: Weapons table](#appendix-d-weapons-table), each missile weapon has an **optimal range**, in other words the distance at which it can hit a human sized target with good precision.
 
 It's possible to try hitting a target farther away. For every six meters over the optimal range the attacker has a disadvantage of one dice. The **maximum range** is thus the distance obtained by taking the disadvantage that would leave only one dice in the pool.
 
@@ -787,19 +788,19 @@ Arrows, bolts and other kind of projectiles are needed by missile weapons. Keepi
 
 Regarding magitech weapons, however, it's recommended to accurately manage the amount of crystals used. The reason is that crystals are a resource both expensive and hard to acquire.
 
-## <a name="SS-mounted"></a>Mounted combat
+## Mounted combat
 
 Mounts get scared easily, especially by supernatural effects. In such occasions the rider must roll *agility + animal handling*, failure means getting tossed on the ground.
 
 Actions performed on horseback follow the usual rules with few caveats. For instance, every skill is capped to the character's score of animal handling. Also, keep in mind that a horse has a much higher movement speed than a person, even though the animal is a target on its own. Grappling and performing a *known down* will unseat the rider.
 
-## <a name="SS-dual"></a>Dual wielding
+## Dual wielding
 
 Dual wielding is the practice of fighting with one melee weapon in each arm. Usually, the off-hand holds a dagger or a very small sword.
 
 Parries and exchanges have an advantage of two dice and one dice respectively. Also, on every attack, the character can choose with which weapon he wants to strike.
 
-## <a name="SS-cover"></a>Cover
+## Cover
 
 When a character is taking cover behind a physical object it is much harder to hit him. Use the following table as a reference:
 
@@ -809,20 +810,20 @@ Part of the body in cover | Difficulty to hit
 2/4 | +2
 3/4 | +3
 
-## <a name="SS-surprise"></a>Surprise attacks
+## Surprise attacks
 
 A character is caught off guard when he is ambushed and he fails the perception roll to notice the danger. The attackers are entitled to a bonus round, after which the usual initiative rules are in place.\
 When a character is caught by surprise he can't take contested actions nor trigger exchanges.
 
-## <a name="SS-tips"></a>Tips
+## Tips
 
 * If your target is engaged in close combat with another creature, hitting him with a ranged attack is difficult; consider the target as if he were taking cover.
 * Multiple combatants fighting against one enemy in close quarters might interfere with each other. If the lone fighter is on a bridge or a narrow corridor you might consider giving a disadvantage of one dice per each fighter after the first one.
 * Large weapons need space in order to be used effectively; consider giving a disadvantage when fighting in small or crowded areas.
 
-# <a name="S-equipment"></a>Equipment
+# Equipment
 
-See [Appendix D: Weapons table](#S-weapons) and [Appendix E: Defenses table](#S-defenses) to known which kind of equipment is available.
+See [Appendix D: Weapons table](#appendix-d-weapons-table) and [Appendix E: Defenses table](#appendix-e-defenses-table) to known which kind of equipment is available.
 
 Equipment beyond weapons and armors, together with a list of purchase prices can be found in [Prices and wages](Prices_and_wages).
 
@@ -873,14 +874,14 @@ To patch an armor you must have access to a set of craftsman's tools. You also n
 
 Other kinds of items can get damaged as well. For instance, it's common for weapon to break whenever an attack ends up with a critical failure. Of course, the decision is up to the game master.
 
-# <a name="S-campaign"></a>Managing a campaign
+# Managing a campaign
 
 This section is aimed at game masters. It gives some insights about how to creating and leading an enjoyable campaign.
 
-* [Campaign ideas](#SS-ideas)
-* [Rewarding the players](#SS-rewards)
+* [Campaign ideas](#campaign-ideas)
+* [Rewarding the players](#rewarding-the-players)
 
-## <a name="SS-ideas"></a>Campaign ideas
+## Campaign ideas
 
 There are many possibilities for exciting campaigns in Veridia. In this section we present some ideas that could be useful to both new and veteran groups.
 
@@ -935,7 +936,7 @@ As stated before, another option is to set the campain in the past. Here's some 
     * *Fighting*
     * *Apocalypse*
 
-## <a name="SS-rewards"></a>Rewarding the players
+## Rewarding the players
 
 To give a sense of progression and accomplishment, the players should be rewarded accordingly with their actions.
 
@@ -945,7 +946,7 @@ Monetary rewards are another important aspect. While obtaining them depends heav
 
 Last but not least, keep in mind that some traits can be given as reward as well.
 
-# <a name="S-version"></a>Appendix A: Version numbers
+# Appendix A: Version numbers
 
 Version number is made up by 3 digits. They are updated according to these rules:
 
@@ -953,7 +954,7 @@ Version number is made up by 3 digits. They are updated according to these rules
 * Second digit: minor ruleset revision
 * Third digit: errata
 
-# <a name="S-racial_bonuses"></a>Appendix B: Racial bonuses
+# Appendix B: Racial bonuses
 
 ##### Humans:
 
@@ -975,7 +976,7 @@ Version number is made up by 3 digits. They are updated according to these rules
 * -1 to maximum charisma
 * -1 to maximum intuition
 
-# <a name="S-experience"></a>Appendix C: Experience expenditure table
+# Appendix C: Experience expenditure table
 
 Point type | Cost
 ---------- | ----
@@ -987,7 +988,7 @@ Specialty | 3 x point level
 Knightly way | 3 x resulting sum of all ways levels
 Trait | depends on the trait
 
-# <a name="S-weapons"></a>Appendix D: Weapons table
+# Appendix D: Weapons table
 
 ### Melee weapons
 
@@ -1040,7 +1041,7 @@ Throwing dagger | 12 | 0 | disposable, multipurpose
 * **Two-handed**: requires both hands
 * **Versatile**: requires both hands, but can be used with one albeit with a disadvantage of two dice
 
-# <a name="S-defenses"></a>Appendix E: Defenses table
+# Appendix E: Defenses table
 
 ### Armors
 
