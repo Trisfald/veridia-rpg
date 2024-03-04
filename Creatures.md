@@ -11,19 +11,20 @@ Here is the list of all creatures divided by archetype.
 * [Creatures of the unknown](#creatures-of-the-unknown)
 * [Undeads](#undeads)
 
+<br/>
 
-* [Appendix A: Creature traits](#appendix-A:-Creature-traits)
+* [Appendix A: Creature traits](#appendix-a:-creature-traits)
 
 # Animated objects
 
 * [Animated gloves](#animated-gloves)
-* [Animated sword](#SS-anisword)
-* [Bombard](#SS-bombard)
-* [Champion](#SS-champion)
-* [Hollow paladin](#SS-hollowpala)
-* [Maximizer](#SS-maximizer)
-* [Strongarm](#SS-strongarm)
-* [Walker](#SS-walker)
+* [Animated sword](#animated-sword)
+* [Bombard](#bombard)
+* [Champion](#champion)
+* [Hollow paladin](#hollow-paladin)
+* [Maximizer](#maximizer)
+* [Strongarm](#strongarm)
+* [Walker](#walker)
 
 ## Animated gloves
 
@@ -57,7 +58,7 @@ Weight: 0.4 kg
 
 Flying
 
-## <a name="SS-anisword"></a>Animated sword
+## Animated sword
 
 A flying sword with a keen edge.\
 Length: 100 cm\
@@ -98,7 +99,7 @@ Flying
 
 Sword
 
-## <a name="SS-bombard"></a>Bombard
+## Bombard
 
 An armored vehicle mounting a crossbow.\
 Length: 120 cm\
@@ -140,7 +141,7 @@ Automatic
 
 Chain crossbow
 
-## <a name="SS-champion"></a>Champion
+## Champion
 
 A humanoid clay golem having excellent fighting skills.\
 Height: 240 cm\
@@ -182,7 +183,7 @@ Weight: 175 kg
 
 Javelin (3)
 
-## <a name="SS-hollowpala"></a>Hollow paladin
+## Hollow paladin
 
 An empty suit of armor with a will of its own.\
 Height: 180 cm\
@@ -222,7 +223,7 @@ Weight: 25 kg
 
 Longsword
 
-## <a name="SS-maximizer"></a>Maximizer
+## Maximizer
 
 A prism able to increase the power of spells.\
 Height: 30 cm\
@@ -255,7 +256,7 @@ Weight: 0.5 kg
 
 Dormant, flying, maximizing
 
-## <a name="SS-strongarm"></a>Strongarm
+## Strongarm
 
 A humanoid clay golem who makes physical strength his strong point.\
 Height: 250 cm\
@@ -295,7 +296,7 @@ Weight: 200 kg
 
 Polearm
 
-## <a name="SS-walker"></a>Walker
+## Walker
 
 A four legged box with a large compartment to carry objects (up to 200 kg).\
 Length: 80 cm\
@@ -330,24 +331,24 @@ Weight: 60 kg
 
 # Beasts
 
-* [Bear](#SS-bear)
-* [Boar](#SS-boar)
-* [Brown bear](#SS-brown_bear)
-* [Bull](#SS-bull)
-* [Crocodile](#SS-crocodile)
-* [Dog](#SS-dog)
-* [Gorilla](#SS-gorilla)
-* [Horse](#SS-horse)
-* [Large bird](#SS-large_bird)
-* [Large felid](#SS-large_felid)
-* [Leopard](#SS-leopard)
-* [Raccoon](#SS-raccoon)
-* [Rat](#SS-rat)
-* [Rhinoceros](##SS-rhinoceros)
-* [Viper](#SS-viper)
-* [Wolf](#SS-wolf)
+* [Bear](#bear)
+* [Boar](#boar)
+* [Brown bear](#brown-bear)
+* [Bull](#bull)
+* [Crocodile](#crocodile)
+* [Dog](#dog)
+* [Gorilla](#gorilla)
+* [Horse](#horse)
+* [Large bird](#large-bird)
+* [Large felid](#large-felid)
+* [Leopard](#leopard)
+* [Raccoon](#raccoon)
+* [Rat](#rat)
+* [Rhinoceros](#rhinoceros)
+* [Viper](#viper)
+* [Wolf](#wolf)
 
-## <a name="SS-bear"></a>Bear
+## Bear
 
 A large, strong wild animal.\
 Length: 160 cm\
@@ -384,7 +385,7 @@ Weight: 200 kg
 
 Natural weapon
 
-## <a name="SS-boar"></a>Boar
+## Boar
 
 A wild pig.\
 Length: 150 cm\
@@ -420,7 +421,7 @@ Weight: 90 kg
 
 Natural weapon
 
-## <a name="SS-brown_bear"></a>Brown bear
+## Brown bear
 
 A large species of bear.\
 Length: 210 cm\
@@ -457,7 +458,7 @@ Weight: 400 kg
 
 Natural weapon
 
-## <a name="SS-bull"></a>Bull
+## Bull
 
 A male cow.\
 Length: 250 cm\
@@ -493,7 +494,7 @@ Weight: 700 kg
 
 Natural weapon
 
-## <a name="SS-crocodile"></a>Crocodile
+## Crocodile
 
 Crocodiles are large aquatic reptiles.\
 Length: 400 cm\
@@ -530,7 +531,7 @@ Weight: 400 kg
 
 Amphibious, natural weapon
 
-## <a name="SS-dog"></a>Dog
+## Dog
 
 A domesticated carnivorous mammal.\
 Length: 100 cm\
@@ -567,7 +568,7 @@ Weight: 30 kg
 
 Natural weapon
 
-## <a name="SS-gorilla"></a>Gorilla
+## Gorilla
 
 Gorillas are large ground-dwelling, predominantly herbivorous apes.\
 Height: 160 cm\
@@ -599,7 +600,7 @@ Weight: 170 kg
 * **Intimidation:** 3
 * **Survival:** 5
 
-## <a name="SS-horse"></a>Horse
+## Horse
 
 A large domesticated mammal used for riding and to carry loads.\
 Height: 150 cm\
@@ -631,7 +632,7 @@ Weight: 450 kg
 * **Intimidation:** 1
 * **Survival:** 5
 
-## <a name="SS-large_bird"></a>Large bird
+## Large bird
 
 A rapacious bird soaring the skies.\
 Width: 200 cm\
@@ -666,7 +667,7 @@ Weight: 5 kg
 
 Flying, natural weapon
 
-## <a name="SS-large_felid"></a>Large felid
+## Large felid
 
 A fearsome predator.\
 Length: 200 cm\
@@ -703,7 +704,7 @@ Weight: 160 kg
 
 Natural weapon
 
-## <a name="SS-Leopard"></a>Leopard
+## Leopard
 
 A large solitary cat.\
 Length: 165 cm\
@@ -740,7 +741,7 @@ Weight: 60 kg
 
 Natural weapon
 
-## <a name="SS-raccoon"></a>Raccoon
+## Raccoon
 
 An omnivorous mammal having a greyish-black fur.\
 Length: 55 cm\
@@ -776,7 +777,7 @@ Weight: 8 kg
 
 Natural weapon
 
-## <a name="SS-rat"></a>Rat
+## Rat
 
 Rats are middle-sized, long-tailed rodents.\
 Length: 45 cm\
@@ -812,7 +813,7 @@ Weight: 400 g
 
 Natural weapon
 
-## <a name="SS-rhinoceros"></a>Rhinoceros
+## Rhinoceros
 
 A herbivorous animal known for his massiveness and ill-temper.\
 Length: 400 cm\
@@ -853,7 +854,7 @@ Weight: 2000 kg
 
 Natural weapon
 
-## <a name="SS-viper"></a>Viper
+## Viper
 
 A poisonous snake.\
 Length: 80 cm\
@@ -890,7 +891,7 @@ Weight: 5 kg
 
 Poisonous fangs
 
-## <a name="SS-wolf"></a>Wolf
+## Wolf
 
 A wild carnivorous animal.\
 Length: 150 cm\
@@ -929,13 +930,13 @@ Natural weapon
 
 # Creatures of the unknown
 
-* [Imp](#SS-imp)
-* [Giant spider](#SS-giant_spider)
-* [Kobold](#SS-kobold)
-* [Troll](#SS-troll)
-* [Wyvern](#SS-wyvern)
+* [Imp](#imp)
+* [Giant spider](#giant-spider)
+* [Kobold](#kobold)
+* [Troll](#troll)
+* [Wyvern](#wyvern)
 
-## <a name="SS-imp"></a>Imp
+## Imp
 
 A mischievous small creature with sharp claws.\
 Height: 50 cm\
@@ -971,7 +972,7 @@ Weight: 8 kg
 
 Natural weapon
 
-## <a name="SS-giant_spider"></a>Giant spider
+## Giant spider
 
 An overgrown spider with crystals on its back.\
 Length: 100 cm\
@@ -1012,7 +1013,7 @@ Weight: 40 kg
 
 Numbing poison
 
-## <a name="SS-kobold"></a>Kobold
+## Kobold
 
 Small reptilian humanoids with primitive intelligence and technology.\
 Height: 75 cm\
@@ -1055,7 +1056,7 @@ Weight: 15 kg
 
 Improvised armor, short spear (damage 1, versatile), small sling (damage 0, drawn, two-handed)
 
-## <a name="SS-troll"></a>Troll
+## Troll
 
 Trolls are humanoid carnivores with regenerative abilities.\
 Height: 160 cm\
@@ -1092,7 +1093,7 @@ Weight: 80 kg
 
 Regeneration
 
-## <a name="SS-wyvern"></a>Wyvern
+## Wyvern
 
 A flying bipedal dragon-like creature.\
 Length: 400 cm\
@@ -1135,14 +1136,14 @@ Flying, natural weapon, tail stab
 
 # Undeads
 
-* [Drake skeleton](#SS-drake_skeleton)
-* [Ghoul](#SS-ghoul)
-* [Rat skeleton](#SS-rat_skeleton)
-* [Shadow](#SS-shadow)
-* [Undead warrior](#SS-undead_warrior)
-* [Wolf skeleton](#SS-wolf_skeleton)
+* [Drake skeleton](#drake-skeleton)
+* [Ghoul](#ghoul)
+* [Rat skeleton](#rat-skeleton)
+* [Shadow](#shadow)
+* [Undead warrior](#undead-warrior)
+* [Wolf skeleton](#wolf-skeleton)
 
-## <a name="SS-drake_skeleton"></a>Drake skeleton
+## Drake skeleton
 
 A four legged beast, returned from the otherworld.\
 Length: 500 cm\
@@ -1181,7 +1182,7 @@ Weight: 80 kg
 
 Natural weapon, undead
 
-## <a name="SS-ghoul"></a>Ghoul
+## Ghoul
 
 Once a human, now a rotting undead corpse.\
 Height: 175 cm\
@@ -1214,7 +1215,7 @@ Weight: 60 kg
 
 Undead
 
-## <a name="SS-rat_skeleton"></a>Rat skeleton
+## Rat skeleton
 
 An undead rat of which only the bones remain. Magic is provinding its lifeforce.\
 Length: 45 cm\
@@ -1252,7 +1253,7 @@ Weight: 60 g
 
 Natural weapon, undead
 
-## <a name="SS-shadow"></a>Shadow
+## Shadow
 
 A humanlike figure dressed in black, its face covered by a mask.\
 Height: 150 cm\
@@ -1295,7 +1296,7 @@ Weight: 30 kg
 
 Magic arrow, undead
 
-## <a name="SS-undead_warrior"></a>Undead warrior
+## Undead warrior
 
 A human warrior, but undead.\
 Height: 180 cm\
@@ -1341,7 +1342,7 @@ Undead
 
 Bow, shield, sword
 
-## <a name="SS-wolf_skeleton"></a>Wolf skeleton
+## Wolf skeleton
 
 An undead wolf skeleton. Magic is provinding its lifeforce.\
 Length: 150 cm\
